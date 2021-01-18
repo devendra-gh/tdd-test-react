@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Conditional Fields Component should successfully render 1`] = `
+<div
+  className="marginT30 marginB30"
+>
+  <Component
+    i18n={[MockFunction]}
+    inputGroups={
+      Array [
+        Object {
+          "fields": Array [
+            Object {
+              "accept": Array [
+                "application/pdf",
+              ],
+              "aria-label": "file upload",
+              "conditionalBehaviour": [Function],
+              "elementType": "fileUpload",
+              "help": "test help",
+              "label": "test field",
+              "maxSize": 2000000,
+              "name": "testName",
+            },
+          ],
+          "hasIncrementButton": false,
+          "incrementButtonLabel": "Add Machines",
+          "name": "title.permitLocations",
+          "rootcustomComponent": "MultifieldForm",
+          "stateKey": "permitLocations",
+        },
+      ]
+    }
+  />
+</div>
+`;

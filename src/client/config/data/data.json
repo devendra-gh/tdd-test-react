@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "title": "Food Trading",
+      "icon": "/services/business/ded/licences/images/icons/food-trading.svg",
+      "link": "food-trading"
+    },
+    {
+      "title": "General Trading",
+      "icon": "/services/business/ded/licences/images/icons/general-trading.svg",
+      "link": "general-trading"
+    },
+    {
+      "title": "Food & Beverages",
+      "icon": "/services/business/ded/licences/images/icons/food-and-beverages.svg",
+      "link": "food-and-beverages"
+    },
+    {
+      "title": "Consultancy",
+      "icon": "/services/business/ded/licences/images/icons/consultancy.svg",
+      "link": "consultancy"
+    },
+    {
+      "title": "Contracting",
+      "icon": "/services/business/ded/licences/images/icons/contracting.svg",
+      "link": "contracting"
+    },
+
+    {
+      "title": "Personal Care",
+      "icon": "/services/business/ded/licences/images/icons/personal-care.svg",
+      "link": "personal-care"
+    },
+    {
+      "title": "Sports & Fitness",
+      "icon": "/services/business/ded/licences/images/icons/health-and-fitness.svg",
+      "link": "health-and-fitness"
+    }
+  ]
+}

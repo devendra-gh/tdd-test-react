@@ -1,0 +1,297 @@
+{
+  "journeyIds": {
+    "ids": ["e61b0bbadbab4d6399a0544654aaa596"]
+  },
+  "journeyItemsParams": {
+    "lang": ["en", "ar"],
+    "items": [
+      {
+        "meta": {
+          "propertyName": "usefulLinks",
+          "propertiesToParse": [
+            {
+              "originName": "Link",
+              "parsedNames": ["url"],
+              "parserName": "link",
+              "updatedNames": ["link"]
+            },
+            {
+              "originName": "DisplayName",
+              "parsedNames": ["label"]
+            }
+          ]
+        },
+        "params": {
+          "id": "01FD9C82-6ADB-434B-A5EE-E7A625FDCE1B",
+          "children": true
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "supportLinks",
+          "propertiesToParse": [
+            {
+              "originName": "Link",
+              "parsedNames": ["url"],
+              "parserName": "link",
+              "updatedNames": ["link"]
+            },
+            {
+              "originName": "DisplayName",
+              "parsedNames": ["label"]
+            }
+          ]
+        },
+        "params": {
+          "id": "E88FF92B-8587-4614-82D1-FC3686782C0C",
+          "children": true
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "socialLinks",
+          "propertiesToParse": [
+            {
+              "originName": "Link",
+              "parsedNames": ["url"],
+              "parserName": "link",
+              "updatedNames": ["link"]
+            },
+            {
+              "originName": "DisplayName",
+              "parsedNames": ["label"]
+            }
+          ]
+        },
+        "params": {
+          "id": "C4C4ACD2-5228-4A1D-A228-7EA8B2888540",
+          "children": true
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "rightsLinks",
+          "propertiesToParse": [
+            {
+              "originName": "Link",
+              "parsedNames": ["url"],
+              "parserName": "link",
+              "updatedNames": ["link"]
+            },
+            {
+              "originName": "DisplayName",
+              "parsedNames": ["label"]
+            }
+          ]
+        },
+        "params": {
+          "id": "F504A34E-174A-4B24-91A2-347A81605161",
+          "children": true
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "allRightsReserved",
+          "propertiesToParse": [
+            {
+              "originName": "Text",
+              "parsedNames": ["label"]
+            }
+          ]
+        },
+        "params": {
+          "id": "%7B8A5336F5-6F3C-4EA6-A3C3-5437580217BD%7D",
+          "children": false
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "navigationItems",
+          "propertiesToParse": [
+            {
+              "originName": "Link",
+              "parsedNames": ["url"]
+            },
+            {
+              "originName": "DisplayName",
+              "parsedNames": ["text"]
+            }
+          ]
+        },
+        "params": {
+          "id": "%7B75F37703-73B0-4507-A997-3EBDB7B64E82%7D",
+          "children": true
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "quickMenu",
+          "propertiesToParse": [
+            {
+              "originName": "MenuItem1Href",
+              "parsedNames": ["chatLink"],
+              "parserName": "link"
+            },
+            {
+              "originName": "MenuItem2Href",
+              "parsedNames": ["feedbackLink"],
+              "parserName": "link"
+            },
+            {
+              "originName": "MenuItem4Href",
+              "parsedNames": ["coCreateLink"],
+              "parserName": "link"
+            }
+          ]
+        },
+        "params": {
+          "id": "%7B431EDA73-A49F-4173-A767-31E20F67DB2C%7D",
+          "children": false
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "emergencyNumbers",
+          "propertiesToParse": [
+            {
+              "originName": "Emergency Heading",
+              "parsedNames": ["emergencyHeading"]
+            },
+            {
+              "originName": "Emergency Label",
+              "parsedNames": ["emergencyLabel"]
+            },
+            {
+              "originName": "NumberText1",
+              "parsedNames": ["numberText1"]
+            },
+            {
+              "originName": "NumberText2",
+              "parsedNames": ["numberText2"]
+            },
+            {
+              "originName": "NumberText3",
+              "parsedNames": ["numberText3"]
+            },
+            {
+              "originName": "NumberText4",
+              "parsedNames": ["numberText4"]
+            },
+            {
+              "originName": "NumberText5",
+              "parsedNames": ["numberText5"]
+            },
+            {
+              "originName": "NumberText6",
+              "parsedNames": ["numberText6"]
+            },
+            {
+              "originName": "NumberText7",
+              "parsedNames": ["numberText7"]
+            },
+            {
+              "originName": "NumberText8",
+              "parsedNames": ["numberText8"]
+            },
+            {
+              "originName": "NumberLink1",
+              "parsedNames": ["numberLink1"]
+            },
+            {
+              "originName": "NumberLink2",
+              "parsedNames": ["numberLink2"]
+            },
+            {
+              "originName": "NumberLink3",
+              "parsedNames": ["numberLink3"]
+            },
+            {
+              "originName": "NumberLink4",
+              "parsedNames": ["numberLink4"]
+            },
+            {
+              "originName": "NumberLink5",
+              "parsedNames": ["numberLink5"]
+            },
+            {
+              "originName": "NumberLink6",
+              "parsedNames": ["numberLink6"]
+            },
+            {
+              "originName": "NumberLink7",
+              "parsedNames": ["numberLink7"]
+            },
+            {
+              "originName": "NumberLink8",
+              "parsedNames": ["numberLink8"]
+            }
+          ]
+        },
+        "params": {
+          "id": "763A8719-F500-4622-A0C9-A89CF3E9F5B0",
+          "children": false
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "poweredByLinks",
+          "propertiesToParse": [
+            {
+              "originName": "Text",
+              "parsedNames": ["source"]
+            }
+          ]
+        },
+        "params": {
+          "id": "B6F75C04-A24B-4F9C-BD63-FE2533CDD598",
+          "children": false
+        }
+      },
+      {
+        "meta": {
+          "propertyName": "metaTags",
+          "propertiesToParse": [
+            {
+              "originName": "Journey Heading",
+              "parsedNames": ["title"]
+            },
+            {
+              "originName": "Journey Description",
+              "parsedNames": ["description"]
+            },
+            {
+              "originName": "Link",
+              "parsedNames": ["url"],
+              "parserName": "link"
+            },
+            {
+              "originName": "MetaKeywords",
+              "parsedNames": ["keywords"]
+            },
+            {
+              "originName": "Journey Short Description",
+              "parsedNames": ["short_description"]
+            },
+            {
+              "originName": "MetaDescription",
+              "parsedNames": ["meta_description"]
+            }
+          ]
+        },
+        "params": {
+          "id": "91764B05-B8D1-4F2A-A26B-06502144D3B6",
+          "children": false
+        }
+      }
+    ]
+  },
+  "journeyTranslationsNames": {
+    "names": ["drive-a-car", "drive-a-car-global"]
+  },
+  "subjourneyIds": {
+    "ids": ["4f3b7eee7185484f988ae2d898d666ba"]
+  },
+  "journeyInfoParams": {
+    "lang": ["en", "ar"]
+  }
+}

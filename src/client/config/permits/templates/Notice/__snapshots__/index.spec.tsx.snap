@@ -1,0 +1,1884 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`permits/templates/Notice/index should set Notice Template 1`] = `
+<Fragment>
+  <Container
+    sidebar={
+      <Connect(Sidebar)
+        currentStep=""
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "entityApproval.table.entity1",
+              ],
+              Array [
+                "entityApproval.table.instructions1",
+              ],
+              Array [
+                "entityApproval.table.address",
+              ],
+              Array [
+                "entityApproval.table.entity2",
+              ],
+              Array [
+                "entityApproval.table.instructions1",
+              ],
+              Array [
+                "entityApproval.table.address",
+              ],
+              Array [
+                "entityApproval.table.entity3",
+              ],
+              Array [
+                "entityApproval.table.instructions1",
+              ],
+              Array [
+                "entityApproval.table.address",
+              ],
+              Array [
+                "entityApproval.table.entity4",
+              ],
+              Array [
+                "entityApproval.table.instructions2",
+              ],
+              Array [
+                undefined,
+              ],
+              Array [
+                undefined,
+              ],
+              Array [
+                undefined,
+              ],
+              Array [
+                "test",
+              ],
+              Array [
+                "test",
+              ],
+              Array [
+                "test",
+              ],
+              Array [
+                "test",
+              ],
+              Array [
+                "application.tableHeader.feedback",
+              ],
+              Array [
+                "button.finish",
+              ],
+              Array [
+                "test",
+              ],
+              Array [
+                "test",
+              ],
+              Array [
+                "test",
+              ],
+              Array [
+                true,
+              ],
+              Array [
+                "application.tableHeader.feedback",
+              ],
+              Array [
+                "title.addAttachments",
+              ],
+              Array [
+                "submit",
+              ],
+              Array [
+                "entityApproval.sectionContent",
+              ],
+              Array [
+                "entityApproval.sectionTitle",
+              ],
+              Array [
+                "entityApproval.tableTitle.entity",
+              ],
+              Array [
+                "entityApproval.tableTitle.instructions",
+              ],
+              Array [
+                "entityApproval.tableTitle.Address",
+              ],
+              Array [
+                "next",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+      />
+    }
+  >
+    <Notice
+      buttons={
+        Array [
+          Object {
+            "aria-label": "button-undefined",
+            "label": undefined,
+            "onClick": [Function],
+            "size": "medium",
+            "uiType": "secondary",
+            "withArrow": undefined,
+          },
+          Object {
+            "aria-label": "button-undefined",
+            "label": undefined,
+            "onClick": [Function],
+            "size": "medium",
+            "uiType": "primary",
+            "withArrow": undefined,
+          },
+          Object {
+            "aria-label": "button-undefined",
+            "label": undefined,
+            "onClick": [Function],
+            "size": "medium",
+            "uiType": "secondary",
+            "withArrow": undefined,
+          },
+        ]
+      }
+      content={
+        <div>
+          <h5 />
+          <p />
+        </div>
+      }
+      highlightLoader={null}
+      icon={[MockFunction]}
+      status="custom"
+      tags={
+        Array [
+          Object {
+            "label": undefined,
+            "value": "test",
+          },
+        ]
+      }
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "comments",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "entityApproval.table.entity1",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity2",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity3",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity4",
+            ],
+            Array [
+              "entityApproval.table.instructions2",
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "button.finish",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              true,
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "title.addAttachments",
+            ],
+            Array [
+              "submit",
+            ],
+            Array [
+              "entityApproval.sectionContent",
+            ],
+            Array [
+              "entityApproval.sectionTitle",
+            ],
+            Array [
+              "entityApproval.tableTitle.entity",
+            ],
+            Array [
+              "entityApproval.tableTitle.instructions",
+            ],
+            Array [
+              "entityApproval.tableTitle.Address",
+            ],
+            Array [
+              "next",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "comments": true,
+            "id": "1",
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      style={
+        Object {
+          "height": 50,
+        }
+      }
+    />
+    <withAnalytics(LocalizedComponent)
+      alignIcon="end"
+      analyticsConfig={
+        Object {
+          "eventsFrom": Array [],
+        }
+      }
+      aria-label="button-primary"
+      onClick={[Function]}
+      size="default"
+      type="button"
+      uiType="primary"
+    />
+    <div
+      style={
+        Object {
+          "height": 50,
+        }
+      }
+    />
+    <div>
+      <p>
+         
+        <a
+          href={true}
+          rel="noopener"
+          target="_blank"
+        />
+         
+      </p>
+    </div>
+    <Component />
+    <div
+      className="ui-lib-margin-b_md"
+      id="error-message-div"
+    >
+      <Alert
+        onClose={null}
+        status="error"
+      />
+    </div>
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "comments",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "entityApproval.table.entity1",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity2",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity3",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity4",
+            ],
+            Array [
+              "entityApproval.table.instructions2",
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "button.finish",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              true,
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "title.addAttachments",
+            ],
+            Array [
+              "submit",
+            ],
+            Array [
+              "entityApproval.sectionContent",
+            ],
+            Array [
+              "entityApproval.sectionTitle",
+            ],
+            Array [
+              "entityApproval.tableTitle.entity",
+            ],
+            Array [
+              "entityApproval.tableTitle.instructions",
+            ],
+            Array [
+              "entityApproval.tableTitle.Address",
+            ],
+            Array [
+              "next",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "comments": true,
+            "id": "1",
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      style={
+        Object {
+          "height": 50,
+        }
+      }
+    />
+    <FileUploads
+      colSpan={12}
+      handleChange={[Function]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "entityApproval.table.entity1",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity2",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity3",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity4",
+            ],
+            Array [
+              "entityApproval.table.instructions2",
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "button.finish",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              true,
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "title.addAttachments",
+            ],
+            Array [
+              "submit",
+            ],
+            Array [
+              "entityApproval.sectionContent",
+            ],
+            Array [
+              "entityApproval.sectionTitle",
+            ],
+            Array [
+              "entityApproval.tableTitle.entity",
+            ],
+            Array [
+              "entityApproval.tableTitle.instructions",
+            ],
+            Array [
+              "entityApproval.tableTitle.Address",
+            ],
+            Array [
+              "next",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      inputGroups={
+        Array [
+          Object {
+            "fields": Array [
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "global.returnFilesTitle",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "global.returnFilesTitle",
+                "maxSize": 2000000,
+                "multiple": true,
+                "name": "documents",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+            ],
+            "name": undefined,
+            "stateKey": "returnPage",
+          },
+        ]
+      }
+      name="returnPage"
+      serviceType="test"
+      startShowingErrors={false}
+      values={
+        Object {
+          "returnPage": undefined,
+        }
+      }
+    />
+    <hr
+      style={
+        Object {
+          "marginBottom": 15,
+        }
+      }
+    />
+    <withAnalytics(LocalizedComponent)
+      alignIcon="end"
+      analyticsConfig={
+        Object {
+          "eventsFrom": Array [],
+        }
+      }
+      aria-label="button-primary"
+      onClick={[Function]}
+      size="default"
+      type="button"
+      uiType="primary"
+    />
+    <div
+      style={
+        Object {
+          "height": 50,
+        }
+      }
+    />
+    <hr />
+    <ServiceTemplate
+      description={
+        <div>
+          <p />
+        </div>
+      }
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "entity",
+            "title": undefined,
+          },
+          Object {
+            "align": "end",
+            "id": "instructions",
+            "title": undefined,
+          },
+          Object {
+            "align": "end",
+            "hideFor": Array [
+              "lg",
+              "xl",
+            ],
+            "id": "address",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "entityApproval.table.entity1",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity2",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity3",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity4",
+            ],
+            Array [
+              "entityApproval.table.instructions2",
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "button.finish",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              true,
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "title.addAttachments",
+            ],
+            Array [
+              "submit",
+            ],
+            Array [
+              "entityApproval.sectionContent",
+            ],
+            Array [
+              "entityApproval.sectionTitle",
+            ],
+            Array [
+              "entityApproval.tableTitle.entity",
+            ],
+            Array [
+              "entityApproval.tableTitle.instructions",
+            ],
+            Array [
+              "entityApproval.tableTitle.Address",
+            ],
+            Array [
+              "next",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "address": undefined,
+            "entity": undefined,
+            "id": "1",
+            "instructions": undefined,
+          },
+          Object {
+            "address": undefined,
+            "entity": undefined,
+            "id": "2",
+            "instructions": undefined,
+          },
+          Object {
+            "address": undefined,
+            "entity": undefined,
+            "id": "3",
+            "instructions": undefined,
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "entity",
+            "title": "",
+          },
+          Object {
+            "align": "end",
+            "id": "instructions",
+            "title": "",
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={true}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "entityApproval.table.entity1",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity2",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity3",
+            ],
+            Array [
+              "entityApproval.table.instructions1",
+            ],
+            Array [
+              "entityApproval.table.address",
+            ],
+            Array [
+              "entityApproval.table.entity4",
+            ],
+            Array [
+              "entityApproval.table.instructions2",
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "button.finish",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              true,
+            ],
+            Array [
+              "application.tableHeader.feedback",
+            ],
+            Array [
+              "title.addAttachments",
+            ],
+            Array [
+              "submit",
+            ],
+            Array [
+              "entityApproval.sectionContent",
+            ],
+            Array [
+              "entityApproval.sectionTitle",
+            ],
+            Array [
+              "entityApproval.tableTitle.entity",
+            ],
+            Array [
+              "entityApproval.tableTitle.instructions",
+            ],
+            Array [
+              "entityApproval.tableTitle.Address",
+            ],
+            Array [
+              "next",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "entity": undefined,
+            "id": "1",
+            "instructions": undefined,
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      style={
+        Object {
+          "marginTop": 40,
+        }
+      }
+    />
+    <withAnalytics(LocalizedComponent)
+      alignIcon="end"
+      analyticsConfig={
+        Object {
+          "eventsFrom": Array [],
+        }
+      }
+      aria-label="button-primary"
+      onClick={[Function]}
+      size="default"
+      type="button"
+      uiType="primary"
+    />
+    <div
+      style={
+        Object {
+          "height": 50,
+        }
+      }
+    />
+  </Container>
+</Fragment>
+`;

@@ -1,0 +1,77 @@
+@import '~@tamm/ui-lib-v2-styles/colors.less';
+@import '~@tamm/ui-lib-v2-styles/common';
+
+.ui-lib-form__controls {
+  margin-top: 4rem;
+  padding-top: 4rem !important;
+}
+
+.ui-lib-grid-row {
+  padding: 0 !important;
+}
+
+.all-icon-close {
+  float: right;
+}
+
+.ui-lib-notice__icon {
+  font-size: 48px !important;
+}
+
+.ui-lib-alert {
+  align-items: center !important;
+}
+
+.ui-lib-checkbox__box {
+  margin-top: 0.2rem;
+}
+
+.ui-lib-checkbox__label-text {
+  flex: 1;
+  font-family: @ui-lib-font-family-roboto, @ui-lib-font-family-noto-kufi;
+  color: @ui-lib-body-text-color;
+  letter-spacing: normal;
+  line-height: 2.2rem !important;
+}
+
+.ui-lib-pagination {
+  justify-content: flex-start !important;
+}
+
+.ui-lib-alert__message {
+  font-size: 1.6rem !important;
+}
+
+.ui-lib-select__options-list {
+  -ms-overflow-style: scrollbar;
+}
+
+.btn_margin_lr {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+@media (max-width: 576px) {
+  .btn-wrapper {
+    button {
+      margin-bottom: 2rem;
+      width: 100%;
+    }
+  }
+}
+
+// Align link button to center
+.ui-lib-form {
+  &__controls-buttons {
+    .ui-lib-link {
+      text-align: center;
+    }
+  }
+}
+
+.ui-lib-footer {
+  .loadingOverlay ~ &,
+  .ui-lib-hero + & {
+    margin-top: 50rem;
+  }
+}

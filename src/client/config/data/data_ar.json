@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "title": "تجارة المواد الغذائية",
+      "icon": "/services/business/ded/licences/images/icons/food-trading.svg",
+      "link": "food-trading"
+    },
+    {
+      "title": "أغذية ومشروبات",
+      "icon": "/services/business/ded/licences/images/icons/food-and-beverages.svg",
+      "link": "food-and-beverages"
+    },
+    {
+      "title": "رياضة ولياقة بدنية",
+      "icon": "/services/business/ded/licences/images/icons/health-and-fitness.svg",
+      "link": "health-and-fitness"
+    },
+    {
+      "title": "تجارة عامة",
+      "icon": "/services/business/ded/licences/images/icons/general-trading.svg",
+      "link": "general-trading"
+    },
+    {
+      "title": "عناية شخصية",
+      "icon": "/services/business/ded/licences/images/icons/personal-care.svg",
+      "link": "personal-care"
+    },
+    {
+      "title": "استشارات",
+      "icon": "/services/business/ded/licences/images/icons/consultancy.svg",
+      "link": "consultancy"
+    },
+    {
+      "title": "مقاولات",
+      "icon": "/services/business/ded/licences/images/icons/contracting.svg",
+      "link": "contracting"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Category Question should render the category question successfully 1`] = `
+<Fragment>
+  <LocalizedComponent(FormTemplate)
+    cancelButton={null}
+    cancelLink={null}
+    formData={Object {}}
+    i18n={[Function]}
+    id="category"
+    inputGroups={
+      Array [
+        Object {
+          "fields": Array [],
+        },
+      ]
+    }
+    name={null}
+    submitButton={null}
+  />
+</Fragment>
+`;

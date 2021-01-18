@@ -1,0 +1,52 @@
+@import '~@tamm/ui-lib-v2-styles/colors.less';
+
+.tradenameDisableClass {
+  pointer-events: none;
+  text-decoration: none;
+}
+
+.tradenameDisableClass > a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.action-buttons {
+  button {
+    padding-left: 0;
+  }
+}
+
+.applications-list {
+  &__title {
+    color: @ui-lib-primary-color_old !important;
+  }
+
+  &__search {
+    display: flex;
+    justify-content: space-between;
+
+    .ui-lib-viewport_sm & {
+      flex-direction: column;
+
+      .ui-lib-input-wrapper__content {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+
+  &__table {
+    margin-top: 4rem;
+
+    tbody {
+      tr {
+        td {
+          font-weight: 400 !important;
+
+          button {
+            font-weight: 400 !important;
+          }
+        }
+      }
+    }
+  }
+}

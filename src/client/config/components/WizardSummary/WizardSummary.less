@@ -1,0 +1,31 @@
+.wizard-summary {
+  // position: relative;
+  // ul {
+  //   list-style-type: none;
+  // }
+  &__title {
+    color: #161038; // #dark-blue-grey
+  }
+
+  &__text {
+    margin: 4rem 0;
+  }
+
+  // ul {
+  //   list-style-type: none;
+  // }
+  // li:before {
+  //   content: " - ";
+  // }
+
+  td:nth-child(2n) {
+    font-weight: 900;
+  }
+
+  .ui-lib-table__grid-head-row-cell {
+    .ui-lib-viewport_xl &,
+    .ui-lib-viewport_lg & {
+      min-width: 20rem;
+    }
+  }
+}

@@ -1,0 +1,50 @@
+const PATH_ACCOUNT_UPGRADE = '/account-upgrade';
+const PATH_PAGE_NOT_FOUND = '/not-found';
+const PATH_404_NOT_FOUND = '/404';
+const PATH_LOGIN = '/login';
+
+const PATH_CONTINUE_PROCESS = `/permits/continue-process`;
+
+const PATH_LANDING = '';
+
+const PATH_UNDERTAKING = `/undertaking`;
+
+const PATH_APPLICATION_DETAILS = `/details`;
+const PATH_APPLICATION_SUBMITTED = `/submitted`;
+const PATH_APPLICATION_WAITING = `/waiting`;
+const PATH_APPLICATION_APPROVED = `/approved`;
+const PATH_APPLICATION_REJECTED = `/rejected`;
+const PATH_APPLICATION_RETURNED = `/returned`;
+
+const PATH_PAYMENT_WAITING = `/payment/waiting`;
+const PATH_PAYMENT_SUCCESS = `/payment/success`;
+const PATH_PAYMENT_FAIL = `/payment/fail`;
+const PATH_PAYMENT_SUMMARY = `/payment/summary`;
+
+const PATH_ENTITY_APPROVAL = `/entity/approval`;
+const PATH_ENTITY_APPROVAL_DOCS = `/entity/approval/upload`;
+
+const PATH_ERROR = `/error`;
+
+export {
+  PATH_PAGE_NOT_FOUND,
+  PATH_404_NOT_FOUND,
+  PATH_LOGIN,
+  PATH_CONTINUE_PROCESS,
+  PATH_LANDING,
+  PATH_UNDERTAKING,
+  PATH_APPLICATION_DETAILS,
+  PATH_APPLICATION_SUBMITTED,
+  PATH_APPLICATION_WAITING,
+  PATH_APPLICATION_APPROVED,
+  PATH_APPLICATION_REJECTED,
+  PATH_APPLICATION_RETURNED,
+  PATH_PAYMENT_WAITING,
+  PATH_PAYMENT_FAIL,
+  PATH_PAYMENT_SUCCESS,
+  PATH_PAYMENT_SUMMARY,
+  PATH_ERROR,
+  PATH_ACCOUNT_UPGRADE,
+  PATH_ENTITY_APPROVAL,
+  PATH_ENTITY_APPROVAL_DOCS,
+};

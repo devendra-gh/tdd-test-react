@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaginationActivity should show pagination 1`] = `
+<div>
+  <div
+    class="ui-lib-viewport ui-lib-viewport_lg"
+  >
+    <div
+      class="ui-lib-pagination"
+    >
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page ui-lib-pagination__item_current"
+        role="button"
+        tabindex="0"
+      >
+        1
+      </div>
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page"
+        role="button"
+        tabindex="0"
+      >
+        2
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,91 @@
+{
+  "code": "200",
+  "message": "Success",
+  "status": "200",
+  "traceId": "rest-12245",
+  "result": [
+    {
+      "licenseNo": "CN-2971604",
+      "tradeNameNo": "TN-2971603",
+      "autoCreated": "Yes",
+      "businessNameEng": "TEST COMPANY AS OWNER ECONOMY2 - SOLE PROPRIETORSHIP L.L.C.",
+      "businessNameArb": "تست كومباني أس اونر إكنميء - شركة الشخص الواحد ذ م م",
+      "legalFormEng": "Sole Proprietorship L.L.C.",
+      "legalFormArb": "شركة الشخص الواحد ذ م م",
+      "exceptionTradeName": "No",
+      "officialEmail": "re@gmail.com",
+      "officialMobile": "971555326563",
+      "officialDisclaimer": "No",
+      "issuePlaceEng": "Abu Dhabi",
+      "paidCapital": "From AED 1 million up to AED 5 million",
+      "revenuesSales": "From AED 1 million up to AED 5 million",
+      "quickLicense": " ",
+      "moiEstablishmentNo": " ",
+      "gdrfaEstablishmentNo": " ",
+      "activities": [
+        {
+          "activityCode": "4773402",
+          "activityNameEng": "Retail sale of gifts ",
+          "activityNameArb": "بيع الهدايا - بالتجزئة "
+        },
+        {
+          "activityCode": "4773402",
+          "activityNameEng": "Retail sale of gifts ",
+          "activityNameArb": "بيع الهدايا - بالتجزئة "
+        }
+      ],
+      "partners": [
+        {
+          "idNumber": "",
+          "partnerSharePercentage": "100",
+          "typeEng": "Local Company",
+          "typeArb": "مالك",
+          "representativeTypeEng": "Owner",
+          "representativeTypeArb": "شركة محلية",
+          "pEmail": " ",
+          "bDate": "",
+          "phoneNumber": " ",
+          "nationalityAr": "الإمارات العربية المتحدة",
+          "nationalityEn": "United Arab Emirates",
+          "referenceContactId": "41836111",
+          "contactId": "7113184"
+        },
+        {
+          "idNumber": "784-1985-0524958-5",
+          "partnerSharePercentage": "0",
+          "typeEng": "Individual",
+          "typeArb": "مدير",
+          "representativeTypeEng": "Manager",
+          "representativeTypeArb": "فرد",
+          "pEmail": " ",
+          "bDate": "01/07/1985",
+          "phoneNumber": "+971 555656665",
+          "nationalityAr": "الإمارات العربية المتحدة",
+          "nationalityEn": "United Arab Emirates",
+          "referenceContactId": "41836143",
+          "contactId": "7113185"
+        }
+      ],
+      "adcciNo": "11",
+      "issueDate": "2020-02-19T00:00:00+04:00",
+      "expiryDate": "2022-02-18T00:00:00+04:00",
+      "trackingNo": " ",
+      "tawtheeqNum": "100868",
+      "businessAddress": "جزيرة ابوظبي, شرق 8, 0 : ~, مبنى, السيد سهيل محمد أحمد خلف  و اخرين",
+      "businessLicCity": "أبوظبي",
+      "capital": 0,
+      "countryOriginAr": "United Arab Emirates",
+      "countryOriginAn": "الإمارات العربية المتحدة",
+      "tenancyExpDate": "2019-05-08T00:00:00+04:00",
+      "mohreNo": 0,
+      "gdrfaNo": 0,
+      "isSuspended": "N",
+      "BusinessAddressEN": " ",
+      "CoordinateX": null,
+      "CoordinateY": null,
+      "IssuePlaceAR": "أبو ظبي",
+      "LicenseStatusENG": null,
+      "LicenseStatusARB": null
+    }
+  ]
+}

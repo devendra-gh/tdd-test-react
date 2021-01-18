@@ -1,0 +1,38 @@
+.LicenseName {
+  &__button-group {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2.2rem;
+
+    button {
+      margin-left: 1rem;
+    }
+
+    &-mobile {
+      flex-direction: column;
+
+      button {
+        margin-bottom: 1rem;
+        margin-left: 0;
+      }
+
+      .ui-lib-button_disabled {
+        color: #161038;
+      }
+    }
+  }
+
+  &__loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+// .ui-lib-locale-provider_rtl {
+//   .LicenseName {
+//     &__button-group {
+//       justify-content: flex-start;
+//     }
+//   }
+// }

@@ -1,0 +1,59 @@
+.content-card {
+  padding: 2.4rem;
+  display: flex;
+  flex-direction: column;
+
+  ul {
+    margin-bottom: 0;
+  }
+
+  &__splitter {
+    @padding: 0.6rem;
+
+    position: relative;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &::after {
+      content: '';
+      position: absolute;
+      margin-top: 3rem;
+      height: 1px;
+      width: calc(100% - @padding);
+    }
+  }
+}
+
+.icon-custom {
+  margin-right: 1.2rem;
+  font-size: 3rem;
+
+  &__delete-small {
+    color: #000;
+    font-size: 1.6rem;
+  }
+}
+
+.all-icon-delete::before {
+  content: '\e91d';
+}
+
+.custom-icon-button {
+  background: none;
+  padding: 0;
+  border: none;
+}
+
+.ded-file-upload {
+  margin-top: 4rem;
+
+  &__feedback {
+    margin-bottom: 4rem;
+
+    .ui-lib-table-cell[data-align='start'] {
+      font-weight: normal;
+    }
+  }
+}

@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Result should display Loading component when loading is true 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="container"
+  >
+    <div
+      class="ant-row ui-lib-grid-row ui-lib-grid-row "
+      style="margin-left: -10px; margin-right: -10px;"
+    >
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-16 ui-lib-grid-col-xl-18"
+        style="padding-left: 10px; padding-right: 10px;"
+      >
+        <div
+          class=""
+        >
+          <h3
+            class="syb-title"
+            style="margin-bottom: 2rem; color: rgb(22, 16, 56);"
+          >
+            subTitle
+          </h3>
+          <p
+            style="color: rgb(63, 62, 69);"
+          >
+            desc
+          </p>
+        </div>
+        <div
+          style="height: 40px;"
+        />
+        <div
+          class="spinner-wrapper"
+        >
+          <div
+            class="ui-lib-spinner qa-spinner ui-lib-spinner_logo"
+          />
+        </div>
+        <div
+          style="height: 40px;"
+        />
+        <form
+          class="ui-lib-form qa-form"
+          id=""
+        >
+          
+          <div />
+          <div
+            class="ui-lib-form__controls"
+          >
+            <div
+              class="ui-lib-form__controls-buttons"
+            >
+              <button
+                aria-label="button"
+                class="ui-lib-button qa-button ui-lib-button_secondary ui-lib-button_default ui-lib-button_icon-start ui-lib-button_space-between ui-lib-button_with-icon"
+                type="button"
+              >
+                button.back
+                <svg
+                  class="ui-lib-button__icon ui-lib-icon"
+                  data-key=""
+                  height="24"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <title />
+                  <path
+                    d="M22.548,10.561H5.437a.251.251,0,0,1-.165-.438l8.637-7.6a1.44,1.44,0,0,0-1.9-2.162L.828,10.2a2.4,2.4,0,0,0,0,3.6l11.179,9.837a1.44,1.44,0,0,0,1.9-2.161l-8.637-7.6a.251.251,0,0,1,.165-.438H22.548a1.44,1.44,0,0,0,0-2.879Z"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </form>
+        <div
+          style="height: 40px;"
+        />
+      </div>
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-8 ui-lib-grid-col-xl-6"
+        style="padding-left: 10px; padding-right: 10px;"
+      >
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;

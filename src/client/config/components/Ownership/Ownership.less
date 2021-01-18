@@ -1,0 +1,94 @@
+@import '~@tamm/ui-lib-v2-styles/colors.less';
+
+#modal-container .ui-lib-modal .ui-lib-form__fieldset-header-wrap {
+  margin-bottom: 0 !important;
+}
+
+#modal-container .ui-lib-modal__header {
+  padding: 4rem 4rem 0;
+}
+
+#modal-container .ui-lib-modal__body {
+  padding: 4rem;
+}
+
+.Ownership {
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    // align-items: center;
+
+    &-description {
+      margin-bottom: 0 !important;
+      color: @ui-lib-body-text-color;
+    }
+
+    &-info {
+      margin: 2rem 0;
+      padding-right: 4rem;
+
+      .ui-lib-locale-provider_rtl & {
+        padding: 0 0 0 4rem;
+      }
+
+      .ui-lib-viewport_sm & {
+        padding: 0;
+      }
+
+      ul {
+        padding-left: 0;
+      }
+
+      li {
+        color: @ui-lib-body-text-color;
+        // max-width: 90rem;
+        display: flex;
+        flex-direction: row;
+
+        &::before {
+          padding: 0 1rem 0 0;
+          padding-top: 1rem;
+        }
+      }
+    }
+  }
+
+  &__text {
+    margin-bottom: 0;
+    color: @ui-lib-body-text-color;
+  }
+}
+
+.ui-lib-viewport_sm {
+  .Ownership {
+    &__header {
+      flex-direction: column;
+    }
+  }
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.all-icon-close {
+  color: black;
+}
+
+.btnTextClose {
+  text-transform: capitalize;
+  font-weight: 500;
+  text-decoration: underline;
+  color: @ui-lib-link-color;
+  position: absolute;
+  bottom: 3.4rem;
+  left: 21rem;
+  cursor: pointer;
+
+  .ui-lib-locale-provider_rtl & {
+    left: 0;
+    right: 21rem;
+  }
+}

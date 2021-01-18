@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select Licence template should should show errors when term is not accepted and vaildation has run 1`] = `
+<Checkbox
+  checked={false}
+  onClick={[Function]}
+  validateStatus="error"
+/>
+`;
+
+exports[`Select Licence template should successfully render 1`] = `
+<Checkbox
+  checked={true}
+  onClick={[Function]}
+  validateStatus="success"
+/>
+`;

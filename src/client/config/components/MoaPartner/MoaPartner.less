@@ -1,0 +1,111 @@
+.partner-row {
+  display: flex;
+}
+
+#moa-modal-container {
+  .ui-lib-modal__content {
+    width: 100rem !important;
+    height: 80rem !important;
+    top: -9rem !important;
+
+    @media (max-width: 599px) {
+      width: 100% !important;
+      height: 100rem !important;
+      margin: 16rem 0;
+
+      .modalMoaContent {
+        height: 55rem;
+      }
+
+      h2 {
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 1.4rem;
+
+        strong {
+          font-size: 1.6rem;
+        }
+      }
+    }
+  }
+}
+
+.moa-rejected-notification {
+  margin-bottom: 1rem;
+}
+
+.modalMoaContent {
+  overflow-y: scroll;
+  height: 50rem;
+}
+
+.footer-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+
+  @media (max-width: 599px) {
+    flex-direction: column;
+  }
+
+  button {
+    margin-top: 1rem;
+  }
+}
+
+.footer-buttons-close {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.footer-note {
+  margin-top: 1rem;
+}
+
+.action-buttons {
+  display: flex;
+
+  .ui-lib-button_disabled {
+    color: #b2b2b5;
+  }
+}
+
+.modalClose {
+  display: flex;
+  justify-content: flex-end;
+
+  button {
+    color: transparent;
+    background: transparent;
+    border: none;
+  }
+}
+
+// .ui-lib-modal__overlay {
+//   .ui-lib-viewport_sm {
+//     width: 100% !important;
+//     margin: 16rem 0;
+
+//     .modalMoaContent {
+//       height: 50rem;
+//     }
+
+//     h2 {
+//       font-size: 2rem;
+//     }
+
+//     p {
+//       font-size: 1.4rem;
+
+//       strong {
+//         font-size: 1.6rem;
+//       }
+//     }
+//   }
+
+.tooltip {
+  padding: 1rem;
+}

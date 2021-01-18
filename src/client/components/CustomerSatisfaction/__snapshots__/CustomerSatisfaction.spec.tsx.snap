@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomerSatisfaction should render component 1`] = `
+<CustomerSatisfaction
+  emotion=""
+  i18n={[Function]}
+  onStatusChange={[Function]}
+  onSubmit={[Function]}
+  rates={
+    Array [
+      Object {
+        "label": "customer_satisfaction.easy",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.clear",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.fast",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.perf",
+        "value": 0,
+      },
+    ]
+  }
+  status="idle"
+  withComment={true}
+/>
+`;
+
+exports[`CustomerSatisfaction should render error state 1`] = `
+<CustomerSatisfaction
+  emotion=""
+  i18n={[Function]}
+  onStatusChange={[Function]}
+  onSubmit={[Function]}
+  rates={
+    Array [
+      Object {
+        "label": "customer_satisfaction.easy",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.clear",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.fast",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.perf",
+        "value": 0,
+      },
+    ]
+  }
+  status="error"
+  withComment={true}
+/>
+`;
+
+exports[`CustomerSatisfaction should render success state 1`] = `
+<CustomerSatisfaction
+  emotion=""
+  i18n={[Function]}
+  onStatusChange={[Function]}
+  onSubmit={[Function]}
+  rates={
+    Array [
+      Object {
+        "label": "customer_satisfaction.easy",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.clear",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.fast",
+        "value": 0,
+      },
+      Object {
+        "label": "customer_satisfaction.perf",
+        "value": 0,
+      },
+    ]
+  }
+  status="success"
+  withComment={true}
+/>
+`;

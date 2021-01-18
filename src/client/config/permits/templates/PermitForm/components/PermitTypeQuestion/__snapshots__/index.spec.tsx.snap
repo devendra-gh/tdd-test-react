@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PermitType Question should successfully render the permit type question form 1`] = `
+<LocalizedComponent(FormTemplate)
+  cancelButton={null}
+  cancelLink={null}
+  formData={Object {}}
+  i18n={[Function]}
+  id="permitType"
+  inputGroups={
+    Array [
+      Object {
+        "fields": Array [],
+      },
+    ]
+  }
+  name={null}
+  submitButton={null}
+/>
+`;
+
+exports[`PermitType Question should successfully render the permit type question form without permitType 1`] = `
+<LocalizedComponent(FormTemplate)
+  cancelButton={null}
+  cancelLink={null}
+  formData={Object {}}
+  i18n={[Function]}
+  id="permitType"
+  inputGroups={
+    Array [
+      Object {
+        "fields": Array [],
+      },
+    ]
+  }
+  name={null}
+  submitButton={null}
+/>
+`;

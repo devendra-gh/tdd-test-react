@@ -1,0 +1,339 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormTemplate should render listOfActivities when showTable true - arabic 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="table-container"
+  >
+    <div
+      class="ui-lib-table"
+    >
+      <div
+        class="ui-lib-table__pre"
+      >
+        <div
+          class="ui-lib-table__pre-title ui-lib-heading_h4"
+        >
+          table.header.listOfActivities
+        </div>
+      </div>
+      <div
+        class="ui-lib-table__root"
+        data-round-bottom="true"
+        data-round-top="false"
+      >
+        <table
+          class="ui-lib-table__root-grid"
+        >
+          <thead
+            class="ui-lib-table-header"
+          >
+            <tr
+              class="ui-lib-table-row"
+              data-highlighted="false"
+              data-ui-type="default"
+              data-underlined="false"
+              style="vertical-align: top;"
+            >
+              <td
+                aria-label="checkbox"
+                class="ui-lib-table-cell"
+                data-align="start"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  table.header.activityName
+                </span>
+                
+              </td>
+              <td
+                aria-label="no"
+                class="ui-lib-table-cell"
+                data-align="end"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  table.header.activityNumber
+                </span>
+                
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="ui-lib-table-row"
+              data-highlighted="false"
+              data-ui-type="regular"
+              data-underlined="false"
+              style="vertical-align: top;"
+            >
+              <td
+                aria-label="checkbox"
+                class="ui-lib-table-cell"
+                data-align="start"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="false"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="regular"
+                role="gridcell"
+                tabindex="0"
+              >
+                <label
+                  class="ui-lib-radio ui-lib-radio_default"
+                  for="uil_radio_button.2"
+                >
+                  <input
+                    class="ui-lib-radio__input"
+                    data-index="0"
+                    id="uil_radio_button.2"
+                    name=""
+                    type="radio"
+                    value=""
+                  />
+                  <div
+                    class="ui-lib-radio__box"
+                  >
+                    <div
+                      class="ui-lib-radio__box-dot"
+                    />
+                  </div>
+                  <div
+                    class="ui-lib-radio-label"
+                  >
+                    businessActivity.activityAr
+                  </div>
+                </label>
+                
+              </td>
+              <td
+                aria-label="no"
+                class="ui-lib-table-cell"
+                data-align="end"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="false"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="regular"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  activityCode
+                </span>
+                
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+    </div>
+  </div>
+</div>
+`;
+
+exports[`FormTemplate should render listOfActivities when showTable true - english 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="table-container"
+  >
+    <div
+      class="ui-lib-table"
+    >
+      <div
+        class="ui-lib-table__pre"
+      >
+        <div
+          class="ui-lib-table__pre-title ui-lib-heading_h4"
+        >
+          table.header.listOfActivities
+        </div>
+      </div>
+      <div
+        class="ui-lib-table__root"
+        data-round-bottom="true"
+        data-round-top="false"
+      >
+        <table
+          class="ui-lib-table__root-grid"
+        >
+          <thead
+            class="ui-lib-table-header"
+          >
+            <tr
+              class="ui-lib-table-row"
+              data-highlighted="false"
+              data-ui-type="default"
+              data-underlined="false"
+              style="vertical-align: top;"
+            >
+              <td
+                aria-label="checkbox"
+                class="ui-lib-table-cell"
+                data-align="start"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  table.header.activityName
+                </span>
+                
+              </td>
+              <td
+                aria-label="no"
+                class="ui-lib-table-cell"
+                data-align="end"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  table.header.activityNumber
+                </span>
+                
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="ui-lib-table-row"
+              data-highlighted="false"
+              data-ui-type="regular"
+              data-underlined="false"
+              style="vertical-align: top;"
+            >
+              <td
+                aria-label="checkbox"
+                class="ui-lib-table-cell"
+                data-align="start"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="false"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="regular"
+                role="gridcell"
+                tabindex="0"
+              >
+                <label
+                  class="ui-lib-radio ui-lib-radio_default"
+                  for="uil_radio_button.1"
+                >
+                  <input
+                    class="ui-lib-radio__input"
+                    data-index="0"
+                    id="uil_radio_button.1"
+                    name=""
+                    type="radio"
+                    value=""
+                  />
+                  <div
+                    class="ui-lib-radio__box"
+                  >
+                    <div
+                      class="ui-lib-radio__box-dot"
+                    />
+                  </div>
+                  <div
+                    class="ui-lib-radio-label"
+                  >
+                    businessActivity.activity
+                  </div>
+                </label>
+                
+              </td>
+              <td
+                aria-label="no"
+                class="ui-lib-table-cell"
+                data-align="end"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="false"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="regular"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  activityCode
+                </span>
+                
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`initial render renders page (no user): Page with not user 1`] = `
+"<!doctype html><pre data-role=\\"props-list\\">[
+  {
+    &quot;app&quot;: {
+      &quot;apiUrl&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;url&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;meta&quot;: {
+        &quot;favicon&quot;: &quot;/favicon.ico&quot;
+      },
+      &quot;smartpassData&quot;: null,
+      &quot;cms&quot;: {
+        &quot;journeyInfo&quot;: {},
+        &quot;tammUrl&quot;: &quot;tammUrl&quot;,
+        &quot;tammWorkbenchUrl&quot;: &quot;tammWorkbenchUrl&quot;
+      }
+    },
+    &quot;analyticsConfig&quot;: {},
+    &quot;mode&quot;: [
+      &quot;&quot;
+    ],
+    &quot;scripts&quot;: [
+      &quot;client_script1.js&quot;,
+      &quot;client_script2.js&quot;
+    ],
+    &quot;scriptsHead&quot;: [],
+    &quot;styles&quot;: [
+      {
+        &quot;id&quot;: &quot;css&quot;,
+        &quot;cssText&quot;: &quot;&quot;
+      }
+    ]
+  },
+  {},
+  {}
+]</pre>"
+`;
+
+exports[`initial render renders page (no user, with mode): renders page (no user, with mode) 1`] = `
+"<!doctype html><pre data-role=\\"props-list\\">[
+  {
+    &quot;app&quot;: {
+      &quot;apiUrl&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;url&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;meta&quot;: {
+        &quot;favicon&quot;: &quot;/favicon.ico&quot;
+      },
+      &quot;smartpassData&quot;: null,
+      &quot;cms&quot;: {
+        &quot;journeyInfo&quot;: {},
+        &quot;tammUrl&quot;: &quot;tammUrl&quot;,
+        &quot;tammWorkbenchUrl&quot;: &quot;tammWorkbenchUrl&quot;
+      }
+    },
+    &quot;analyticsConfig&quot;: {},
+    &quot;mode&quot;: [
+      &quot;some&quot;
+    ],
+    &quot;scripts&quot;: [
+      &quot;client_script1.js&quot;,
+      &quot;client_script2.js&quot;
+    ],
+    &quot;scriptsHead&quot;: [],
+    &quot;styles&quot;: [
+      {
+        &quot;id&quot;: &quot;css&quot;,
+        &quot;cssText&quot;: &quot;&quot;
+      }
+    ]
+  },
+  {},
+  {}
+]</pre>"
+`;
+
+exports[`initial render renders page (with user and session): Page with not user 1`] = `
+"<!doctype html><pre data-role=\\"props-list\\">[
+  {
+    &quot;app&quot;: {
+      &quot;apiUrl&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;url&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;meta&quot;: {
+        &quot;favicon&quot;: &quot;/favicon.ico&quot;
+      },
+      &quot;smartpassData&quot;: {
+        &quot;some&quot;: &quot;smart pass info&quot;
+      },
+      &quot;cms&quot;: {
+        &quot;journeyInfo&quot;: {},
+        &quot;tammUrl&quot;: &quot;tammUrl&quot;,
+        &quot;tammWorkbenchUrl&quot;: &quot;tammWorkbenchUrl&quot;
+      }
+    },
+    &quot;analyticsConfig&quot;: {},
+    &quot;mode&quot;: [
+      &quot;&quot;
+    ],
+    &quot;scripts&quot;: [
+      &quot;client_script1.js&quot;,
+      &quot;client_script2.js&quot;
+    ],
+    &quot;scriptsHead&quot;: [],
+    &quot;styles&quot;: [
+      {
+        &quot;id&quot;: &quot;css&quot;,
+        &quot;cssText&quot;: &quot;&quot;
+      }
+    ]
+  },
+  {},
+  {}
+]</pre>"
+`;
+
+exports[`initial render renders page (with user): Page with not user 1`] = `
+"<!doctype html><pre data-role=\\"props-list\\">[
+  {
+    &quot;app&quot;: {
+      &quot;apiUrl&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;url&quot;: &quot;config.api.clientUrlExample&quot;,
+      &quot;meta&quot;: {
+        &quot;favicon&quot;: &quot;/favicon.ico&quot;
+      },
+      &quot;smartpassData&quot;: null,
+      &quot;cms&quot;: {
+        &quot;journeyInfo&quot;: {},
+        &quot;tammUrl&quot;: &quot;tammUrl&quot;,
+        &quot;tammWorkbenchUrl&quot;: &quot;tammWorkbenchUrl&quot;
+      }
+    },
+    &quot;analyticsConfig&quot;: {},
+    &quot;mode&quot;: [
+      &quot;&quot;
+    ],
+    &quot;scripts&quot;: [
+      &quot;client_script1.js&quot;,
+      &quot;client_script2.js&quot;
+    ],
+    &quot;scriptsHead&quot;: [],
+    &quot;styles&quot;: [
+      {
+        &quot;id&quot;: &quot;css&quot;,
+        &quot;cssText&quot;: &quot;&quot;
+      }
+    ]
+  },
+  {},
+  {}
+]</pre>"
+`;

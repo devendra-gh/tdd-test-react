@@ -1,0 +1,297 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Multifield Form should render fields with computed props 1`] = `
+<form
+  name="permitLocations"
+>
+  <p />
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "marginBottom": 40,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "flexGrow": 15,
+        }
+      }
+    >
+      <LocalizedComponent(FormTemplate)
+        cancelButton={null}
+        cancelLink={null}
+        formData={Object {}}
+        i18n={[Function]}
+        id={null}
+        inputGroups={
+          Array [
+            Object {
+              "fields": Array [
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "disabledDate": [Function],
+                  "elementType": "inputNumber",
+                  "key": "period",
+                  "label": undefined,
+                  "max": 12,
+                  "min": 1,
+                  "name": "period",
+                  "onChange": [Function],
+                  "validate": [Function],
+                  "value": undefined,
+                },
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "disabledDate": [Function],
+                  "elementType": "inputNumber",
+                  "key": "quantity",
+                  "label": undefined,
+                  "min": 1,
+                  "name": "quantity",
+                  "onChange": [Function],
+                  "validate": [Function],
+                  "value": undefined,
+                },
+                Object {
+                  "aria-label": "badge",
+                  "bgColor": "#FFF",
+                  "computedProps": Array [
+                    Object {
+                      "compute": [Function],
+                      "dependencies": Array [
+                        "period",
+                        "quantity",
+                      ],
+                      "name": "label",
+                    },
+                  ],
+                  "defaultValue": null,
+                  "disabledDate": [Function],
+                  "elementType": "badge",
+                  "items": Array [
+                    Object {
+                      "id": "Autumn Sale",
+                      "label": undefined,
+                    },
+                  ],
+                  "key": "total",
+                  "label": "Total: 0",
+                  "labelColor": "#161138",
+                  "name": "total",
+                  "onChange": [Function],
+                  "validate": [Function],
+                  "value": undefined,
+                },
+              ],
+              "isExtraField": true,
+              "label": "Permit Location",
+              "name": "",
+              "subFields": Array [
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "elementType": "inputNumber",
+                  "label": "paperAd.fieldPeriod",
+                  "max": 12,
+                  "min": 1,
+                  "name": "period",
+                },
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "elementType": "inputNumber",
+                  "label": "paperAd.fieldQuantity",
+                  "min": 1,
+                  "name": "quantity",
+                },
+                Object {
+                  "aria-label": "badge",
+                  "bgColor": "#FFF",
+                  "computedProps": Array [
+                    Object {
+                      "compute": [Function],
+                      "dependencies": Array [
+                        "period",
+                        "quantity",
+                      ],
+                      "name": "label",
+                    },
+                  ],
+                  "elementType": "badge",
+                  "items": Array [
+                    Object {
+                      "id": "Autumn Sale",
+                      "label": "seasonalPromotions.promotionType.autumnSale",
+                    },
+                  ],
+                  "labelColor": "#161138",
+                  "name": "total",
+                },
+              ],
+              "value": Object {},
+            },
+          ]
+        }
+        name={null}
+        submitButton={null}
+      />
+    </div>
+  </div>
+  <div
+    className="marginT40"
+  />
+</form>
+`;
+
+exports[`Multifield Form should successfully render 1`] = `
+<form
+  name="permitLocations"
+>
+  <p />
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "marginBottom": 40,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "flexGrow": 15,
+        }
+      }
+    >
+      <LocalizedComponent(FormTemplate)
+        cancelButton={null}
+        cancelLink={null}
+        formData={Object {}}
+        i18n={[Function]}
+        id={null}
+        inputGroups={
+          Array [
+            Object {
+              "fields": Array [
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "disabledDate": [Function],
+                  "elementType": "inputNumber",
+                  "key": "period",
+                  "label": undefined,
+                  "max": 12,
+                  "min": 1,
+                  "name": "period",
+                  "onChange": [Function],
+                  "validate": [Function],
+                  "value": undefined,
+                },
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "disabledDate": [Function],
+                  "elementType": "inputNumber",
+                  "key": "quantity",
+                  "label": undefined,
+                  "min": 1,
+                  "name": "quantity",
+                  "onChange": [Function],
+                  "validate": [Function],
+                  "value": undefined,
+                },
+                Object {
+                  "aria-label": "badge",
+                  "bgColor": "#FFF",
+                  "computedProps": Array [
+                    Object {
+                      "compute": [Function],
+                      "dependencies": Array [
+                        "period",
+                        "quantity",
+                      ],
+                      "name": "label",
+                    },
+                  ],
+                  "defaultValue": null,
+                  "disabledDate": [Function],
+                  "elementType": "badge",
+                  "items": Array [
+                    Object {
+                      "id": "Autumn Sale",
+                      "label": undefined,
+                    },
+                  ],
+                  "key": "total",
+                  "label": "Total: 0",
+                  "labelColor": "#161138",
+                  "name": "total",
+                  "onChange": [Function],
+                  "validate": [Function],
+                  "value": undefined,
+                },
+              ],
+              "isExtraField": false,
+              "label": "Permit Location",
+              "name": "",
+              "subFields": Array [
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "elementType": "inputNumber",
+                  "label": "paperAd.fieldPeriod",
+                  "max": 12,
+                  "min": 1,
+                  "name": "period",
+                },
+                Object {
+                  "aria-label": "input number",
+                  "defaultValue": 1,
+                  "elementType": "inputNumber",
+                  "label": "paperAd.fieldQuantity",
+                  "min": 1,
+                  "name": "quantity",
+                },
+                Object {
+                  "aria-label": "badge",
+                  "bgColor": "#FFF",
+                  "computedProps": Array [
+                    Object {
+                      "compute": [Function],
+                      "dependencies": Array [
+                        "period",
+                        "quantity",
+                      ],
+                      "name": "label",
+                    },
+                  ],
+                  "elementType": "badge",
+                  "items": Array [
+                    Object {
+                      "id": "Autumn Sale",
+                      "label": "seasonalPromotions.promotionType.autumnSale",
+                    },
+                  ],
+                  "labelColor": "#161138",
+                  "name": "total",
+                },
+              ],
+              "value": Object {},
+            },
+          ]
+        }
+        name={null}
+        submitButton={null}
+      />
+    </div>
+  </div>
+  <div
+    className="marginT40"
+  />
+</form>
+`;

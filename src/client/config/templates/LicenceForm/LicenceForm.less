@@ -1,0 +1,60 @@
+@import '~@tamm/ui-lib-v2-styles/colors.less';
+
+.LicenceForm {
+  &__form {
+    &-description {
+      color: @ui-lib-body-text-color;
+    }
+  }
+
+  &__button {
+    &-group {
+      display: flex;
+      align-items: center;
+
+      &-mobile {
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+      }
+    }
+
+    &-cancel {
+      text-transform: capitalize;
+      font-weight: 500;
+      text-decoration: underline;
+      color: @ui-lib-link-color;
+      margin-left: 2rem;
+      cursor: pointer;
+
+      &-mobile {
+        margin-left: 0;
+        margin-top: 2rem;
+      }
+    }
+  }
+
+  .ui-lib-button_ghost {
+    text-transform: capitalize;
+    font-weight: 500;
+    text-decoration: underline;
+    color: @ui-lib-link-color;
+  }
+}
+
+.ui-lib-form__fieldset-header-wrap {
+  margin-bottom: 1.5rem !important;
+  line-height: 3.5rem;
+}
+
+.ui-lib-form__fieldset {
+  margin-bottom: 4rem !important;
+}
+
+.ui-lib-modal__content.ui-lib-viewport_lg {
+  width: 80rem !important;
+}
+
+.ui-lib-modal__content.ui-lib-viewport_xl {
+  width: 100rem !important;
+}

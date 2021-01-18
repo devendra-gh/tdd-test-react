@@ -1,0 +1,37 @@
+@import '~@tamm/ui-lib-v2-styles/colors.less';
+
+.ActivityGroup {
+  &__content {
+    &-loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 24rem;
+    }
+
+    &.fullHeight {
+      min-height: 24rem;
+    }
+  }
+
+  &__pagination {
+    border-top: thin solid @ui-lib-tint03-color_old;
+    border-bottom: thin solid @ui-lib-tint03-color_old;
+    padding: 2rem 0;
+  }
+
+  &__selected {
+    &-title {
+      color: @ui-lib-input-color;
+      margin-top: 4rem !important;
+    }
+  }
+
+  &__mt-1 {
+    margin-top: 1rem;
+  }
+
+  &__tab-search {
+    margin: 2rem 0 4rem 0;
+  }
+}

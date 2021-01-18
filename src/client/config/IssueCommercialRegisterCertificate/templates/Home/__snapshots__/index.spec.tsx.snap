@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Template should successfully render the home template 1`] = `
+<Fragment>
+  <Container
+    locale="en"
+    sidebar={
+      <Sidebar
+        currentStep=""
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "service.description.title",
+              ],
+              Array [
+                "service.description.body",
+              ],
+              Array [
+                "service.startLogin.start",
+              ],
+              Array [
+                "service.startLogin.description",
+              ],
+              Array [
+                "service.process.title",
+              ],
+              Array [
+                "service.process.step1.description",
+              ],
+              Array [
+                "selectLicence",
+              ],
+              Array [
+                "service.process.step2.description",
+              ],
+              Array [
+                "makePayment",
+              ],
+              Array [
+                "service.process.step3.description",
+              ],
+              Array [
+                "applicationSummary",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        showRelatedJourneyCard={true}
+        steps={Array []}
+        stepsStatus={Object {}}
+      />
+    }
+  >
+    <div
+      aria-label="Home"
+      role="main"
+    >
+      <JourneyLandingTemplate
+        description=""
+        helpfulBlock={
+          Object {
+            "callValue": true,
+          }
+        }
+        process={
+          Object {
+            "steps": Array [
+              Object {
+                "description": undefined,
+                "label": undefined,
+              },
+              Object {
+                "description": undefined,
+                "label": undefined,
+              },
+              Object {
+                "description": undefined,
+                "label": undefined,
+              },
+            ],
+            "title": undefined,
+          }
+        }
+        startLogin={
+          Object {
+            "buttonLabel": undefined,
+            "description": undefined,
+            "onClick": [MockFunction],
+            "title": "",
+          }
+        }
+        tables={null}
+        title=""
+      />
+    </div>
+    <div
+      style={
+        Object {
+          "height": 200,
+        }
+      }
+    />
+  </Container>
+</Fragment>
+`;

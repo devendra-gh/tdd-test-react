@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`config/services should call function 1`] = `
+Object {
+  "hero": Object {
+    "ar": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+    "en": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+  },
+  "startLogin": Object {
+    "ar": Object {
+      "buttonLabel": "Start AR",
+      "description": "Start a new service AR",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Start AR",
+    },
+    "en": Object {
+      "buttonLabel": "Start",
+      "description": "Start a new service",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Start",
+    },
+  },
+}
+`;
+
+exports[`config/services should call function 2`] = `
+Object {
+  "hero": Object {
+    "ar": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+    "en": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+  },
+  "startLogin": Object {
+    "ar": Object {
+      "buttonLabel": "login AR",
+      "description": "Please login AR",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Please login AR",
+    },
+    "en": Object {
+      "buttonLabel": "login",
+      "description": "Please login",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Please login",
+    },
+  },
+}
+`;
+
+exports[`config/services should call function 3`] = `
+Object {
+  "hero": Object {
+    "ar": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+    "en": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+  },
+  "startLogin": Object {
+    "ar": Object {
+      "buttonLabel": "continue AR",
+      "description": "Continue to existing service AR",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Continue AR",
+    },
+    "en": Object {
+      "buttonLabel": "continue",
+      "description": "Continue to existing service",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Continue",
+    },
+  },
+}
+`;
+
+exports[`config/services should call function 4`] = `
+Object {
+  "hero": Object {
+    "ar": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+    "en": Object {
+      "aspectOfLifeType": "",
+      "backgroundBase64Extension": "",
+      "backgroundImage": "https://journeys-stg.tamm.abudhabi/journeys/journey-template/images/hero.jpg",
+      "breadcrumbs": Array [],
+      "test": 1,
+    },
+  },
+  "startLogin": Object {
+    "ar": Object {
+      "buttonLabel": "login AR",
+      "description": "Please login AR",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Please login AR",
+    },
+    "en": Object {
+      "buttonLabel": "login",
+      "description": "Please login",
+      "onClick": [Function],
+      "stickToTop": true,
+      "title": "Please login",
+    },
+  },
+}
+`;
+
+exports[`config/services should call history and emptyFunc 1`] = `[Function]`;
+
+exports[`config/services should call history and emptyFunc 2`] = `"/login"`;

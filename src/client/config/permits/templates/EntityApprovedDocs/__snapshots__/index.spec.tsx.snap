@@ -1,0 +1,755 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`permits/templates/EntityApprovalDocs should render with all props 1`] = `
+<Fragment>
+  <Container
+    sidebar={
+      <Connect(Sidebar)
+        currentStep="test"
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "entityApproval.sectionContent",
+              ],
+              Array [
+                "entityApproval.sectionTitle",
+              ],
+              Array [
+                "title.addAttachments",
+              ],
+              Array [
+                "title.termsAndConditions",
+              ],
+              Array [
+                "docs.description",
+              ],
+              Array [
+                "global.termsAndConditions",
+              ],
+              Array [
+                "back",
+              ],
+              Array [
+                "next",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+      />
+    }
+  >
+    <ServiceTemplate
+      description={
+        <div>
+          <p />
+        </div>
+      }
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <FileUploads
+      colSpan={4}
+      handleChange={[Function]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "entityApproval.sectionContent",
+            ],
+            Array [
+              "entityApproval.sectionTitle",
+            ],
+            Array [
+              "title.addAttachments",
+            ],
+            Array [
+              "title.termsAndConditions",
+            ],
+            Array [
+              "docs.description",
+            ],
+            Array [
+              "global.termsAndConditions",
+            ],
+            Array [
+              "back",
+            ],
+            Array [
+              "next",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      inputGroups={
+        Array [
+          Object {
+            "fields": Array [
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.adpApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.adpApproval",
+                "maxSize": 2000000,
+                "name": "AdpApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.civilDefenceApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.civilDefenceApproval",
+                "maxSize": 2000000,
+                "name": "CivilDefenseApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.foodControlApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.foodControlApproval",
+                "maxSize": 2000000,
+                "name": "FoodControlApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.locationApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.locationApproval",
+                "maxSize": 2000000,
+                "name": "LocationApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+            ],
+            "name": undefined,
+            "stateKey": "documents",
+          },
+        ]
+      }
+      name="entityApprovalDocs"
+      serviceType="mobile-car-tajer-permit-in-abu-dhabi"
+      startShowingErrors={false}
+      values={
+        Object {
+          "entityApprovalDocs": Object {
+            "test": Object {
+              "name": "dummy.pdf",
+            },
+          },
+        }
+      }
+    />
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      title=""
+      twoColumns={false}
+    >
+      <ServiceTemplate
+        description=""
+        helpfulBlock={null}
+        process={null}
+        startLogin={null}
+        tables={null}
+        title=""
+      />
+      <Checkbox
+        checked={true}
+        name="terms"
+        onChange={[Function]}
+        validateStatus=""
+      />
+      <LocalizedComponent(Form)
+        actions={
+          Object {
+            "permitInfo": Object {
+              "update": [MockFunction],
+            },
+          }
+        }
+        backButton={
+          Object {
+            "alignIcon": "start",
+            "label": undefined,
+            "onClick": [Function],
+            "uiType": "secondary",
+            "withArrow": true,
+          }
+        }
+        cancelLink={null}
+        currentStep="test"
+        handleToggleCheckbox={[MockFunction]}
+        help=""
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "entityApproval.sectionContent",
+              ],
+              Array [
+                "entityApproval.sectionTitle",
+              ],
+              Array [
+                "title.addAttachments",
+              ],
+              Array [
+                "title.termsAndConditions",
+              ],
+              Array [
+                "docs.description",
+              ],
+              Array [
+                "global.termsAndConditions",
+              ],
+              Array [
+                "back",
+              ],
+              Array [
+                "next",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        id=""
+        onBackClick={[MockFunction]}
+        onSubmit={[MockFunction]}
+        permitInfo={
+          Object {
+            "mobile-car-tajer-permit-in-abu-dhabi": Object {
+              "entityApproval": Object {
+                "documents": Object {
+                  "test": Object {
+                    "name": "dummy.pdf",
+                  },
+                },
+                "isApproved": true,
+                "showError": false,
+              },
+            },
+          }
+        }
+        serviceType="mobile-car-tajer-permit-in-abu-dhabi"
+        submitButton={
+          Object {
+            "label": undefined,
+            "onClick": [Function],
+            "withArrow": true,
+          }
+        }
+        validateStatus={null}
+        validation={[MockFunction]}
+      />
+      <div
+        style={
+          Object {
+            "height": 50,
+          }
+        }
+      />
+    </Form.Fieldset>
+  </Container>
+</Fragment>
+`;
+
+exports[`permits/templates/EntityApprovalDocs should render with all props with empty currentStep 1`] = `
+<Fragment>
+  <Container
+    sidebar={
+      <Connect(Sidebar)
+        currentStep=""
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "entityApproval.sectionContent",
+              ],
+              Array [
+                "entityApproval.sectionTitle",
+              ],
+              Array [
+                "title.addAttachments",
+              ],
+              Array [
+                "title.termsAndConditions",
+              ],
+              Array [
+                "docs.description",
+              ],
+              Array [
+                "global.termsAndConditions",
+              ],
+              Array [
+                "back",
+              ],
+              Array [
+                "next",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+      />
+    }
+  >
+    <ServiceTemplate
+      description={
+        <div>
+          <p />
+        </div>
+      }
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <FileUploads
+      colSpan={4}
+      handleChange={[Function]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "entityApproval.sectionContent",
+            ],
+            Array [
+              "entityApproval.sectionTitle",
+            ],
+            Array [
+              "title.addAttachments",
+            ],
+            Array [
+              "title.termsAndConditions",
+            ],
+            Array [
+              "docs.description",
+            ],
+            Array [
+              "global.termsAndConditions",
+            ],
+            Array [
+              "back",
+            ],
+            Array [
+              "next",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      inputGroups={
+        Array [
+          Object {
+            "fields": Array [
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.adpApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.adpApproval",
+                "maxSize": 2000000,
+                "name": "AdpApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.civilDefenceApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.civilDefenceApproval",
+                "maxSize": 2000000,
+                "name": "CivilDefenseApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.foodControlApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.foodControlApproval",
+                "maxSize": 2000000,
+                "name": "FoodControlApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+              Object {
+                "accept": Array [
+                  "application/pdf",
+                ],
+                "aria-label": "docs.locationApproval",
+                "elementType": "fileUpload",
+                "help": "global.uploadHelpPhoto",
+                "label": "docs.locationApproval",
+                "maxSize": 2000000,
+                "name": "LocationApproval",
+                "validationConfig": Object {
+                  "type": "REQUIRES FILE",
+                },
+              },
+            ],
+            "name": undefined,
+            "stateKey": "documents",
+          },
+        ]
+      }
+      name="entityApprovalDocs"
+      serviceType="mobile-car-tajer-permit-in-abu-dhabi"
+      startShowingErrors={false}
+      values={
+        Object {
+          "entityApprovalDocs": Object {
+            "test": Object {
+              "name": "dummy.pdf",
+            },
+          },
+        }
+      }
+    />
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      title=""
+      twoColumns={false}
+    >
+      <ServiceTemplate
+        description=""
+        helpfulBlock={null}
+        process={null}
+        startLogin={null}
+        tables={null}
+        title=""
+      />
+      <Checkbox
+        checked={true}
+        name="terms"
+        onChange={[Function]}
+        validateStatus=""
+      />
+      <LocalizedComponent(Form)
+        actions={
+          Object {
+            "permitInfo": Object {
+              "update": [MockFunction],
+            },
+          }
+        }
+        backButton={
+          Object {
+            "alignIcon": "start",
+            "label": undefined,
+            "onClick": [Function],
+            "uiType": "secondary",
+            "withArrow": true,
+          }
+        }
+        cancelLink={null}
+        currentStep=""
+        handleToggleCheckbox={[MockFunction]}
+        help=""
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "entityApproval.sectionContent",
+              ],
+              Array [
+                "entityApproval.sectionTitle",
+              ],
+              Array [
+                "title.addAttachments",
+              ],
+              Array [
+                "title.termsAndConditions",
+              ],
+              Array [
+                "docs.description",
+              ],
+              Array [
+                "global.termsAndConditions",
+              ],
+              Array [
+                "back",
+              ],
+              Array [
+                "next",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        id=""
+        onBackClick={[MockFunction]}
+        onSubmit={[MockFunction]}
+        permitInfo={
+          Object {
+            "mobile-car-tajer-permit-in-abu-dhabi": Object {
+              "entityApproval": Object {
+                "documents": Object {
+                  "test": Object {
+                    "name": "dummy.pdf",
+                  },
+                },
+                "isApproved": true,
+                "showError": false,
+              },
+            },
+          }
+        }
+        serviceType="mobile-car-tajer-permit-in-abu-dhabi"
+        submitButton={
+          Object {
+            "label": undefined,
+            "onClick": [Function],
+            "withArrow": true,
+          }
+        }
+        validateStatus={null}
+        validation={[MockFunction]}
+      />
+      <div
+        style={
+          Object {
+            "height": 50,
+          }
+        }
+      />
+    </Form.Fieldset>
+  </Container>
+</Fragment>
+`;

@@ -1,0 +1,41 @@
+.summary {
+  margin-bottom: 4rem;
+
+  &__group {
+    margin-top: 4rem;
+
+    // @media (max-width: 410px) {
+    //   display: inline-flex;
+    // }
+
+    @media (max-width: 320px) {
+      display: inline-block;
+
+      .button:not(:first-child) {
+        button {
+          margin-top: 1rem;
+        }
+      }
+    }
+
+    &__table {
+      tbody {
+        td {
+          font-weight: normal !important;
+          color: #3f3e45;
+          vertical-align: middle;
+          white-space: pre-wrap;
+        }
+      }
+    }
+  }
+}
+
+.button {
+  display: inline;
+  margin-right: 2rem;
+
+  @media (max-width: 410px) {
+    margin-right: 1rem;
+  }
+}

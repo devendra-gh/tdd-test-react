@@ -1,0 +1,130 @@
+@import '~@tamm/ui-lib-v2-styles/colors.less';
+@import '~@tamm/ui-lib-v2-styles/common';
+
+.esri-popup__action-text {
+  display: none !important;
+}
+
+.business-directory {
+  &__description {
+    margin-top: 2rem;
+  }
+
+  .map-container {
+    height: 80rem !important;
+  }
+
+  &__map {
+    position: relative;
+  }
+
+  .hover-tray__loading {
+    background: @ui-lib-white;
+    opacity: 0.8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+  }
+
+  &__hover-tray {
+    position: relative;
+    color: @ui-lib-indigo-500;
+    padding: 0;
+    margin-bottom: 2rem;
+    font-size: 2.2rem;
+    font-weight: 900;
+    width: 60%;
+    height: auto;
+    // top: 1rem;
+    // left: 1rem;
+    background: @ui-lib-white;
+
+    .ui-lib-locale-provider_rtl & {
+      left: auto;
+      // right: 1rem;
+    }
+
+    .uil-fits-tablet & {
+      // left: 4.3rem;
+      // top: 4.3rem;
+      width: 51.2rem;
+      height: 18.7rem;
+
+      .ui-lib-locale-provider_rtl & {
+        left: auto;
+        // right: 4.3rem;
+        top: 4.3rem;
+      }
+    }
+
+    .hover-tray__dropdown {
+      width: 100%;
+      margin-top: 2.2rem;
+
+      .uil-button-dropdown__label {
+        overflow: hidden;
+      }
+
+      .ant-dropdown-menu {
+        max-height: 30rem;
+        overflow: scroll;
+      }
+
+      .hover-tray__dropdown__item {
+        font-size: 1.6rem;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+
+        i {
+          margin-right: 1.5rem;
+
+          .ui-lib-locale-provider_rtl & {
+            margin-right: auto;
+            margin-left: 1.5rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+.map-popup-content {
+  display: flex;
+  flex-flow: column;
+  align-content: center;
+}
+
+.activities-list {
+  display: flex;
+  flex-flow: column;
+  margin: 0.5rem 2rem;
+  padding-top: 1rem;
+  border-top: thin solid @ui-lib-gray-300;
+
+  & .ui-lib-label {
+    text-transform: capitalize;
+    font-size: 1.4rem;
+    letter-spacing: normal;
+  }
+
+  & li {
+    &::before {
+      content: '\2022 \0020' !important;
+      font-size: 2.8rem !important;
+      line-height: 0.1rem !important;
+      top: 1rem !important;
+      display: block !important;
+      margin: 0 -1rem;
+    }
+  }
+}

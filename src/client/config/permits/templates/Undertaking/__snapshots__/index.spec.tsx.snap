@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`config/templates/Undetaking should set Undertaking page 1`] = `
+<Container>
+  <LocalizedComponent(Form)
+    backButton={null}
+    cancelLink={null}
+    help=""
+    i18n={[Function]}
+    id=""
+    submitButton={null}
+    validateStatus={null}
+  >
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      title=""
+      twoColumns={false}
+    >
+      <ServiceTemplate
+        description=""
+        helpfulBlock={null}
+        process={null}
+        startLogin={null}
+        tables={null}
+        title=""
+      />
+      <div>
+        <ul
+          className="PermitForm__form-tac-ui"
+        >
+          <li
+            key="0"
+          />
+          <li
+            key="1"
+          />
+          <li
+            key="2"
+          />
+          <li
+            key="3"
+          />
+          <li
+            key="4"
+          />
+          <li
+            key="5"
+          />
+          <li
+            key="6"
+          />
+          <li
+            key="7"
+          />
+          <li
+            key="8"
+          />
+        </ul>
+      </div>
+      <Checkbox
+        checked={false}
+        name="isApproved"
+        onChange={[Function]}
+        validateStatus=""
+      />
+      <div>
+        <withAnalytics(LocalizedComponent)
+          analyticsConfig={
+            Object {
+              "eventsFrom": Array [],
+            }
+          }
+          onClick={[Function]}
+        />
+        <Link
+          appearance="default"
+          className="PermitForm__button-cancel"
+          disabled={false}
+          href="/draws-permit-in-abu-dhabi"
+          onClick={[Function]}
+          tammHref="/"
+          uiType="text"
+        />
+      </div>
+    </Form.Fieldset>
+  </LocalizedComponent(Form)>
+</Container>
+`;

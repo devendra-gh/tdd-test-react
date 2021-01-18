@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`config/templates/Home renders a message 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="container"
+  >
+    <div
+      class="ui-lib-story-container ui-lib-story-container_bg-light-grey"
+    >
+      <div
+        class="ui-lib-journey-landing"
+      >
+        <div
+          class="ui-lib-sticky-element"
+        >
+          <div
+            class="ui-lib-sticky-element__instance ui-lib-start-login_sticky ui-lib-sticky-element__instance_wide"
+          >
+            <div
+              class="ui-lib-start-login"
+            >
+              <div>
+                <div
+                  class="ui-lib-start-login__description"
+                >
+                  getLicenceDetails.subTitle.onStart
+                </div>
+              </div>
+              <button
+                aria-label="button-primary"
+                class="ui-lib-button qa-button ui-lib-button_primary ui-lib-button_default ui-lib-button_icon-end"
+                type="button"
+              >
+                button.welcome
+              </button>
+            </div>
+          </div>
+        </div>
+        <h3
+          class="ui-lib-journey-landing__title"
+        >
+          getLicenceDetails.title.serviceDescription
+        </h3>
+        <p
+          class="ui-lib-journey-landing__description"
+        >
+          getLicenceDetails.subTitle.serviceDescription
+        </p>
+        <div
+          class="ui-lib-journey-landing__helpful-block-container"
+        >
+          <div
+            class="ui-lib-helpful"
+          >
+            <div
+              class="ui-lib-helpful-header"
+            >
+              <div
+                class="ui-lib-helpful-header__message"
+              >
+                Was this information helpful?
+              </div>
+              <button
+                aria-label="user-satisfied-reaction"
+                class="ui-lib-helpful-header__button"
+                data-emotion="happy"
+                data-highlighted="false"
+                data-status="complete"
+                type="button"
+              >
+                <svg
+                  class="ui-lib-helpful-header__button-icon ui-lib-icon"
+                  data-key=""
+                  height="24"
+                  tabindex="0"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <title />
+                  <g>
+                    <path
+                      d="M12,24C5.383,24,0,18.617,0,12C0,5.383,5.383,0,12,0c6.617,0,12,5.383,12,12C24,18.617,18.617,24,12,24z M12,1.5 C6.21,1.5,1.5,6.21,1.5,12c0,5.79,4.71,10.5,10.5,10.5c5.79,0,10.5-4.71,10.5-10.5C22.5,6.21,17.79,1.5,12,1.5z"
+                    />
+                    <circle
+                      cx="8.25"
+                      cy="9"
+                      r="1.125"
+                    />
+                    <circle
+                      cx="15.75"
+                      cy="9"
+                      r="1.125"
+                    />
+                    <path
+                      d="M11.986,19.503c-1.159,0-2.276-0.262-3.319-0.779C7.205,18,6.001,16.795,5.276,15.333 c-0.089-0.179-0.103-0.383-0.039-0.573c0.064-0.19,0.198-0.344,0.378-0.432c0.103-0.051,0.218-0.078,0.333-0.078 c0.287,0,0.545,0.16,0.672,0.417c0.58,1.17,1.543,2.134,2.713,2.713c0.835,0.413,1.727,0.623,2.653,0.623c0,0,0,0,0,0 c2.304,0,4.369-1.279,5.389-3.336c0.127-0.257,0.385-0.417,0.672-0.417c0.115,0,0.229,0.027,0.333,0.078 c0.179,0.089,0.313,0.242,0.378,0.432c0.064,0.19,0.05,0.393-0.039,0.573C17.445,17.906,14.865,19.503,11.986,19.503z"
+                    />
+                  </g>
+                </svg>
+              </button>
+              <button
+                aria-label="user-satisfied-reaction"
+                class="ui-lib-helpful-header__button"
+                data-emotion="sad"
+                data-highlighted="false"
+                data-status="pending"
+                type="button"
+              >
+                <svg
+                  class="ui-lib-helpful-header__button-icon ui-lib-icon"
+                  data-key=""
+                  height="24"
+                  tabindex="0"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <title />
+                  <g>
+                    <path
+                      d="M12,24C5.383,24,0,18.617,0,12C0,5.383,5.383,0,12,0c6.617,0,12,5.383,12,12C24,18.617,18.617,24,12,24z M12,1.5 C6.21,1.5,1.5,6.21,1.5,12c0,5.79,4.71,10.5,10.5,10.5c5.79,0,10.5-4.71,10.5-10.5C22.5,6.21,17.79,1.5,12,1.5z"
+                    />
+                    <path
+                      d="M18.048,18.75c-0.287,0-0.544-0.16-0.672-0.417c-1.02-2.058-3.085-3.337-5.389-3.337c-0.926,0-1.819,0.21-2.654,0.623 c-1.17,0.58-2.133,1.543-2.713,2.713C6.493,18.59,6.235,18.75,5.948,18.75c-0.115,0-0.23-0.027-0.333-0.078 c-0.179-0.088-0.313-0.242-0.377-0.432c-0.064-0.19-0.05-0.393,0.039-0.573C6.001,16.205,7.205,15,8.667,14.276 c1.044-0.517,2.16-0.78,3.319-0.78c2.879,0,5.459,1.598,6.734,4.171c0.089,0.179,0.103,0.383,0.039,0.573 c-0.064,0.19-0.198,0.344-0.378,0.432C18.278,18.723,18.163,18.75,18.048,18.75L18.048,18.75z"
+                    />
+                    <circle
+                      cx="8.25"
+                      cy="9"
+                      r="1.125"
+                    />
+                    <circle
+                      cx="15.75"
+                      cy="9"
+                      r="1.125"
+                    />
+                  </g>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      style="height: 200px;"
+    />
+  </div>
+</div>
+`;
+
+exports[`config/templates/Home renders loggedIn 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="container"
+  >
+    <div
+      class="ui-lib-story-container ui-lib-story-container_bg-light-grey"
+    >
+      <div
+        class="ui-lib-journey-landing"
+      >
+        <div
+          class="ui-lib-sticky-element"
+        >
+          <div
+            class="ui-lib-sticky-element__instance ui-lib-start-login_sticky ui-lib-sticky-element__instance_wide"
+          >
+            <div
+              class="ui-lib-start-login"
+            >
+              <div>
+                <div
+                  class="ui-lib-start-login__description"
+                >
+                  getLicenceDetails.subTitle.onStart
+                </div>
+              </div>
+              <button
+                aria-label="button-primary"
+                class="ui-lib-button qa-button ui-lib-button_primary ui-lib-button_default ui-lib-button_icon-end"
+                type="button"
+              >
+                button.welcome
+              </button>
+            </div>
+          </div>
+        </div>
+        <h3
+          class="ui-lib-journey-landing__title"
+        >
+          getLicenceDetails.title.serviceDescription
+        </h3>
+        <p
+          class="ui-lib-journey-landing__description"
+        >
+          getLicenceDetails.subTitle.serviceDescription
+        </p>
+        <div
+          class="ui-lib-journey-landing__helpful-block-container"
+        >
+          <div
+            class="ui-lib-helpful"
+          >
+            <div
+              class="ui-lib-helpful-header"
+            >
+              <div
+                class="ui-lib-helpful-header__message"
+              >
+                Was this information helpful?
+              </div>
+              <button
+                aria-label="user-satisfied-reaction"
+                class="ui-lib-helpful-header__button"
+                data-emotion="happy"
+                data-highlighted="false"
+                data-status="complete"
+                type="button"
+              >
+                <svg
+                  class="ui-lib-helpful-header__button-icon ui-lib-icon"
+                  data-key=""
+                  height="24"
+                  tabindex="0"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <title />
+                  <g>
+                    <path
+                      d="M12,24C5.383,24,0,18.617,0,12C0,5.383,5.383,0,12,0c6.617,0,12,5.383,12,12C24,18.617,18.617,24,12,24z M12,1.5 C6.21,1.5,1.5,6.21,1.5,12c0,5.79,4.71,10.5,10.5,10.5c5.79,0,10.5-4.71,10.5-10.5C22.5,6.21,17.79,1.5,12,1.5z"
+                    />
+                    <circle
+                      cx="8.25"
+                      cy="9"
+                      r="1.125"
+                    />
+                    <circle
+                      cx="15.75"
+                      cy="9"
+                      r="1.125"
+                    />
+                    <path
+                      d="M11.986,19.503c-1.159,0-2.276-0.262-3.319-0.779C7.205,18,6.001,16.795,5.276,15.333 c-0.089-0.179-0.103-0.383-0.039-0.573c0.064-0.19,0.198-0.344,0.378-0.432c0.103-0.051,0.218-0.078,0.333-0.078 c0.287,0,0.545,0.16,0.672,0.417c0.58,1.17,1.543,2.134,2.713,2.713c0.835,0.413,1.727,0.623,2.653,0.623c0,0,0,0,0,0 c2.304,0,4.369-1.279,5.389-3.336c0.127-0.257,0.385-0.417,0.672-0.417c0.115,0,0.229,0.027,0.333,0.078 c0.179,0.089,0.313,0.242,0.378,0.432c0.064,0.19,0.05,0.393-0.039,0.573C17.445,17.906,14.865,19.503,11.986,19.503z"
+                    />
+                  </g>
+                </svg>
+              </button>
+              <button
+                aria-label="user-satisfied-reaction"
+                class="ui-lib-helpful-header__button"
+                data-emotion="sad"
+                data-highlighted="false"
+                data-status="pending"
+                type="button"
+              >
+                <svg
+                  class="ui-lib-helpful-header__button-icon ui-lib-icon"
+                  data-key=""
+                  height="24"
+                  tabindex="0"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <title />
+                  <g>
+                    <path
+                      d="M12,24C5.383,24,0,18.617,0,12C0,5.383,5.383,0,12,0c6.617,0,12,5.383,12,12C24,18.617,18.617,24,12,24z M12,1.5 C6.21,1.5,1.5,6.21,1.5,12c0,5.79,4.71,10.5,10.5,10.5c5.79,0,10.5-4.71,10.5-10.5C22.5,6.21,17.79,1.5,12,1.5z"
+                    />
+                    <path
+                      d="M18.048,18.75c-0.287,0-0.544-0.16-0.672-0.417c-1.02-2.058-3.085-3.337-5.389-3.337c-0.926,0-1.819,0.21-2.654,0.623 c-1.17,0.58-2.133,1.543-2.713,2.713C6.493,18.59,6.235,18.75,5.948,18.75c-0.115,0-0.23-0.027-0.333-0.078 c-0.179-0.088-0.313-0.242-0.377-0.432c-0.064-0.19-0.05-0.393,0.039-0.573C6.001,16.205,7.205,15,8.667,14.276 c1.044-0.517,2.16-0.78,3.319-0.78c2.879,0,5.459,1.598,6.734,4.171c0.089,0.179,0.103,0.383,0.039,0.573 c-0.064,0.19-0.198,0.344-0.378,0.432C18.278,18.723,18.163,18.75,18.048,18.75L18.048,18.75z"
+                    />
+                    <circle
+                      cx="8.25"
+                      cy="9"
+                      r="1.125"
+                    />
+                    <circle
+                      cx="15.75"
+                      cy="9"
+                      r="1.125"
+                    />
+                  </g>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      style="height: 200px;"
+    />
+  </div>
+</div>
+`;

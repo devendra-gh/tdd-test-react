@@ -1,0 +1,15 @@
+.investor-form {
+  padding-bottom: 4rem;
+
+  .ui-lib-file-upload {
+    max-width: unset !important; // override style from common override file
+    &__preview {
+      // TODO: need to remove once override file update
+      margin-bottom: 0; // dls multiple file upload fix
+    }
+
+    &__help {
+      width: auto !important;
+    }
+  }
+}

@@ -1,0 +1,263 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Permit Type form should successfully render getfiles 1`] = `
+<div
+  className="investor-form"
+>
+  <LocalizedComponent(Form)
+    backButton={null}
+    cancelLink={null}
+    help=""
+    i18n={[Function]}
+    id="documents"
+    name="documents"
+    submitButton={null}
+    validateStatus={null}
+  >
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      key="undefined.undefined"
+      title=""
+      twoColumns={false}
+    >
+      <FileUpload
+        accept={
+          Array [
+            "application/pdf",
+          ]
+        }
+        disabled={false}
+        elementType="input"
+        files={
+          Array [
+            Object {
+              "documentPath": "",
+              "file": Object {
+                "documentPath": "",
+                "lastModified": "",
+                "lastModifiedDate": "",
+                "loading": false,
+                "name": "test",
+                "size": "",
+                "type": "custom",
+                "value": "dummy",
+              },
+              "lastModified": "",
+              "lastModifiedDate": "",
+              "loading": false,
+              "name": "test",
+              "size": "",
+              "status": "success",
+              "type": "custom",
+              "uploaded": "",
+              "value": "dummy",
+            },
+          ]
+        }
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "test",
+              ],
+              Array [
+                undefined,
+              ],
+              Array [
+                undefined,
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        maxSize={4194304}
+        multiple={false}
+        name="test"
+        onChange={[Function]}
+        onRemove={[Function]}
+        validateStatus=""
+      />
+    </Form.Fieldset>
+  </LocalizedComponent(Form)>
+</div>
+`;
+
+exports[`Permit Type form should successfully render when all else statement 1`] = `
+<div
+  className="investor-form"
+>
+  <LocalizedComponent(Form)
+    backButton={null}
+    cancelLink={null}
+    help=""
+    i18n={[Function]}
+    id="documents"
+    name="documents"
+    submitButton={null}
+    validateStatus={null}
+  >
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      key="undefined.undefined"
+      title=""
+      twoColumns={false}
+    >
+      <FileUpload
+        accept={
+          Array [
+            "application/pdf",
+          ]
+        }
+        disabled={false}
+        elementType="input"
+        files={Array []}
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "test",
+              ],
+              Array [
+                undefined,
+              ],
+              Array [
+                undefined,
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        maxSize={4194304}
+        multiple={false}
+        onChange={[Function]}
+        onRemove={[Function]}
+        validateStatus=""
+      />
+    </Form.Fieldset>
+  </LocalizedComponent(Form)>
+</div>
+`;
+
+exports[`Permit Type form should successfully render when serviceType is provided 1`] = `
+<div
+  className="investor-form"
+>
+  <LocalizedComponent(Form)
+    backButton={null}
+    cancelLink={null}
+    help=""
+    i18n={[Function]}
+    id="documents"
+    name="documents"
+    submitButton={null}
+    validateStatus={null}
+  >
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      key="undefined.undefined"
+      title=""
+      twoColumns={false}
+    >
+      <FileUpload
+        accept={
+          Array [
+            "application/pdf",
+          ]
+        }
+        disabled={false}
+        elementType="input"
+        files={
+          Array [
+            Object {
+              "documentPath": "",
+              "file": Object {
+                "documentPath": "",
+                "lastModified": "",
+                "lastModifiedDate": "",
+                "loading": true,
+                "name": "test",
+                "size": "",
+                "type": "custom",
+                "value": "dummy",
+              },
+              "lastModified": "",
+              "lastModifiedDate": "",
+              "loading": true,
+              "name": "test",
+              "size": "",
+              "status": "progress",
+              "type": "custom",
+              "uploaded": 2.2,
+              "value": "dummy",
+            },
+          ]
+        }
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "test",
+              ],
+              Array [
+                undefined,
+              ],
+              Array [
+                undefined,
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        maxSize={4194304}
+        multiple={false}
+        name="test"
+        onChange={[Function]}
+        onRemove={[Function]}
+        validateStatus=""
+      />
+    </Form.Fieldset>
+  </LocalizedComponent(Form)>
+</div>
+`;

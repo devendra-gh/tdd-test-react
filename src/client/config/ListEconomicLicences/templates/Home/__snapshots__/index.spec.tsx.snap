@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Template should successfully render the home template 1`] = `
+<Fragment>
+  <Container
+    locale="en"
+    sidebar={
+      <Sidebar
+        currentStep=""
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "service.description.title",
+              ],
+              Array [
+                "service.description.body",
+              ],
+              Array [
+                "service.startLogin.start",
+              ],
+              Array [
+                "service.startLogin.description",
+              ],
+              Array [
+                "service.process.title",
+              ],
+              Array [
+                "service.process.step1.description",
+              ],
+              Array [
+                "makePayment",
+              ],
+              Array [
+                "service.process.step2.description",
+              ],
+              Array [
+                "downloadCertificate",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        showRelatedJourneyCard={true}
+        steps={Array []}
+        stepsStatus={Object {}}
+      />
+    }
+  >
+    <Component />
+    <JourneyLandingTemplate
+      description=""
+      helpfulBlock={
+        Object {
+          "callValue": true,
+        }
+      }
+      process={
+        Object {
+          "steps": Array [
+            Object {
+              "description": undefined,
+              "label": undefined,
+            },
+            Object {
+              "description": undefined,
+              "label": undefined,
+            },
+          ],
+          "title": undefined,
+        }
+      }
+      startLogin={
+        Object {
+          "buttonLabel": undefined,
+          "description": undefined,
+          "onClick": [Function],
+          "title": "",
+        }
+      }
+      tables={null}
+      title=""
+    />
+    <div
+      style={
+        Object {
+          "height": 200,
+        }
+      }
+    />
+  </Container>
+</Fragment>
+`;
+
+exports[`Home Template should successfully render the home template 2`] = `
+<Fragment>
+  <Container
+    locale="en"
+    sidebar={
+      <Sidebar
+        currentStep=""
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "service.description.title",
+              ],
+              Array [
+                "service.description.body",
+              ],
+              Array [
+                "service.startLogin.start",
+              ],
+              Array [
+                "service.startLogin.description",
+              ],
+              Array [
+                "service.process.title",
+              ],
+              Array [
+                "service.process.step1.description",
+              ],
+              Array [
+                "makePayment",
+              ],
+              Array [
+                "service.process.step2.description",
+              ],
+              Array [
+                "downloadCertificate",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+              Object {
+                "type": "return",
+                "value": undefined,
+              },
+            ],
+          }
+        }
+        showRelatedJourneyCard={true}
+        steps={Array []}
+        stepsStatus={Object {}}
+      />
+    }
+  >
+    <Component />
+    <JourneyLandingTemplate
+      description=""
+      helpfulBlock={
+        Object {
+          "callValue": true,
+        }
+      }
+      process={
+        Object {
+          "steps": Array [
+            Object {
+              "description": undefined,
+              "label": undefined,
+            },
+            Object {
+              "description": undefined,
+              "label": undefined,
+            },
+          ],
+          "title": undefined,
+        }
+      }
+      startLogin={
+        Object {
+          "buttonLabel": undefined,
+          "description": undefined,
+          "onClick": [Function],
+          "title": "",
+        }
+      }
+      tables={null}
+      title=""
+    />
+    <div
+      style={
+        Object {
+          "height": 200,
+        }
+      }
+    />
+  </Container>
+</Fragment>
+`;

@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:camunda="http://camunda.org/schema/1.0/bpmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" id="Definitions_0habj1s" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="3.2.3">
+  <bpmn:message id="Message_1etc10e" name="msgEnterLicenceNumber" />
+  <bpmn:collaboration id="Collaboration_0asywzy">
+    <bpmn:participant id="Participant_0ay9x37" name="Adu-business-SAS-ded-renewEconomicLicence" processRef="Adu-business-SAS-ded-renewEconomicLicence" />
+  </bpmn:collaboration>
+  <bpmn:process id="Adu-business-SAS-ded-renewEconomicLicence" name="Adu-business-SAS-ded-renewEconomicLicence" isExecutable="true">
+    <bpmn:laneSet id="LaneSet_0b5qf2k">
+      <bpmn:lane id="Lane_1lccgss">
+        <bpmn:flowNodeRef>IntermediateThrowEvent_16ru34h</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_1jjrpex</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_05r023b</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>StartEvent_052pxkc</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0bj1xfi</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0lltpdl</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ExclusiveGateway_1ei4iw1</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ExclusiveGateway_1p8x55a</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ExclusiveGateway_1a7xg5a</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0ck2m28</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0qkng4q</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_037gxmw</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_1ldvilg</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0xk1hzc</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_1ost4rc</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_0y43kdz</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0b5fn5d</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0d0xcpw</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_09ll87q</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_1xm0qor</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0r9exld</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0hh7xv2</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ExclusiveGateway_0kx1tp4</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_1kb0aau</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_0yg69yc</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0x2p6yh</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0xnl1tl</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_1mfz2ya</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>EndEvent_0debrck</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_1946a1i</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_1tbbb5t</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_1nfg1cq</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>EndEvent_0jtmy00</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_1d7krhw</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0szf0lm</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_0ci2z5c</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>EndEvent_19o1ua8</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>EndEvent_1czpblf</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_18yv9i5</bpmn:flowNodeRef>
+      </bpmn:lane>
+      <bpmn:lane id="Lane_08fa8mi">
+        <bpmn:flowNodeRef>Task_0m1zfdb</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Task_0ly11cl</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_0lzqt1z</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_1sohyb7</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ExclusiveGateway_1e0tku5</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_08tf043</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_1ie3rk6</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_09msf4z</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ExclusiveGateway_1ipkqwn</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_0g8vgye</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateCatchEvent_0zsnpok</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Task_1klg1xr</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Task_1pb81om</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_1pu7olg</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ExclusiveGateway_02vc9tr</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_1ee2ier</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_1a62yc6</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_0vto40p</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>Task_0xkaynq</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_1wh0h2d</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>ServiceTask_15ozsv2</bpmn:flowNodeRef>
+        <bpmn:flowNodeRef>IntermediateThrowEvent_0lbllp1</bpmn:flowNodeRef>
+      </bpmn:lane>
+    </bpmn:laneSet>
+    <bpmn:sequenceFlow id="SequenceFlow_022r81f" sourceRef="ServiceTask_0lzqt1z" targetRef="ExclusiveGateway_1p8x55a" />
+    <bpmn:sequenceFlow id="SequenceFlow_1v6jltj" name="Yes" sourceRef="ExclusiveGateway_1ei4iw1" targetRef="ServiceTask_0lzqt1z">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${isLicenceNumberValid}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_1xtcycg" sourceRef="Task_1klg1xr" targetRef="ExclusiveGateway_1ei4iw1" />
+    <bpmn:sequenceFlow id="SequenceFlow_0ff1vqb" name="Yes" sourceRef="ExclusiveGateway_1p8x55a" targetRef="ServiceTask_1ee2ier">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${isRenewalEligible=="Eligible"}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_15heqmp" sourceRef="IntermediateCatchEvent_1jjrpex" targetRef="IntermediateThrowEvent_16ru34h" />
+    <bpmn:sequenceFlow id="SequenceFlow_0zjtvcb" sourceRef="ServiceTask_1a62yc6" targetRef="ServiceTask_0vto40p" />
+    <bpmn:sequenceFlow id="SequenceFlow_0v8hj1y" sourceRef="IntermediateThrowEvent_0lltpdl" targetRef="Task_1pb81om" />
+    <bpmn:sequenceFlow id="SequenceFlow_03jc5zy" name="Payment Required" sourceRef="ExclusiveGateway_1a7xg5a" targetRef="ServiceTask_15ozsv2">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${applicationStatus=='FEES'}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_071zku7" name="Additional Document Required" sourceRef="ExclusiveGateway_1a7xg5a" targetRef="IntermediateThrowEvent_05r023b">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${applicationStatus=='DOCS_REQUIRED'}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_16rsv0q" sourceRef="IntermediateThrowEvent_05r023b" targetRef="IntermediateCatchEvent_1jjrpex" />
+    <bpmn:sequenceFlow id="SequenceFlow_1qcbbxp" sourceRef="Task_1pb81om" targetRef="Task_1klg1xr" />
+    <bpmn:sequenceFlow id="SequenceFlow_1nduo5b" sourceRef="IntermediateThrowEvent_0hh7xv2" targetRef="ServiceTask_1a62yc6" />
+    <bpmn:sequenceFlow id="SequenceFlow_1hitaxb" sourceRef="ServiceTask_0vto40p" targetRef="ExclusiveGateway_0kx1tp4" />
+    <bpmn:sequenceFlow id="SequenceFlow_1f7arl2" name="Yes" sourceRef="ExclusiveGateway_0kx1tp4" targetRef="Task_0ly11cl">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${submitRenewLicenceStatus}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_1f66u8f" sourceRef="Task_0ly11cl" targetRef="ExclusiveGateway_02vc9tr" />
+    <bpmn:sequenceFlow id="SequenceFlow_0f6fa0e" name="No" sourceRef="ExclusiveGateway_1ei4iw1" targetRef="IntermediateThrowEvent_1ost4rc">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${!isLicenceNumberValid}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_0eza253" name="No" sourceRef="ExclusiveGateway_1p8x55a" targetRef="IntermediateThrowEvent_0xk1hzc">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${isRenewalEligible=="Not Eligible"}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_0di4mm0" sourceRef="IntermediateThrowEvent_1ldvilg" targetRef="IntermediateThrowEvent_0bj1xfi" />
+    <bpmn:sequenceFlow id="SequenceFlow_0r4bfov" name="No, record for this renewal doesn&#39;t exist in IO DB" sourceRef="ExclusiveGateway_02vc9tr" targetRef="ServiceTask_1sohyb7">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${!dbPrimaryKey}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_1xhd6en" sourceRef="ServiceTask_1sohyb7" targetRef="IntermediateCatchEvent_0zsnpok" />
+    <bpmn:sequenceFlow id="SequenceFlow_0m08d9d" name="Yes, record for this renewal already exist in IO DB" sourceRef="ExclusiveGateway_02vc9tr" targetRef="IntermediateCatchEvent_0zsnpok">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${dbPrimaryKey}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_0s3exwi" sourceRef="IntermediateCatchEvent_0zsnpok" targetRef="Task_0m1zfdb" />
+    <bpmn:sequenceFlow id="SequenceFlow_1tlt4ul" sourceRef="Task_0m1zfdb" targetRef="ServiceTask_0g8vgye" />
+    <bpmn:sequenceFlow id="SequenceFlow_0c8ep3g" sourceRef="ServiceTask_0g8vgye" targetRef="ExclusiveGateway_1ipkqwn" />
+    <bpmn:sequenceFlow id="SequenceFlow_189fppm" name="waiting" sourceRef="ExclusiveGateway_1ipkqwn" targetRef="IntermediateCatchEvent_0zsnpok">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression" language="javascript">applicationStatus === "Waiting Approval"</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_1pwkolq" sourceRef="ServiceTask_09msf4z" targetRef="ServiceTask_08tf043" />
+    <bpmn:sequenceFlow id="SequenceFlow_0q36ey5" sourceRef="ServiceTask_08tf043" targetRef="ExclusiveGateway_1e0tku5" />
+    <bpmn:sequenceFlow id="SequenceFlow_0c07b52" sourceRef="IntermediateCatchEvent_1ie3rk6" targetRef="ServiceTask_09msf4z" />
+    <bpmn:sequenceFlow id="SequenceFlow_0s7ogxt" name="Waiting for Payment." sourceRef="ExclusiveGateway_1e0tku5" targetRef="IntermediateCatchEvent_1ie3rk6">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression" language="javascript">applicationStatus === "Pending Payment" || applicationStatus === "Pending For Payment"</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_0g2umpn" name="Issued" sourceRef="ExclusiveGateway_1e0tku5" targetRef="ServiceTask_1pu7olg">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression" language="javascript">applicationStatus === "Issued"</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_1ajgo9q" name="Status updated (DED sends Email to User)" sourceRef="ExclusiveGateway_1ipkqwn" targetRef="ExclusiveGateway_1a7xg5a">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression" language="javascript">applicationStatus !== "Waiting Approval"</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_0wn4qnd" sourceRef="IntermediateThrowEvent_16ru34h" targetRef="Task_0ly11cl" />
+    <bpmn:sequenceFlow id="SequenceFlow_0kl3opt" sourceRef="IntermediateThrowEvent_0ck2m28" targetRef="IntermediateCatchEvent_1ie3rk6" />
+    <bpmn:sequenceFlow id="SequenceFlow_0kzrj2h" name="Error" sourceRef="ExclusiveGateway_1p8x55a" targetRef="IntermediateThrowEvent_1ost4rc">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${isRenewalEligible!="Eligible" &amp;&amp; isRenewalEligible != "Not Eligible"}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_1g6hcg3" name="Error" sourceRef="ExclusiveGateway_1a7xg5a" targetRef="IntermediateThrowEvent_1kb0aau">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${applicationStatus!='FEES' &amp;&amp; applicationStatus!='DOCS_REQUIRED'}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:serviceTask id="Task_0m1zfdb" name="Get Token" camunda:type="external" camunda:topic="ms-getToken3">
+      <bpmn:incoming>SequenceFlow_0s3exwi</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1tlt4ul</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:serviceTask id="Task_0ly11cl" name="Upload Documents" camunda:type="external" camunda:topic="ms-uploadDocuments">
+      <bpmn:documentation>Lease Contract &amp; NOC (if Required)</bpmn:documentation>
+      <bpmn:incoming>SequenceFlow_1f7arl2</bpmn:incoming>
+      <bpmn:incoming>SequenceFlow_0wn4qnd</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1f66u8f</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:serviceTask id="ServiceTask_0lzqt1z" name="Check Renewal Eligibility" camunda:type="external" camunda:topic="ms-checkRenewalEligibility">
+      <bpmn:incoming>SequenceFlow_1v6jltj</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_022r81f</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:serviceTask id="ServiceTask_1sohyb7" name="Save IO" camunda:type="external" camunda:topic="dbOpWriteTn">
+      <bpmn:incoming>SequenceFlow_0r4bfov</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1xhd6en</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:exclusiveGateway id="ExclusiveGateway_1e0tku5">
+      <bpmn:incoming>SequenceFlow_0q36ey5</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0g2umpn</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_0s7ogxt</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_0e8ceq7</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:serviceTask id="ServiceTask_08tf043" name="Check Application Status" camunda:type="external" camunda:topic="ms-checkApplicationStatus-payment">
+      <bpmn:incoming>SequenceFlow_1pwkolq</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0q36ey5</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_1ie3rk6">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="count">
+            <camunda:script scriptFormat="javascript">count += 1</camunda:script>
+          </camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0s7ogxt</bpmn:incoming>
+      <bpmn:incoming>SequenceFlow_0kl3opt</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0c07b52</bpmn:outgoing>
+      <bpmn:timerEventDefinition id="TimerEventDefinition_1yifhdt">
+        <bpmn:timeDuration xsi:type="bpmn:tFormalExpression">${count &lt; 30 ? "PT10S" : "PT2M"}</bpmn:timeDuration>
+      </bpmn:timerEventDefinition>
+    </bpmn:intermediateCatchEvent>
+    <bpmn:serviceTask id="ServiceTask_09msf4z" name="Get Token" camunda:type="external" camunda:topic="ms-getToken4">
+      <bpmn:incoming>SequenceFlow_0c07b52</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1pwkolq</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_16ru34h" name="/renew-economic-licence/waiting">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/waiting</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_15heqmp</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0wn4qnd</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_1jjrpex" name="Fix issues with renew economic licence">
+      <bpmn:incoming>SequenceFlow_16rsv0q</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_15heqmp</bpmn:outgoing>
+      <bpmn:messageEventDefinition id="MessageEventDefinition_03ofgix" messageRef="Message_0t0l6lc" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_05r023b" name="/renew-economic-licence/returned">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/returned</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_071zku7</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_16rsv0q</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:exclusiveGateway id="ExclusiveGateway_1ipkqwn">
+      <bpmn:incoming>SequenceFlow_0c8ep3g</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_189fppm</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_1ajgo9q</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:serviceTask id="ServiceTask_0g8vgye" name="Check Application Status" camunda:type="external" camunda:topic="ms-checkApplicationStatus">
+      <bpmn:incoming>SequenceFlow_1tlt4ul</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0c8ep3g</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_0zsnpok">
+      <bpmn:incoming>SequenceFlow_1xhd6en</bpmn:incoming>
+      <bpmn:incoming>SequenceFlow_0m08d9d</bpmn:incoming>
+      <bpmn:incoming>SequenceFlow_189fppm</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0s3exwi</bpmn:outgoing>
+      <bpmn:timerEventDefinition id="TimerEventDefinition_0ntpx4s">
+        <bpmn:timeDuration xsi:type="bpmn:tFormalExpression">PT2M</bpmn:timeDuration>
+      </bpmn:timerEventDefinition>
+    </bpmn:intermediateCatchEvent>
+    <bpmn:serviceTask id="Task_1klg1xr" name="Get Licence Details" camunda:type="external" camunda:topic="ms-getLicenceDetails">
+      <bpmn:incoming>SequenceFlow_1qcbbxp</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1xtcycg</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:serviceTask id="Task_1pb81om" name="Get Token" camunda:type="external" camunda:topic="ms-getToken1">
+      <bpmn:incoming>SequenceFlow_0v8hj1y</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1qcbbxp</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:startEvent id="StartEvent_052pxkc">
+      <bpmn:outgoing>SequenceFlow_1g32afc</bpmn:outgoing>
+    </bpmn:startEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0bj1xfi" name="/renew-economic-licence/enter-licence-no">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/enter-licence-no</camunda:outputParameter>
+          <camunda:outputParameter name="dbPrimaryKey" />
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_1g32afc</bpmn:incoming>
+      <bpmn:incoming>SequenceFlow_0di4mm0</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1kr6cpw</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateThrowEvent_0lltpdl" name="Enter Licence Number">
+      <bpmn:incoming>SequenceFlow_1kr6cpw</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0v8hj1y</bpmn:outgoing>
+      <bpmn:messageEventDefinition messageRef="Message_1etc10e" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:exclusiveGateway id="ExclusiveGateway_1ei4iw1" name="Is Valid Licence Number">
+      <bpmn:incoming>SequenceFlow_1xtcycg</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1v6jltj</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_0f6fa0e</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:exclusiveGateway id="ExclusiveGateway_1p8x55a" name="Is Licence Renewal Eligible?">
+      <bpmn:incoming>SequenceFlow_022r81f</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0ff1vqb</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_0eza253</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_0kzrj2h</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:exclusiveGateway id="ExclusiveGateway_1a7xg5a">
+      <bpmn:incoming>SequenceFlow_1ajgo9q</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_03jc5zy</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_071zku7</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_1g6hcg3</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0ck2m28" name="/renew-economic-licence/waiting">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="count">
+            <camunda:script scriptFormat="javascript">0</camunda:script>
+          </camunda:outputParameter>
+          <camunda:outputParameter name="state">/renew-economic-licence/waiting</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0m7e3et</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0kl3opt</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_1g32afc" sourceRef="StartEvent_052pxkc" targetRef="IntermediateThrowEvent_0bj1xfi" />
+    <bpmn:sequenceFlow id="SequenceFlow_1kr6cpw" sourceRef="IntermediateThrowEvent_0bj1xfi" targetRef="IntermediateThrowEvent_0lltpdl" />
+    <bpmn:sequenceFlow id="SequenceFlow_1668e83" sourceRef="IntermediateThrowEvent_1nfg1cq" targetRef="IntermediateCatchEvent_1tbbb5t" />
+    <bpmn:serviceTask id="ServiceTask_1pu7olg" name="Updatd IO" camunda:type="external" camunda:topic="dbOpWriteTnUpdate">
+      <bpmn:incoming>SequenceFlow_0g2umpn</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_04l1ou7</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0qkng4q" name="/renew-economic-licence/licence-summary">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/licence-summary</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_04l1ou7</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_13e9jaz</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_13e9jaz" sourceRef="IntermediateThrowEvent_0qkng4q" targetRef="IntermediateThrowEvent_037gxmw" />
+    <bpmn:intermediateCatchEvent id="IntermediateThrowEvent_037gxmw" name="Finish">
+      <bpmn:incoming>SequenceFlow_13e9jaz</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1c2gjvv</bpmn:outgoing>
+      <bpmn:messageEventDefinition messageRef="Message_16fqh2l" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateThrowEvent_1ldvilg">
+      <bpmn:incoming>SequenceFlow_06ivjbc</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0di4mm0</bpmn:outgoing>
+      <bpmn:messageEventDefinition messageRef="Message_0hxbdia" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0xk1hzc" name="/renew-economic-licence/not-eligible">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/not-eligible</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0eza253</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_06ivjbc</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_1ost4rc" name="/renew-economic-licence/error">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/error</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0f6fa0e</bpmn:incoming>
+      <bpmn:incoming>SequenceFlow_0kzrj2h</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1uguake</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_06ivjbc" sourceRef="IntermediateThrowEvent_0xk1hzc" targetRef="IntermediateThrowEvent_1ldvilg" />
+    <bpmn:sequenceFlow id="SequenceFlow_0bt8mxw" sourceRef="IntermediateCatchEvent_0y43kdz" targetRef="IntermediateThrowEvent_0b5fn5d" />
+    <bpmn:sequenceFlow id="SequenceFlow_1uguake" sourceRef="IntermediateThrowEvent_1ost4rc" targetRef="IntermediateCatchEvent_0y43kdz" />
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_0y43kdz" name="Retry">
+      <bpmn:incoming>SequenceFlow_1uguake</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0bt8mxw</bpmn:outgoing>
+      <bpmn:messageEventDefinition id="MessageEventDefinition_0ip6eic" messageRef="Message_1mszb7k" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0b5fn5d" name="/renew-economic-licence/enter-licence-no">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/enter-licence-no</camunda:outputParameter>
+          <camunda:outputParameter name="dbPrimaryKey" />
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0bt8mxw</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0k305es</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:exclusiveGateway id="ExclusiveGateway_02vc9tr" name="already inserted in IO ">
+      <bpmn:incoming>SequenceFlow_1f66u8f</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0r4bfov</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_0m08d9d</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0d0xcpw" name="/renew-economic-licence/error">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/error</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0wvixoo</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0rkceo2</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_09ll87q" name="Retry">
+      <bpmn:incoming>SequenceFlow_0rkceo2</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_152iare</bpmn:outgoing>
+      <bpmn:messageEventDefinition id="MessageEventDefinition_1ja84zg" messageRef="Message_1mszb7k" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_1xm0qor" name="/renew-economic-licence/submit-licence">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/submit-licence</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0lhaqmu</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_15q075n</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateThrowEvent_0r9exld" name="Renew Economic Licence">
+      <bpmn:incoming>SequenceFlow_15q075n</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1n6liyd</bpmn:outgoing>
+      <bpmn:messageEventDefinition messageRef="Message_1rn2paj" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0hh7xv2" name="/renew-economic-licence/waiting">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/waiting</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_1n6liyd</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1nduo5b</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_0rkceo2" sourceRef="IntermediateThrowEvent_0d0xcpw" targetRef="IntermediateCatchEvent_09ll87q" />
+    <bpmn:sequenceFlow id="SequenceFlow_152iare" sourceRef="IntermediateCatchEvent_09ll87q" targetRef="IntermediateThrowEvent_0szf0lm" />
+    <bpmn:sequenceFlow id="SequenceFlow_15q075n" sourceRef="IntermediateThrowEvent_1xm0qor" targetRef="IntermediateThrowEvent_0r9exld" />
+    <bpmn:sequenceFlow id="SequenceFlow_1n6liyd" sourceRef="IntermediateThrowEvent_0r9exld" targetRef="IntermediateThrowEvent_0hh7xv2" />
+    <bpmn:serviceTask id="ServiceTask_1ee2ier" name="Get Tawtheeq Details" camunda:type="external" camunda:topic="ms-getTawtheeqDetails">
+      <bpmn:incoming>SequenceFlow_0ff1vqb</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0lhaqmu</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:serviceTask id="ServiceTask_1a62yc6" name="Get Token" camunda:type="external" camunda:topic="ms-getToken2">
+      <bpmn:incoming>SequenceFlow_1nduo5b</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0zjtvcb</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:sequenceFlow id="SequenceFlow_0wvixoo" name="No" sourceRef="ExclusiveGateway_0kx1tp4" targetRef="IntermediateThrowEvent_0d0xcpw">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">${!submitRenewLicenceStatus}</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:exclusiveGateway id="ExclusiveGateway_0kx1tp4" name="Submit Renewal Success?">
+      <bpmn:incoming>SequenceFlow_1hitaxb</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1f7arl2</bpmn:outgoing>
+      <bpmn:outgoing>SequenceFlow_0wvixoo</bpmn:outgoing>
+    </bpmn:exclusiveGateway>
+    <bpmn:serviceTask id="ServiceTask_0vto40p" name="Submit Licence Details" camunda:type="external" camunda:topic="ms-submitLicenceDetails">
+      <bpmn:incoming>SequenceFlow_0zjtvcb</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1hitaxb</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_1kb0aau" name="/renew-economic-licence/error">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/error</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_1g6hcg3</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_053xp4f</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_0yg69yc">
+      <bpmn:incoming>SequenceFlow_053xp4f</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0fvuf9o</bpmn:outgoing>
+      <bpmn:messageEventDefinition id="MessageEventDefinition_0odny9i" messageRef="Message_1mszb7k" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0x2p6yh" name="/renew-economic-licence/enter-licence-no">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/enter-licence-no</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0fvuf9o</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1v2ihqe</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_053xp4f" sourceRef="IntermediateThrowEvent_1kb0aau" targetRef="IntermediateCatchEvent_0yg69yc" />
+    <bpmn:sequenceFlow id="SequenceFlow_0fvuf9o" sourceRef="IntermediateCatchEvent_0yg69yc" targetRef="IntermediateThrowEvent_0x2p6yh" />
+    <bpmn:sequenceFlow id="SequenceFlow_1c2gjvv" sourceRef="IntermediateThrowEvent_037gxmw" targetRef="IntermediateThrowEvent_0xnl1tl" />
+    <bpmn:sequenceFlow id="SequenceFlow_0e8ceq7" name="Error" sourceRef="ExclusiveGateway_1e0tku5" targetRef="IntermediateThrowEvent_1946a1i">
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression" language="javascript">applicationStatus !== "Pending Payment" &amp;&amp; applicationStatus !== "Pending For Payment" &amp;&amp;
+applicationStatus !== "Issued"</bpmn:conditionExpression>
+    </bpmn:sequenceFlow>
+    <bpmn:sequenceFlow id="SequenceFlow_04l1ou7" sourceRef="ServiceTask_1pu7olg" targetRef="IntermediateThrowEvent_0qkng4q" />
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0xnl1tl" name="/renew-economic-licence/enter-licence-no">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/enter-licence-no</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0288itn</bpmn:incoming>
+      <bpmn:incoming>SequenceFlow_1c2gjvv</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1xogw6l</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_1mfz2ya" name="Retry">
+      <bpmn:incoming>SequenceFlow_1hfw4u8</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0288itn</bpmn:outgoing>
+      <bpmn:messageEventDefinition id="MessageEventDefinition_0bmj7sf" messageRef="Message_1mszb7k" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:endEvent id="EndEvent_0debrck">
+      <bpmn:incoming>SequenceFlow_1xogw6l</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_1946a1i" name="/renew-economic-licence/error">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/error</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0e8ceq7</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1hfw4u8</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_0288itn" sourceRef="IntermediateCatchEvent_1mfz2ya" targetRef="IntermediateThrowEvent_0xnl1tl" />
+    <bpmn:sequenceFlow id="SequenceFlow_1xogw6l" sourceRef="IntermediateThrowEvent_0xnl1tl" targetRef="EndEvent_0debrck" />
+    <bpmn:sequenceFlow id="SequenceFlow_1hfw4u8" sourceRef="IntermediateThrowEvent_1946a1i" targetRef="IntermediateCatchEvent_1mfz2ya" />
+    <bpmn:sequenceFlow id="SequenceFlow_0l73sdh" sourceRef="Task_0xkaynq" targetRef="IntermediateThrowEvent_1nfg1cq" />
+    <bpmn:sequenceFlow id="SequenceFlow_0m7e3et" sourceRef="IntermediateCatchEvent_1tbbb5t" targetRef="IntermediateThrowEvent_0ck2m28" />
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_1tbbb5t" name="Proceed with payment">
+      <bpmn:incoming>SequenceFlow_1668e83</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0m7e3et</bpmn:outgoing>
+      <bpmn:messageEventDefinition id="MessageEventDefinition_16low1m" messageRef="Message_0s820kc" />
+    </bpmn:intermediateCatchEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_0flmdb7" sourceRef="ServiceTask_1wh0h2d" targetRef="Task_0xkaynq" />
+    <bpmn:serviceTask id="Task_0xkaynq" name="Get Payment Url" camunda:type="external" camunda:topic="getPaymentUrl">
+      <bpmn:incoming>SequenceFlow_0flmdb7</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0l73sdh</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_1nfg1cq" name="/renew-economic-licence/payment-summary">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/payment-summary</camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_0l73sdh</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1668e83</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_0lhaqmu" sourceRef="ServiceTask_1ee2ier" targetRef="IntermediateThrowEvent_1xm0qor" />
+    <bpmn:sequenceFlow id="SequenceFlow_01w3b3t" sourceRef="IntermediateThrowEvent_0szf0lm" targetRef="IntermediateThrowEvent_1d7krhw" />
+    <bpmn:endEvent id="EndEvent_0jtmy00">
+      <bpmn:incoming>SequenceFlow_1605yja</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_1605yja" sourceRef="IntermediateThrowEvent_1d7krhw" targetRef="EndEvent_0jtmy00" />
+    <bpmn:intermediateCatchEvent id="IntermediateThrowEvent_1d7krhw">
+      <bpmn:incoming>SequenceFlow_01w3b3t</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1605yja</bpmn:outgoing>
+      <bpmn:timerEventDefinition>
+        <bpmn:timeDuration xsi:type="bpmn:tFormalExpression">PT15S</bpmn:timeDuration>
+      </bpmn:timerEventDefinition>
+    </bpmn:intermediateCatchEvent>
+    <bpmn:intermediateThrowEvent id="IntermediateThrowEvent_0szf0lm" name="/renew-economic-licence/enter-licence-no">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:outputParameter name="state">/renew-economic-licence/enter-licence-no</camunda:outputParameter>
+          <camunda:outputParameter name="dbPrimaryKey" />
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>SequenceFlow_152iare</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_01w3b3t</bpmn:outgoing>
+    </bpmn:intermediateThrowEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_0k305es" sourceRef="IntermediateThrowEvent_0b5fn5d" targetRef="IntermediateCatchEvent_0ci2z5c" />
+    <bpmn:sequenceFlow id="SequenceFlow_117ptka" sourceRef="IntermediateCatchEvent_0ci2z5c" targetRef="EndEvent_19o1ua8" />
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_0ci2z5c">
+      <bpmn:incoming>SequenceFlow_0k305es</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_117ptka</bpmn:outgoing>
+      <bpmn:timerEventDefinition id="TimerEventDefinition_0q4si1s">
+        <bpmn:timeDuration xsi:type="bpmn:tFormalExpression">PT15S</bpmn:timeDuration>
+      </bpmn:timerEventDefinition>
+    </bpmn:intermediateCatchEvent>
+    <bpmn:endEvent id="EndEvent_19o1ua8">
+      <bpmn:incoming>SequenceFlow_117ptka</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:sequenceFlow id="SequenceFlow_1eqv0y3" sourceRef="IntermediateCatchEvent_18yv9i5" targetRef="EndEvent_1czpblf" />
+    <bpmn:sequenceFlow id="SequenceFlow_1v2ihqe" sourceRef="IntermediateThrowEvent_0x2p6yh" targetRef="IntermediateCatchEvent_18yv9i5" />
+    <bpmn:endEvent id="EndEvent_1czpblf">
+      <bpmn:incoming>SequenceFlow_1eqv0y3</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:intermediateCatchEvent id="IntermediateCatchEvent_18yv9i5">
+      <bpmn:incoming>SequenceFlow_1v2ihqe</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_1eqv0y3</bpmn:outgoing>
+      <bpmn:timerEventDefinition id="TimerEventDefinition_1v3nkbc">
+        <bpmn:timeDuration xsi:type="bpmn:tFormalExpression">PT15S</bpmn:timeDuration>
+      </bpmn:timerEventDefinition>
+    </bpmn:intermediateCatchEvent>
+    <bpmn:serviceTask id="ServiceTask_1wh0h2d" name="Caluclute Fees" camunda:type="external" camunda:topic="ms-calculateFees">
+      <bpmn:incoming>SequenceFlow_169u4dg</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0flmdb7</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:sequenceFlow id="SequenceFlow_0brhpw2" sourceRef="ServiceTask_15ozsv2" targetRef="IntermediateThrowEvent_0lbllp1" />
+    <bpmn:serviceTask id="ServiceTask_15ozsv2" name="Update Ready for Payment Task" camunda:type="external" camunda:topic="ms-updateReadyForPaymentTask">
+      <bpmn:incoming>SequenceFlow_03jc5zy</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_0brhpw2</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:sequenceFlow id="SequenceFlow_169u4dg" sourceRef="IntermediateThrowEvent_0lbllp1" targetRef="ServiceTask_1wh0h2d" />
+    <bpmn:intermediateCatchEvent id="IntermediateThrowEvent_0lbllp1">
+      <bpmn:incoming>SequenceFlow_0brhpw2</bpmn:incoming>
+      <bpmn:outgoing>SequenceFlow_169u4dg</bpmn:outgoing>
+      <bpmn:timerEventDefinition>
+        <bpmn:timeDuration xsi:type="bpmn:tFormalExpression">PT10S</bpmn:timeDuration>
+      </bpmn:timerEventDefinition>
+    </bpmn:intermediateCatchEvent>
+  </bpmn:process>
+  <bpmn:message id="Message_1rn2paj" name="msgSubmitRenewLicence" />
+  <bpmn:message id="Message_0bi21c2" name="Message_390fj3e" />
+  <bpmn:message id="Message_10ho5oa" name="msgUploadNOC" />
+  <bpmn:message id="Message_08orqdf" name="msgRenewEconomicLicence" />
+  <bpmn:message id="Message_0eon3i3" name="msgDisplayDetails" />
+  <bpmn:message id="Message_0s820kc" name="msgProceedWithPayment" />
+  <bpmn:message id="Message_0zagmhz" name="msgRetryPayment" />
+  <bpmn:message id="Message_0fasu94" name="msgGetPaymentUrl" />
+  <bpmn:message id="Message_0t0l6lc" name="msgFixIssuesWithRenewLicence" />
+  <bpmn:message id="Message_16fqh2l" name="msgDownloadLicence" />
+  <bpmn:message id="Message_1kb4i3h" name="msgDisplayInfo" />
+  <bpmn:message id="Message_0ybg7kx" name="msgViewLicenceDetails" />
+  <bpmn:message id="Message_1mszb7k" name="msgError" />
+  <bpmn:message id="Message_0hxbdia" name="msgNotEligible" />
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_0asywzy">
+      <bpmndi:BPMNShape id="Participant_0ay9x37_di" bpmnElement="Participant_0ay9x37" isHorizontal="true">
+        <dc:Bounds x="170" y="80" width="5120" height="1150" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="StartEvent_052pxkc_di" bpmnElement="StartEvent_052pxkc">
+        <dc:Bounds x="342" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="283" y="435" width="76" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0bj1xfi_di" bpmnElement="IntermediateThrowEvent_0bj1xfi">
+        <dc:Bounds x="472" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="447" y="608" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_01cynes_di" bpmnElement="IntermediateThrowEvent_0lltpdl">
+        <dc:Bounds x="602" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="587" y="525" width="68" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ExclusiveGateway_1p8x55a_di" bpmnElement="ExclusiveGateway_1p8x55a" isMarkerVisible="true">
+        <dc:Bounds x="1155" y="555" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1076" y="596" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_0w9vljm_di" bpmnElement="Task_1klg1xr">
+        <dc:Bounds x="790" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1g32afc_di" bpmnElement="SequenceFlow_1g32afc">
+        <di:waypoint x="378" y="580" />
+        <di:waypoint x="472" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1kr6cpw_di" bpmnElement="SequenceFlow_1kr6cpw">
+        <di:waypoint x="508" y="580" />
+        <di:waypoint x="602" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0v8hj1y_di" bpmnElement="SequenceFlow_0v8hj1y">
+        <di:waypoint x="620" y="598" />
+        <di:waypoint x="620" y="910" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="Lane_1lccgss_di" bpmnElement="Lane_1lccgss" isHorizontal="true">
+        <dc:Bounds x="200" y="80" width="5090" height="675" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_0vto40p_di" bpmnElement="ServiceTask_0vto40p">
+        <dc:Bounds x="2010" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_1b0tjj3_di" bpmnElement="IntermediateThrowEvent_0r9exld">
+        <dc:Bounds x="1642" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1617" y="616" width="87" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1n6liyd_di" bpmnElement="SequenceFlow_1n6liyd">
+        <di:waypoint x="1678" y="580" />
+        <di:waypoint x="1742" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ServiceTask_0uj935a_di" bpmnElement="Task_0ly11cl">
+        <dc:Bounds x="2250" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_0zsnpok_di" bpmnElement="IntermediateCatchEvent_0zsnpok">
+        <dc:Bounds x="2862" y="802" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_0g8vgye_di" bpmnElement="ServiceTask_0g8vgye">
+        <dc:Bounds x="3070" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ExclusiveGateway_1ipkqwn_di" bpmnElement="ExclusiveGateway_1ipkqwn" isMarkerVisible="true">
+        <dc:Bounds x="3095" y="795" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2977" y="675" width="71" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ExclusiveGateway_1a7xg5a_di" bpmnElement="ExclusiveGateway_1a7xg5a" isMarkerVisible="true">
+        <dc:Bounds x="3095" y="555" width="50" height="50" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_03jc5zy_di" bpmnElement="SequenceFlow_03jc5zy">
+        <di:waypoint x="3145" y="580" />
+        <di:waypoint x="3310" y="580" />
+        <di:waypoint x="3310" y="910" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3183" y="542" width="45" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_05r023b_di" bpmnElement="IntermediateThrowEvent_05r023b">
+        <dc:Bounds x="3102" y="272" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3076" y="242" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_071zku7_di" bpmnElement="SequenceFlow_071zku7">
+        <di:waypoint x="3120" y="555" />
+        <di:waypoint x="3120" y="308" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3146" y="398" width="51" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_1jjrpex_di" bpmnElement="IntermediateCatchEvent_1jjrpex">
+        <dc:Bounds x="2952" y="272" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2930" y="228" width="81" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_16rsv0q_di" bpmnElement="SequenceFlow_16rsv0q">
+        <di:waypoint x="3102" y="290" />
+        <di:waypoint x="2988" y="290" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_1tbbb5t_di" bpmnElement="IntermediateCatchEvent_1tbbb5t">
+        <dc:Bounds x="3842" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3830" y="533" width="64" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_1nfg1cq_di" bpmnElement="IntermediateThrowEvent_1nfg1cq">
+        <dc:Bounds x="3722" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3696" y="511" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1668e83_di" bpmnElement="SequenceFlow_1668e83">
+        <di:waypoint x="3758" y="580" />
+        <di:waypoint x="3842" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_1ie3rk6_di" bpmnElement="IntermediateCatchEvent_1ie3rk6">
+        <dc:Bounds x="3992" y="802" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_08tf043_di" bpmnElement="ServiceTask_08tf043">
+        <dc:Bounds x="4220" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0c07b52_di" bpmnElement="SequenceFlow_0c07b52">
+        <di:waypoint x="4010" y="838" />
+        <di:waypoint x="4010" y="910" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0qkng4q_di" bpmnElement="IntermediateThrowEvent_0qkng4q">
+        <dc:Bounds x="4832" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4806" y="512" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_0e3kpc5_di" bpmnElement="IntermediateThrowEvent_037gxmw">
+        <dc:Bounds x="4942" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4946" y="603" width="30" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_1ibtnyi_di" bpmnElement="Task_0m1zfdb">
+        <dc:Bounds x="2830" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_1a62yc6_di" bpmnElement="ServiceTask_1a62yc6">
+        <dc:Bounds x="1710" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0zjtvcb_di" bpmnElement="SequenceFlow_0zjtvcb">
+        <di:waypoint x="1810" y="950" />
+        <di:waypoint x="2010" y="950" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ServiceTask_09msf4z_di" bpmnElement="ServiceTask_09msf4z">
+        <dc:Bounds x="3960" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1pwkolq_di" bpmnElement="SequenceFlow_1pwkolq">
+        <di:waypoint x="4060" y="950" />
+        <di:waypoint x="4220" y="950" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ExclusiveGateway_1e0tku5_di" bpmnElement="ExclusiveGateway_1e0tku5" isMarkerVisible="true">
+        <dc:Bounds x="4245" y="795" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4231" y="765" width="78" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0g2umpn_di" bpmnElement="SequenceFlow_0g2umpn">
+        <di:waypoint x="4295" y="820" />
+        <di:waypoint x="4540" y="820" />
+        <di:waypoint x="4540" y="910" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4388" y="803" width="33" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0s7ogxt_di" bpmnElement="SequenceFlow_0s7ogxt">
+        <di:waypoint x="4245" y="820" />
+        <di:waypoint x="4028" y="820" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4114" y="786" width="52" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0q36ey5_di" bpmnElement="SequenceFlow_0q36ey5">
+        <di:waypoint x="4270" y="910" />
+        <di:waypoint x="4270" y="845" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_1xm0qor_di" bpmnElement="IntermediateThrowEvent_1xm0qor">
+        <dc:Bounds x="1552" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1536" y="510" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_15q075n_di" bpmnElement="SequenceFlow_15q075n">
+        <di:waypoint x="1588" y="580" />
+        <di:waypoint x="1642" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_15heqmp_di" bpmnElement="SequenceFlow_15heqmp">
+        <di:waypoint x="2952" y="290" />
+        <di:waypoint x="2828" y="290" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0ff1vqb_di" bpmnElement="SequenceFlow_0ff1vqb">
+        <di:waypoint x="1205" y="580" />
+        <di:waypoint x="1310" y="580" />
+        <di:waypoint x="1310" y="950" />
+        <di:waypoint x="1420" y="950" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1235" y="562" width="18" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1xtcycg_di" bpmnElement="SequenceFlow_1xtcycg">
+        <di:waypoint x="840" y="910" />
+        <di:waypoint x="840" y="605" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ServiceTask_030s22w_di" bpmnElement="Task_1pb81om">
+        <dc:Bounds x="570" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1qcbbxp_di" bpmnElement="SequenceFlow_1qcbbxp">
+        <di:waypoint x="670" y="950" />
+        <di:waypoint x="790" y="950" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ServiceTask_0va12g2_di" bpmnElement="Task_0xkaynq">
+        <dc:Bounds x="3690" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ExclusiveGateway_0kx1tp4_di" bpmnElement="ExclusiveGateway_0kx1tp4" isMarkerVisible="true">
+        <dc:Bounds x="2035" y="555" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1942" y="573" width="81" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_13e9jaz_di" bpmnElement="SequenceFlow_13e9jaz">
+        <di:waypoint x="4868" y="580" />
+        <di:waypoint x="4942" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0hh7xv2_di" bpmnElement="IntermediateThrowEvent_0hh7xv2">
+        <dc:Bounds x="1742" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1716" y="512" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1nduo5b_di" bpmnElement="SequenceFlow_1nduo5b">
+        <di:waypoint x="1760" y="598" />
+        <di:waypoint x="1760" y="910" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_16ru34h_di" bpmnElement="IntermediateThrowEvent_16ru34h">
+        <dc:Bounds x="2792" y="272" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2767" y="236" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ExclusiveGateway_1ei4iw1_di" bpmnElement="ExclusiveGateway_1ei4iw1" isMarkerVisible="true">
+        <dc:Bounds x="815" y="555" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="804" y="518" width="77" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1v6jltj_di" bpmnElement="SequenceFlow_1v6jltj">
+        <di:waypoint x="865" y="580" />
+        <di:waypoint x="960" y="580" />
+        <di:waypoint x="960" y="949" />
+        <di:waypoint x="1024" y="949" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="879" y="593" width="18" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ServiceTask_1pu7olg_di" bpmnElement="ServiceTask_1pu7olg">
+        <dc:Bounds x="4490" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_1sohyb7_di" bpmnElement="ServiceTask_1sohyb7">
+        <dc:Bounds x="2530" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1hitaxb_di" bpmnElement="SequenceFlow_1hitaxb">
+        <di:waypoint x="2060" y="910" />
+        <di:waypoint x="2060" y="605" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1f7arl2_di" bpmnElement="SequenceFlow_1f7arl2">
+        <di:waypoint x="2085" y="580" />
+        <di:waypoint x="2300" y="580" />
+        <di:waypoint x="2300" y="910" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2109" y="593" width="18" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1f66u8f_di" bpmnElement="SequenceFlow_1f66u8f">
+        <di:waypoint x="2300" y="990" />
+        <di:waypoint x="2300" y="1100" />
+        <di:waypoint x="2555" y="1100" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ExclusiveGateway_02vc9tr_di" bpmnElement="ExclusiveGateway_02vc9tr" isMarkerVisible="true">
+        <dc:Bounds x="2555" y="1075" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2535" y="1134.5" width="90" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_1wh0h2d_di" bpmnElement="ServiceTask_1wh0h2d">
+        <dc:Bounds x="3520" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="ServiceTask_0lzqt1z_di" bpmnElement="ServiceTask_0lzqt1z">
+        <dc:Bounds x="1024" y="909" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_022r81f_di" bpmnElement="SequenceFlow_022r81f">
+        <di:waypoint x="1124" y="949" />
+        <di:waypoint x="1180" y="949" />
+        <di:waypoint x="1180" y="605" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="Lane_08fa8mi_di" bpmnElement="Lane_08fa8mi" isHorizontal="true">
+        <dc:Bounds x="200" y="755" width="5090" height="475" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_1ost4rc_di" bpmnElement="IntermediateThrowEvent_1ost4rc">
+        <dc:Bounds x="752" y="392" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="676" y="376" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0f6fa0e_di" bpmnElement="SequenceFlow_0f6fa0e">
+        <di:waypoint x="815" y="580" />
+        <di:waypoint x="710" y="580" />
+        <di:waypoint x="710" y="410" />
+        <di:waypoint x="752" y="410" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="771" y="593" width="15" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1uguake_di" bpmnElement="SequenceFlow_1uguake">
+        <di:waypoint x="788" y="410" />
+        <di:waypoint x="852" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="EndEvent_19o1ua8_di" bpmnElement="EndEvent_19o1ua8">
+        <dc:Bounds x="1082" y="392" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0xk1hzc_di" bpmnElement="IntermediateThrowEvent_0xk1hzc">
+        <dc:Bounds x="1162" y="392" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1136" y="350" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0eza253_di" bpmnElement="SequenceFlow_0eza253">
+        <di:waypoint x="1180" y="555" />
+        <di:waypoint x="1180" y="428" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1188" y="489" width="15" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_06ivjbc_di" bpmnElement="SequenceFlow_06ivjbc">
+        <di:waypoint x="1198" y="410" />
+        <di:waypoint x="1252" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_0cr3cc3_di" bpmnElement="IntermediateThrowEvent_1ldvilg">
+        <dc:Bounds x="1252" y="392" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0di4mm0_di" bpmnElement="SequenceFlow_0di4mm0">
+        <di:waypoint x="1270" y="392" />
+        <di:waypoint x="1270" y="270" />
+        <di:waypoint x="490" y="270" />
+        <di:waypoint x="490" y="562" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0r4bfov_di" bpmnElement="SequenceFlow_0r4bfov">
+        <di:waypoint x="2580" y="1075" />
+        <di:waypoint x="2580" y="990" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2504" y="1023" width="72" height="53" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1xhd6en_di" bpmnElement="SequenceFlow_1xhd6en">
+        <di:waypoint x="2580" y="910" />
+        <di:waypoint x="2580" y="820" />
+        <di:waypoint x="2862" y="820" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0m08d9d_di" bpmnElement="SequenceFlow_0m08d9d">
+        <di:waypoint x="2605" y="1100" />
+        <di:waypoint x="2760" y="1100" />
+        <di:waypoint x="2760" y="820" />
+        <di:waypoint x="2862" y="820" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2686" y="1113" width="73" height="53" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0s3exwi_di" bpmnElement="SequenceFlow_0s3exwi">
+        <di:waypoint x="2880" y="838" />
+        <di:waypoint x="2880" y="910" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1tlt4ul_di" bpmnElement="SequenceFlow_1tlt4ul">
+        <di:waypoint x="2930" y="950" />
+        <di:waypoint x="3070" y="950" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0c8ep3g_di" bpmnElement="SequenceFlow_0c8ep3g">
+        <di:waypoint x="3120" y="910" />
+        <di:waypoint x="3120" y="845" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_189fppm_di" bpmnElement="SequenceFlow_189fppm">
+        <di:waypoint x="3095" y="820" />
+        <di:waypoint x="2898" y="820" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2979" y="802" width="35" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1ajgo9q_di" bpmnElement="SequenceFlow_1ajgo9q">
+        <di:waypoint x="3120" y="795" />
+        <di:waypoint x="3120" y="605" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3135" y="680" width="90" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0wn4qnd_di" bpmnElement="SequenceFlow_0wn4qnd">
+        <di:waypoint x="2792" y="290" />
+        <di:waypoint x="2400" y="290" />
+        <di:waypoint x="2400" y="950" />
+        <di:waypoint x="2350" y="950" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0ck2m28_di" bpmnElement="IntermediateThrowEvent_0ck2m28">
+        <dc:Bounds x="3992" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3966" y="525" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0kl3opt_di" bpmnElement="SequenceFlow_0kl3opt">
+        <di:waypoint x="4010" y="598" />
+        <di:waypoint x="4010" y="802" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0kzrj2h_di" bpmnElement="SequenceFlow_0kzrj2h">
+        <di:waypoint x="1155" y="580" />
+        <di:waypoint x="1060" y="580" />
+        <di:waypoint x="1060" y="490" />
+        <di:waypoint x="770" y="490" />
+        <di:waypoint x="770" y="428" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1097" y="562" width="25" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_1kb0aau_di" bpmnElement="IntermediateThrowEvent_1kb0aau">
+        <dc:Bounds x="2952" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2926" y="525" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="EndEvent_1czpblf_di" bpmnElement="EndEvent_1czpblf">
+        <dc:Bounds x="2652" y="562" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_053xp4f_di" bpmnElement="SequenceFlow_053xp4f">
+        <di:waypoint x="2952" y="580" />
+        <di:waypoint x="2908" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1g6hcg3_di" bpmnElement="SequenceFlow_1g6hcg3">
+        <di:waypoint x="3095" y="580" />
+        <di:waypoint x="2988" y="580" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="3044" y="562" width="25" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ServiceTask_1ee2ier_di" bpmnElement="ServiceTask_1ee2ier">
+        <dc:Bounds x="1420" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_1946a1i_di" bpmnElement="IntermediateThrowEvent_1946a1i">
+        <dc:Bounds x="4252" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4226" y="525" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="EndEvent_0debrck_di" bpmnElement="EndEvent_0debrck">
+        <dc:Bounds x="4632" y="562" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1hfw4u8_di" bpmnElement="SequenceFlow_1hfw4u8">
+        <di:waypoint x="4288" y="580" />
+        <di:waypoint x="4352" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_0yg69yc_di" bpmnElement="IntermediateCatchEvent_0yg69yc">
+        <dc:Bounds x="2872" y="562" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0fvuf9o_di" bpmnElement="SequenceFlow_0fvuf9o">
+        <di:waypoint x="2872" y="580" />
+        <di:waypoint x="2828" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_0y43kdz_di" bpmnElement="IntermediateCatchEvent_0y43kdz">
+        <dc:Bounds x="852" y="392" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="857" y="435" width="27" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0b5fn5d_di" bpmnElement="IntermediateThrowEvent_0b5fn5d">
+        <dc:Bounds x="942" y="392" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="916" y="438" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0bt8mxw_di" bpmnElement="SequenceFlow_0bt8mxw">
+        <di:waypoint x="888" y="410" />
+        <di:waypoint x="942" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0x2p6yh_di" bpmnElement="IntermediateThrowEvent_0x2p6yh">
+        <dc:Bounds x="2792" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2767" y="610" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_1mfz2ya_di" bpmnElement="IntermediateCatchEvent_1mfz2ya">
+        <dc:Bounds x="4352" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4357" y="605" width="27" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0xnl1tl_di" bpmnElement="IntermediateThrowEvent_0xnl1tl">
+        <dc:Bounds x="4502" y="562" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4476" y="608" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0288itn_di" bpmnElement="SequenceFlow_0288itn">
+        <di:waypoint x="4388" y="580" />
+        <di:waypoint x="4502" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1xogw6l_di" bpmnElement="SequenceFlow_1xogw6l">
+        <di:waypoint x="4538" y="580" />
+        <di:waypoint x="4632" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0d0xcpw_di" bpmnElement="IntermediateThrowEvent_0d0xcpw">
+        <dc:Bounds x="1452" y="392" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1386" y="366" width="88" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_09ll87q_di" bpmnElement="IntermediateCatchEvent_09ll87q">
+        <dc:Bounds x="1552" y="392" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1557" y="435" width="27" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="IntermediateThrowEvent_0szf0lm_di" bpmnElement="IntermediateThrowEvent_0szf0lm">
+        <dc:Bounds x="1622" y="392" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1597" y="340" width="88" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="EndEvent_0jtmy00_di" bpmnElement="EndEvent_0jtmy00">
+        <dc:Bounds x="1772" y="392" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_152iare_di" bpmnElement="SequenceFlow_152iare">
+        <di:waypoint x="1588" y="410" />
+        <di:waypoint x="1622" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0rkceo2_di" bpmnElement="SequenceFlow_0rkceo2">
+        <di:waypoint x="1488" y="410" />
+        <di:waypoint x="1552" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0wvixoo_di" bpmnElement="SequenceFlow_0wvixoo">
+        <di:waypoint x="2060" y="555" />
+        <di:waypoint x="2060" y="270" />
+        <di:waypoint x="1470" y="270" />
+        <di:waypoint x="1470" y="392" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2073" y="380" width="15" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1c2gjvv_di" bpmnElement="SequenceFlow_1c2gjvv">
+        <di:waypoint x="4960" y="562" />
+        <di:waypoint x="4960" y="390" />
+        <di:waypoint x="4520" y="390" />
+        <di:waypoint x="4520" y="562" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0e8ceq7_di" bpmnElement="SequenceFlow_0e8ceq7">
+        <di:waypoint x="4270" y="795" />
+        <di:waypoint x="4270" y="598" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="4277" y="703" width="25" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_04l1ou7_di" bpmnElement="SequenceFlow_04l1ou7">
+        <di:waypoint x="4590" y="950" />
+        <di:waypoint x="4850" y="950" />
+        <di:waypoint x="4850" y="598" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0l73sdh_di" bpmnElement="SequenceFlow_0l73sdh">
+        <di:waypoint x="3740" y="910" />
+        <di:waypoint x="3740" y="598" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0m7e3et_di" bpmnElement="SequenceFlow_0m7e3et">
+        <di:waypoint x="3878" y="580" />
+        <di:waypoint x="3992" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0flmdb7_di" bpmnElement="SequenceFlow_0flmdb7">
+        <di:waypoint x="3620" y="950" />
+        <di:waypoint x="3690" y="950" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_0lhaqmu_di" bpmnElement="SequenceFlow_0lhaqmu">
+        <di:waypoint x="1470" y="910" />
+        <di:waypoint x="1470" y="580" />
+        <di:waypoint x="1552" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_01w3b3t_di" bpmnElement="SequenceFlow_01w3b3t">
+        <di:waypoint x="1658" y="410" />
+        <di:waypoint x="1702" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_0l05cdo_di" bpmnElement="IntermediateThrowEvent_1d7krhw">
+        <dc:Bounds x="1702" y="392" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1605yja_di" bpmnElement="SequenceFlow_1605yja">
+        <di:waypoint x="1738" y="410" />
+        <di:waypoint x="1772" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_0ci2z5c_di" bpmnElement="IntermediateCatchEvent_0ci2z5c">
+        <dc:Bounds x="1012" y="392" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0k305es_di" bpmnElement="SequenceFlow_0k305es">
+        <di:waypoint x="978" y="410" />
+        <di:waypoint x="1012" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_117ptka_di" bpmnElement="SequenceFlow_117ptka">
+        <di:waypoint x="1048" y="410" />
+        <di:waypoint x="1082" y="410" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_18yv9i5_di" bpmnElement="IntermediateCatchEvent_18yv9i5">
+        <dc:Bounds x="2722" y="562" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_1eqv0y3_di" bpmnElement="SequenceFlow_1eqv0y3">
+        <di:waypoint x="2722" y="580" />
+        <di:waypoint x="2688" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="SequenceFlow_1v2ihqe_di" bpmnElement="SequenceFlow_1v2ihqe">
+        <di:waypoint x="2792" y="580" />
+        <di:waypoint x="2758" y="580" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="ServiceTask_15ozsv2_di" bpmnElement="ServiceTask_15ozsv2">
+        <dc:Bounds x="3260" y="910" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0brhpw2_di" bpmnElement="SequenceFlow_0brhpw2">
+        <di:waypoint x="3360" y="950" />
+        <di:waypoint x="3422" y="950" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="IntermediateCatchEvent_1fdv46s_di" bpmnElement="IntermediateThrowEvent_0lbllp1">
+        <dc:Bounds x="3422" y="932" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_169u4dg_di" bpmnElement="SequenceFlow_169u4dg">
+        <di:waypoint x="3458" y="950" />
+        <di:waypoint x="3520" y="950" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>

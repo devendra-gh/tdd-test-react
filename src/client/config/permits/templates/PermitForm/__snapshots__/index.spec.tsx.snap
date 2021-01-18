@@ -1,0 +1,640 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Permit Form should render alert message 1`] = `
+<Container
+  locale="testlocale"
+>
+  <Component />
+  <div
+    className="PermitForm ui-lib-margin-b_xl"
+  >
+    <div
+      className="ui-lib-margin-b_md"
+      id="error-message-div"
+    >
+      <Alert
+        onClose={null}
+        status="error"
+      />
+    </div>
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <div
+      style={
+        Object {
+          "margin": "20px",
+        }
+      }
+    />
+    <CompanyDetailsQuestion
+      companyType="DED"
+      fetchLicenseDetails={[MockFunction]}
+      handleChange={[Function]}
+      handleCompanyTypeChange={[Function]}
+      handleRepresentativeTypeChange={[Function]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "error",
+            ],
+            Array [
+              "applicationdetails.templateTitle",
+            ],
+            Array [
+              "applicationdetails.templateDesc",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      serviceType="additionalAdPermit"
+      startShowingErrors={false}
+      values={
+        Object {
+          "formValidated": false,
+          "licenseNo": "",
+          "licenseValid": false,
+          "location": "",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "margin": "40px",
+        }
+      }
+    />
+    <PermitTypeForm
+      actions={
+        Object {
+          "companyDetails": Object {
+            "update": [MockFunction],
+          },
+          "validation": Object {
+            "reset": [MockFunction],
+            "update": [MockFunction],
+          },
+        }
+      }
+      commonFieldConfig={
+        Object {
+          "startDateLabel": "Test label",
+        }
+      }
+      companyDetails={
+        Object {
+          "formValidated": false,
+          "licenseNo": "",
+          "licenseValid": false,
+          "location": "",
+        }
+      }
+      companyType="DED"
+      fetchLicenseDetails={[MockFunction]}
+      form={
+        Object {
+          "onChange": [MockFunction],
+        }
+      }
+      getPermitCompanyTypes={[MockFunction]}
+      handleCategoryChange={[MockFunction]}
+      handleChange={[Function]}
+      handleCompanyDetailsChange={[MockFunction]}
+      handleCompanyTypeChange={[MockFunction]}
+      handlePermitFormChange={[MockFunction]}
+      handleRepresentativeTypeChange={[MockFunction]}
+      handleServiceTypeChange={[MockFunction]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "error",
+            ],
+            Array [
+              "applicationdetails.templateTitle",
+            ],
+            Array [
+              "applicationdetails.templateDesc",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      locale="testlocale"
+      onSubmit={[Function]}
+      permitForm={
+        Object {
+          "permitDetails": Object {
+            "label": "label 1",
+          },
+        }
+      }
+      permitInfo={
+        Object {
+          "airAdPermit": Object {
+            "applicantContact": Object {
+              "email": "email",
+              "name": "name",
+              "phone": "mobile",
+            },
+            "companyTypes": Object {
+              "0": "FZ",
+            },
+            "documents": Object {},
+            "permitDetails": Object {
+              "description": "",
+              "location": "",
+              "startDate": "",
+            },
+          },
+        }
+      }
+      permitServerError="error"
+      permitSubmitting="test"
+      permitType="airAdPermit"
+      permits={
+        Object {
+          "airAdPermit": Object {
+            "permitDetails": Object {
+              "label": "label 1",
+            },
+          },
+        }
+      }
+      serviceType="additionalAdPermit"
+      startShowingErrors={false}
+      validation={[MockFunction]}
+    />
+    <div
+      style={
+        Object {
+          "margin": "20px",
+        }
+      }
+    />
+  </div>
+</Container>
+`;
+
+exports[`Permit Form should render successfully 1`] = `
+<Container
+  locale="testlocale"
+>
+  <Component />
+  <div
+    className="PermitForm ui-lib-margin-b_xl"
+  >
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <div
+      style={
+        Object {
+          "margin": "20px",
+        }
+      }
+    />
+    <CompanyDetailsQuestion
+      companyType="DED"
+      fetchLicenseDetails={[MockFunction]}
+      handleChange={[Function]}
+      handleCompanyTypeChange={[Function]}
+      handleRepresentativeTypeChange={[Function]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "applicationdetails.templateTitle",
+            ],
+            Array [
+              "applicationdetails.templateDesc",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      serviceType="additionalAdPermit"
+      startShowingErrors={false}
+      values={
+        Object {
+          "formValidated": false,
+          "licenseNo": "",
+          "licenseValid": false,
+          "location": "",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "margin": "40px",
+        }
+      }
+    />
+    <PermitTypeForm
+      actions={
+        Object {
+          "companyDetails": Object {
+            "update": [MockFunction],
+          },
+          "validation": Object {
+            "reset": [MockFunction],
+            "update": [MockFunction],
+          },
+        }
+      }
+      commonFieldConfig={
+        Object {
+          "startDateLabel": "Test label",
+        }
+      }
+      companyDetails={
+        Object {
+          "formValidated": false,
+          "licenseNo": "",
+          "licenseValid": false,
+          "location": "",
+        }
+      }
+      companyType="DED"
+      fetchLicenseDetails={[MockFunction]}
+      form={
+        Object {
+          "onChange": [MockFunction],
+        }
+      }
+      getPermitCompanyTypes={[MockFunction]}
+      handleCategoryChange={[MockFunction]}
+      handleChange={[Function]}
+      handleCompanyDetailsChange={[MockFunction]}
+      handleCompanyTypeChange={[MockFunction]}
+      handlePermitFormChange={[MockFunction]}
+      handleRepresentativeTypeChange={[MockFunction]}
+      handleServiceTypeChange={[MockFunction]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "applicationdetails.templateTitle",
+            ],
+            Array [
+              "applicationdetails.templateDesc",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      locale="testlocale"
+      onSubmit={[Function]}
+      permitForm={
+        Object {
+          "permitDetails": Object {
+            "label": "label 1",
+          },
+        }
+      }
+      permitInfo={
+        Object {
+          "airAdPermit": Object {
+            "applicantContact": Object {
+              "email": "email",
+              "name": "name",
+              "phone": "mobile",
+            },
+            "companyTypes": Object {
+              "0": "FZ",
+            },
+            "documents": Object {},
+            "permitDetails": Object {
+              "description": "",
+              "location": "",
+              "startDate": "",
+            },
+          },
+        }
+      }
+      permitServerError=""
+      permitSubmitting="test"
+      permitType="airAdPermit"
+      permits={
+        Object {
+          "airAdPermit": Object {
+            "permitDetails": Object {
+              "label": "label 1",
+            },
+          },
+        }
+      }
+      serviceType="additionalAdPermit"
+      startShowingErrors={false}
+      validation={[MockFunction]}
+    />
+    <div
+      style={
+        Object {
+          "margin": "20px",
+        }
+      }
+    />
+  </div>
+</Container>
+`;
+
+exports[`Permit Form should render successfully 2`] = `
+<Container
+  locale="testlocale"
+>
+  <div
+    className="ui-lib-margin-b_md"
+  >
+    <Alert
+      onClose={null}
+      status="error"
+    />
+  </div>
+  <div
+    style={
+      Object {
+        "margin": "40px",
+      }
+    }
+  />
+</Container>
+`;
+
+exports[`Permit Form should render successfully 3`] = `
+<Container
+  locale="testlocale"
+>
+  <div
+    className="ui-lib-margin-b_md"
+  >
+    <Alert
+      onClose={null}
+      status="error"
+    />
+  </div>
+  <div
+    style={
+      Object {
+        "margin": "40px",
+      }
+    }
+  />
+</Container>
+`;
+
+exports[`Permit Form should render successfully 4`] = `
+<Container
+  locale="testlocale"
+>
+  <Component />
+  <div
+    className="PermitForm ui-lib-margin-b_xl"
+  >
+    <div
+      className="ui-lib-margin-b_md"
+      id="error-message-div"
+    >
+      <Alert
+        message=" "
+        onClose={null}
+        status="warning"
+      />
+    </div>
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <div
+      style={
+        Object {
+          "margin": "20px",
+        }
+      }
+    />
+    <CompanyDetailsQuestion
+      companyType="DED"
+      fetchLicenseDetails={[MockFunction]}
+      handleChange={[Function]}
+      handleCompanyTypeChange={[Function]}
+      handleRepresentativeTypeChange={[Function]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "applicationdetails.templateTitle",
+            ],
+            Array [
+              "applicationdetails.templateDesc",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      serviceType="additionalAdPermit"
+      startShowingErrors={false}
+      values={
+        Object {
+          "formValidated": false,
+          "licenseNo": "",
+          "licenseValid": false,
+          "location": "",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "margin": "40px",
+        }
+      }
+    />
+    <PermitTypeForm
+      actions={
+        Object {
+          "companyDetails": Object {
+            "update": [MockFunction],
+          },
+          "validation": Object {
+            "reset": [MockFunction],
+            "update": [MockFunction],
+          },
+        }
+      }
+      commonFieldConfig={
+        Object {
+          "startDateLabel": "Test label",
+        }
+      }
+      companyDetails={
+        Object {
+          "formValidated": false,
+          "licenseNo": "",
+          "licenseValid": false,
+          "location": "",
+        }
+      }
+      companyType="DED"
+      fetchLicenseDetails={[MockFunction]}
+      form={
+        Object {
+          "onChange": [MockFunction],
+        }
+      }
+      getPermitCompanyTypes={[MockFunction]}
+      handleCategoryChange={[MockFunction]}
+      handleChange={[Function]}
+      handleCompanyDetailsChange={[MockFunction]}
+      handleCompanyTypeChange={[MockFunction]}
+      handlePermitFormChange={[MockFunction]}
+      handleRepresentativeTypeChange={[MockFunction]}
+      handleServiceTypeChange={[MockFunction]}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "applicationdetails.templateTitle",
+            ],
+            Array [
+              "applicationdetails.templateDesc",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      locale="testlocale"
+      onSubmit={[Function]}
+      permitErrorMessage="<a>"
+      permitForm={
+        Object {
+          "permitDetails": Object {
+            "label": "label 1",
+          },
+        }
+      }
+      permitInfo={
+        Object {
+          "airAdPermit": Object {
+            "applicantContact": Object {
+              "email": "email",
+              "name": "name",
+              "phone": "mobile",
+            },
+            "companyTypes": Object {
+              "0": "FZ",
+            },
+            "documents": Object {},
+            "permitDetails": Object {
+              "description": "",
+              "location": "",
+              "startDate": "",
+            },
+          },
+        }
+      }
+      permitServerError=""
+      permitSubmitting="test"
+      permitType="airAdPermit"
+      permits={
+        Object {
+          "airAdPermit": Object {
+            "permitDetails": Object {
+              "label": "label 1",
+            },
+          },
+        }
+      }
+      serviceType="additionalAdPermit"
+      startShowingErrors={false}
+      validation={[MockFunction]}
+    />
+    <div
+      style={
+        Object {
+          "margin": "20px",
+        }
+      }
+    />
+  </div>
+</Container>
+`;

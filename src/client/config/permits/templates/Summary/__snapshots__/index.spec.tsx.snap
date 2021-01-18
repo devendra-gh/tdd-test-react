@@ -1,0 +1,321 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`permits/templates/Summary should render with all props  1`] = `
+<Container
+  sidebar={
+    <Connect(Sidebar)
+      currentStep="DED"
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "test",
+            ],
+            Array [
+              "descriptiontest",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "test",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": "test",
+            },
+            Object {
+              "type": "return",
+              "value": "descriptiontest",
+            },
+            Object {
+              "type": "return",
+              "value": "global.aed",
+            },
+            Object {
+              "type": "return",
+              "value": "test",
+            },
+          ],
+        }
+      }
+    />
+  }
+>
+  <div
+    className=""
+  >
+    <h1
+      className="syb-title"
+      style={
+        Object {
+          "marginBottom": "2rem",
+        }
+      }
+    >
+      test
+    </h1>
+    <p
+      style={
+        Object {
+          "color": "#000",
+        }
+      }
+    >
+      descriptiontest
+    </p>
+  </div>
+  <div
+    className="summary"
+  >
+    <div
+      className="summary__group"
+    >
+      <LocalizedComponent(Table)
+        0="t"
+        1="e"
+        2="s"
+        3="t"
+        clickable={false}
+        commonSelection="unchecked"
+        currPage={null}
+        disabledSelectionVisible={false}
+        editable={false}
+        filter={null}
+        headerHidden={false}
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "test",
+              ],
+              Array [
+                "descriptiontest",
+              ],
+              Array [
+                "global.aed",
+              ],
+              Array [
+                "test",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": "test",
+              },
+              Object {
+                "type": "return",
+                "value": "descriptiontest",
+              },
+              Object {
+                "type": "return",
+                "value": "global.aed",
+              },
+              Object {
+                "type": "return",
+                "value": "test",
+              },
+            ],
+          }
+        }
+        isSingleSelect={false}
+        items={Array []}
+        multiActions={null}
+        onActionClick={[Function]}
+        onClick={[Function]}
+        onFilter={[Function]}
+        onPageResize={[Function]}
+        onPageTurn={[Function]}
+        onRefreshClick={[Function]}
+        onSearch={[Function]}
+        onSelectionChange={[Function]}
+        onSort={[Function]}
+        onToggle={[Function]}
+        pageResizeOptions={Array []}
+        pageSize={null}
+        rowVerticalAlign="top"
+        search=""
+        searchable={false}
+        selectable={false}
+        singleActions={null}
+        size="default"
+        sort={null}
+        status=""
+        title=""
+        total={null}
+      />
+    </div>
+    <div
+      className="summary__group"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit="global.aed"
+        value={123}
+      />
+    </div>
+    <div
+      className="summary__group"
+    >
+      <withAnalytics(LocalizedComponent)
+        analyticsConfig={
+          Object {
+            "eventsFrom": Array [],
+          }
+        }
+        aria-label="test"
+        label="test"
+        onClick={[Function]}
+        withArrow={false}
+      />
+    </div>
+  </div>
+</Container>
+`;
+
+exports[`permits/templates/Summary should render with all props for else condition 1`] = `
+<Container
+  sidebar={false}
+>
+  <div
+    className=""
+  >
+    <h1
+      className="syb-title"
+      style={
+        Object {
+          "marginBottom": "2rem",
+        }
+      }
+    >
+      test
+    </h1>
+    <p
+      style={
+        Object {
+          "color": "#000",
+        }
+      }
+    >
+      descriptiontest
+    </p>
+  </div>
+  <div
+    className="summary"
+  >
+    <div
+      className="summary__group"
+    >
+      <LocalizedComponent(Table)
+        0="t"
+        1="e"
+        2="s"
+        3="t"
+        clickable={false}
+        commonSelection="unchecked"
+        currPage={null}
+        disabledSelectionVisible={false}
+        editable={false}
+        filter={null}
+        headerHidden={false}
+        i18n={
+          [MockFunction] {
+            "calls": Array [
+              Array [
+                "test",
+              ],
+              Array [
+                "descriptiontest",
+              ],
+              Array [
+                "global.aed",
+              ],
+              Array [
+                "test",
+              ],
+            ],
+            "results": Array [
+              Object {
+                "type": "return",
+                "value": "test",
+              },
+              Object {
+                "type": "return",
+                "value": "descriptiontest",
+              },
+              Object {
+                "type": "return",
+                "value": "global.aed",
+              },
+              Object {
+                "type": "return",
+                "value": "test",
+              },
+            ],
+          }
+        }
+        isSingleSelect={false}
+        items={Array []}
+        multiActions={null}
+        onActionClick={[Function]}
+        onClick={[Function]}
+        onFilter={[Function]}
+        onPageResize={[Function]}
+        onPageTurn={[Function]}
+        onRefreshClick={[Function]}
+        onSearch={[Function]}
+        onSelectionChange={[Function]}
+        onSort={[Function]}
+        onToggle={[Function]}
+        pageResizeOptions={Array []}
+        pageSize={null}
+        rowVerticalAlign="top"
+        search=""
+        searchable={false}
+        selectable={false}
+        singleActions={null}
+        size="default"
+        sort={null}
+        status=""
+        title=""
+        total={null}
+      />
+    </div>
+    <div
+      className="summary__group"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit="global.aed"
+        value={123}
+      />
+    </div>
+    <div
+      className="summary__group"
+    >
+      <withAnalytics(LocalizedComponent)
+        analyticsConfig={
+          Object {
+            "eventsFrom": Array [],
+          }
+        }
+        aria-label="test"
+        label="test"
+        onClick={[Function]}
+        withArrow={false}
+      />
+    </div>
+  </div>
+</Container>
+`;

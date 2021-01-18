@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`client/templates/Footer should render with feature flag 1`] = `
+<Fragment>
+  <Feedback />
+  <BugReport />
+  <LocalizedComponent(CookieTray)
+    cookieTrayStorageKey="ui-lib-cookey-key"
+    i18n={[Function]}
+    locale="en"
+    onClick={[Function]}
+    onClose={[Function]}
+    privacyLink=""
+    privacyLinkTarget="_blank"
+  />
+  <LocalizedComponent(Footer)
+    appLinks={Array []}
+    bottomRightLinks={Array []}
+    colorLabel="footer.theme_switcher.label"
+    copyright={
+      Object {
+        "label": undefined,
+      }
+    }
+    defaultThemeValue="footer.theme_switcher.default"
+    emergencyItems={Array []}
+    emergencyViewMoreLinkTarget="_blank"
+    emiratesLogo={
+      Object {
+        "iconPath": undefined,
+      }
+    }
+    fontSizeLabel="footer.text_size"
+    i18n={[Function]}
+    locale="en"
+    logUuid=""
+    onTextSizeChange={[Function]}
+    onThemeChange={[Function]}
+    socialLinks={Array []}
+    translateLabel="footer.language.label"
+  />
+</Fragment>
+`;

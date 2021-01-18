@@ -1,0 +1,544 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Html CheckboxInput 1`] = `
+<React.Fragment>
+  <div>
+    checkbox
+  </div>
+  <FieldErrorMessage
+    fieldErrors={Object {}}
+  />
+</React.Fragment>
+`;
+
+exports[`Html DateInput 1`] = `
+<React.Fragment>
+  <Memo(Label) />
+  <div>
+    Date picker
+  </div>
+  <FieldErrorMessage
+    fieldErrors={Object {}}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "label",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+  />
+</React.Fragment>
+`;
+
+exports[`Html FieldErrorMessage 1`] = `
+Array [
+  <span
+    style={
+      Object {
+        "color": "#ae1f23",
+      }
+    }
+  >
+    error
+  </span>,
+]
+`;
+
+exports[`Html FieldErrorMessage empty fieldErrors 1`] = `""`;
+
+exports[`Html RadioInput 1`] = `
+<div
+  style={
+    Object {
+      "marginBottom": "3rem",
+    }
+  }
+>
+  <div
+    className="questionnaire__label"
+  />
+  <LocalizedComponent(RadioGroup)
+    align="vertical"
+    allowedNotExpandedLimit={5}
+    defaultValue=""
+    disabled={false}
+    expanded={false}
+    groupLabel=""
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "title",
+          ],
+          Array [
+            "label",
+          ],
+          Array [
+            "description",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+    items={Array []}
+    labelStyle="default"
+    onChange={[Function]}
+    showMoreLabels={null}
+    uiType="default"
+  >
+    <Memo(RadioGroup.Radio)
+      checked={false}
+      name="label"
+      value="value"
+    />
+  </LocalizedComponent(RadioGroup)>
+  <FieldErrorMessage
+    fieldErrors={Object {}}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "title",
+          ],
+          Array [
+            "label",
+          ],
+          Array [
+            "description",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Html RadioInput else 1`] = `
+<div
+  style={
+    Object {
+      "marginBottom": "3rem",
+    }
+  }
+>
+  <Memo(Label) />
+  <LocalizedComponent(RadioGroup)
+    align="vertical"
+    allowedNotExpandedLimit={5}
+    defaultValue=""
+    disabled={false}
+    expanded={false}
+    groupLabel=""
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "label",
+          ],
+          Array [
+            "label",
+          ],
+          Array [
+            "description",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+    items={Array []}
+    labelStyle="default"
+    onChange={[Function]}
+    showMoreLabels={null}
+    uiType="default"
+  >
+    <Memo(RadioGroup.Radio)
+      checked={false}
+      name="label"
+      value="value"
+    />
+  </LocalizedComponent(RadioGroup)>
+  <FieldErrorMessage
+    fieldErrors={Object {}}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "label",
+          ],
+          Array [
+            "label",
+          ],
+          Array [
+            "description",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Html SelectInput 1`] = `
+<React.Fragment>
+  <LocalizedComponent(Select)
+    aria-label="select-control"
+    disabled={false}
+    help=""
+    i18n={[Function]}
+    id=""
+    isOpen={false}
+    isStatic={false}
+    items={
+      Array [
+        Object {
+          "id": "value",
+          "label": undefined,
+        },
+      ]
+    }
+    label=""
+    multi={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onOpenChange={[Function]}
+    onSearch={[Function]}
+    placeholder=""
+    popupAlign="start"
+    popupWidth={0}
+    showSearch={true}
+    size="default"
+    tabIndex={0}
+    validateStatus={null}
+    value={null}
+  />
+  <FieldErrorMessage
+    fieldErrors={Object {}}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "label",
+          ],
+          Array [
+            "label",
+          ],
+          Array [
+            undefined,
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+  />
+</React.Fragment>
+`;
+
+exports[`Html TextAreaInput 1`] = `
+<React.Fragment>
+  <Memo(Label) />
+  <div>
+    Text area
+  </div>
+  <FieldErrorMessage
+    fieldErrors={Object {}}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "label",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+  />
+</React.Fragment>
+`;
+
+exports[`Html should properly call FileInput 1`] = `
+<React.Fragment>
+  <Memo(Label) />
+  <input
+    disabled={false}
+    type="file"
+    value={Object {}}
+  />
+  <FieldErrorMessage
+    fieldErrors={false}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "label",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+  />
+</React.Fragment>
+`;
+
+exports[`Html should properly call Form 1`] = `
+<div
+  className="p-4"
+>
+  <LocalizedComponent(Form)
+    backButton={
+      Object {
+        "alignIcon": "start",
+        "label": undefined,
+        "onClick": [Function],
+        "uiType": "secondary",
+        "withArrow": true,
+      }
+    }
+    cancelLink={null}
+    help=""
+    i18n={[Function]}
+    id=""
+    submitButton={
+      Object {
+        "label": undefined,
+        "onClick": [Function],
+        "withArrow": true,
+      }
+    }
+    validateStatus={null}
+  >
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      title=""
+      twoColumns={false}
+    />
+  </LocalizedComponent(Form)>
+  <button
+    className="questionnaire__cancel-button questionnaire__form-button"
+    onClick={[Function]}
+    type="button"
+  />
+</div>
+`;
+
+exports[`Html should properly call Form handleBack false 1`] = `
+<div
+  className="p-4"
+>
+  <LocalizedComponent(Form)
+    backButton={false}
+    cancelLink={null}
+    help=""
+    i18n={[Function]}
+    id=""
+    submitButton={
+      Object {
+        "label": undefined,
+        "onClick": [Function],
+        "withArrow": true,
+      }
+    }
+    validateStatus={null}
+  >
+    <Form.Fieldset
+      buttonGroup={false}
+      gapSize="default"
+      title=""
+      twoColumns={false}
+    />
+  </LocalizedComponent(Form)>
+  <button
+    className="questionnaire__cancel-button questionnaire__form-button-single"
+    onClick={[Function]}
+    type="button"
+  />
+</div>
+`;
+
+exports[`Html should properly call TextInput 1`] = `
+<React.Fragment>
+  <div
+    className="questionnaire__label"
+  />
+  <Memo(Input)
+    aria-label="input-text"
+    disabled={false}
+    validateStatus="error"
+    value={Object {}}
+  />
+  <div
+    className="questionnaire__field-error"
+  >
+    <FieldErrorMessage
+      fieldErrors={true}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "title",
+            ],
+            Array [
+              "label",
+            ],
+            Array [
+              undefined,
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+    />
+  </div>
+</React.Fragment>
+`;
+
+exports[`Html should properly call TextInput fieldError false 1`] = `
+<React.Fragment>
+  <Memo(Input)
+    aria-label="input-text"
+    disabled={false}
+    value={Object {}}
+  />
+  <div
+    style={
+      Object {
+        "marginBottom": "4rem",
+      }
+    }
+  />
+</React.Fragment>
+`;
+
+exports[`Html should properly call TextInput questionnaire false 1`] = `
+<React.Fragment>
+  <Memo(Input)
+    aria-label="input-text"
+    disabled={false}
+    value={Object {}}
+  />
+  <FieldErrorMessage
+    fieldErrors={false}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "label",
+          ],
+          Array [
+            undefined,
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+  />
+</React.Fragment>
+`;

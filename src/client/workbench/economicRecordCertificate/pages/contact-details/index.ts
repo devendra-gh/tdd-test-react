@@ -1,0 +1,498 @@
+import * as func from './functions';
+
+const pageConfig = [
+  {
+    title: 'Contact Details',
+    pageId: 'clAb9cDYhtGb0LegCcI9Q',
+    expanded: true,
+    path: '/application-submit',
+    template: 'custom',
+    props: {
+      definitions: [
+        {
+          componentId: 'H64V42_INbPa40YhyY_kE',
+          type: 'text',
+          props: {
+            variant: 'h3',
+            content: "i18n('applicantDetailsTitle')",
+            displayAsHtml: false,
+          },
+          layout: 'base',
+          sharedProps: ['i18n', 'locale'],
+        },
+        {
+          componentId: 'VhPUpHEGXaG4juoSxeSQh',
+          type: 'text',
+          props: {
+            variant: 'p',
+            content: "i18n('applicantDetailsDescription')",
+            displayAsHtml: false,
+            space: {
+              marginBottom: 'lg',
+            },
+          },
+          layout: 'base',
+          sharedProps: ['i18n', 'locale'],
+        },
+        {
+          componentId: 'oH1M5dpeoeJdK60mNO8G4',
+          type: 'form',
+          props: {
+            definitions: [
+              {
+                componentId: 'CXtpGH8dY0ZY3-4hX4GZR',
+                symbolTitle: 'Symbol 1',
+                type: 'symbol',
+                props: {
+                  symbol: 'ZkHfwnI1JLDASDvY3PAq3',
+                },
+                layout: 'base',
+              },
+            ],
+            description: '',
+            title: '',
+            formValues: '',
+            btnSubmitLabel: "i18n('globalNext')",
+            includeCancelButton: true,
+            includeBackButton: true,
+            btnBackLabel: "i18n('globalBack')",
+            validateStatus: {
+              valid: true,
+              message: '',
+            },
+            btnSubmitArrow: 'end',
+            btnBackArrow: 'start',
+            btnSubmitClick: func.f1_btnSubmitClick,
+            btnCancelClick: func.f2_btnCancelClick,
+            btnBackClick: func.f3_btnBackClick,
+          },
+          layout: 'base',
+          sharedProps: [
+            'i18n',
+            'locale',
+            'history',
+            'actions',
+            'bpm',
+            'analytics',
+            'contactDetailsName',
+            'nameValidateStatus',
+            'contactDetailsMobile',
+            'contactDetailsEmail',
+            'licenceNumber',
+            'user',
+            '',
+            'actions',
+          ],
+        },
+      ],
+      symbols: [
+        {
+          id: 'LRdpV5hJYYHXEeQXvW572',
+          name: 'Sidebar',
+          definitions: [
+            {
+              componentId: 'x02R_vTEPQV7EuW80B8-y',
+              type: 'stepTracker',
+              props: {
+                title: "i18n('process')",
+                steps: '${state.steps}',
+                expandedStepIndexes: '${state.expandedStepIndexes}',
+                currentStepIndex: '${state.currentStepIndex}',
+                i18n: '',
+                currentSubStepIndex: '${state.currentSubStepIndex}',
+                visible: '{"code":"  return props.state.showSideBar;"}',
+              },
+              layout: 'base',
+              sharedProps: [
+                'i18n',
+                'locale',
+                'showSideBar',
+                'steps',
+                'expandedStepIndexes',
+                'currentStepIndex',
+                'currentSubStepIndex',
+              ],
+            },
+            {
+              columnIndex: 0,
+              componentId: 'bx_ewe29IC5HCtaVmJhKJ',
+              type: 'relevantEntity2-0-0',
+              props: {
+                i18n: '',
+                title: "i18n('relevantEntity')",
+                entities: [
+                  {
+                    logo:
+                      'https://www.tamm.abudhabi/en/tamm-centers-services/-/media/Project/TAMM/Home/Footer%20Logos/Department%20of%20Economic%20Development',
+                    address: "i18n('address')",
+                    phones: [],
+                    website: 'www.adeconomy.ae',
+                    email: 'email@domain.com',
+                  },
+                ],
+                closedAll: false,
+                space: {
+                  marginTop: 'xl',
+                  marginBottom: 'xl',
+                },
+                visible: '{"code":"  return props.state.showSideBar;"}',
+              },
+              sharedProps: ['i18n', 'locale', 'showSideBar'],
+            },
+          ],
+        },
+        {
+          id: 'SpZNRSS1hcBXpPT30yok2',
+          name: 'Header',
+          definitions: [
+            {
+              componentId: '_0JdDeDuJ9aLzLvOyksSX',
+              type: 'flexbox',
+              props: {
+                flexWrap: true,
+                flexDirection: 'column',
+                justifyContent: 'initial',
+                alignItems: 'initial',
+                alignContent: 'initial',
+                classNames: 'container',
+              },
+              layout: 'base',
+              children: [
+                {
+                  componentId: 'NsDev2OWYPDn7ZqbM1-Na',
+                  type: 'breadcrumb',
+                  props: {
+                    space: {
+                      marginBottom: 'md',
+                      marginTop: 'lg',
+                    },
+                    items: [
+                      {
+                        id: 'kdmsxtik',
+                        label: "i18n('bc_home')",
+                        linkTarget: '_self',
+                        link: '/',
+                      },
+                      {
+                        id: 'kdmsyjm9',
+                        label: "i18n('bc_digitalServices')",
+                        link: 'https://www.tamm.abudhabi/tamm-centers-services',
+                        linkTarget: '_self',
+                      },
+                      {
+                        id: 'kdmszcbw',
+                        label: "i18n('bc_DED')",
+                        link:
+                          'https://www.tamm.abudhabi/tamm-centers-services/department-of-economic-development',
+                        linkTarget: '_self',
+                      },
+                    ],
+                  },
+                  parentComponentId: 'no_parent',
+                  sharedProps: ['i18n', 'locale'],
+                },
+                {
+                  componentId: '68aenTCGP0X-L3br5r-li',
+                  type: 'text',
+                  props: {
+                    variant: 'h1',
+                    content: "i18n('serviceCardServicename')",
+                    displayAsHtml: false,
+                  },
+                  layout: 'base',
+                  parentComponentId: 'no_parent',
+                  sharedProps: ['i18n', 'locale'],
+                },
+              ],
+            },
+          ],
+        },
+        {
+          id: 'ZkHfwnI1JLDASDvY3PAq3',
+          name: 'Application Details',
+          definitions: [
+            {
+              componentId: 'x8NzMMR4useFQBHrXKDV0',
+              type: 'checkbox',
+              props: {
+                name: '',
+                id: '',
+                tabIndex: 0,
+                autoFocus: false,
+                readOnly: false,
+                label: "i18n('applicantDetailsCheckboxContact')",
+                disabled: false,
+                uiType: '',
+                description: '',
+                validateStatus: '',
+                meta: '',
+                space: {
+                  marginBottom: 'lg',
+                },
+                onClick: {
+                  type: 'func',
+                  actions: [],
+                },
+                onChange: {
+                  type: 'func',
+                  actions: [
+                    {
+                      type: 'customCode',
+                      code:
+                        "{\"code\":\"  const { locale } = props;\\n  return (value: any) => {\\n    props.actions.camundaMessage.update('');\\n    const checkBoxState = props.state.contactDetailsFlag ? false : true;\\n    props.actions.contactDetailsFlag.update(checkBoxState);\\n    if (checkBoxState) {\\n      const name =\\n        locale === 'en'\\n          ? `${props.state.user['First Name EN']} ${props.state.user['Last Name EN']}`\\n          : props.state.user['Full Name AR'];\\n      props.actions.contactDetailsName.update(name);\\n      props.actions.contactDetailsMobile.update(props.state.user.Mobile);\\n      props.actions.contactDetailsEmail.update(props.state.user['User Email']);\\n    } else {\\n      props.actions.contactDetailsName.update('');\\n      props.actions.contactDetailsMobile.update('');\\n      props.actions.contactDetailsEmail.update('');\\n    }\\n    props.actions.nameValidateStatus.update('');\\n    props.actions.nameValidateHelp.update('');\\n    props.actions.mobileValidateStatus.update('');\\n    props.actions.mobileValidateHelp.update('');\\n    props.actions.emailValidateStatus.update('');\\n    props.actions.emailValidateHelp.update('');\\n  };\",\"shouldCallCustomCode\":true}",
+                    },
+                  ],
+                },
+                checked: '${state.contactDetailsFlag}',
+              },
+              layout: 'base',
+              sharedProps: [
+                'i18n',
+                'locale',
+                'actions',
+                'contactDetailsFlag',
+                'user',
+                'actions',
+              ],
+            },
+            {
+              componentId: 'GEzYxD1nNaqiuEuCint5u',
+              type: 'grid',
+              props: {
+                columns: 2,
+                flexColumns: {
+                  xl: 2,
+                  lg: 2,
+                  md: 2,
+                  sm: 1,
+                },
+                space: {
+                  marginTop: '',
+                },
+                visible: '{"code":"  "}',
+              },
+              layout: 'base',
+              children: [
+                {
+                  componentId: 'k4kDHPtQlLBE_fs1zZBWb',
+                  type: 'input',
+                  props: {
+                    label: "i18n('applicantDetailsNameField')",
+                    value: '${state.contactDetailsName}',
+                    defaultValue: '',
+                    'aria-label': "i18n('applicantDetailsNameField')",
+                    validateStatus: '${state.nameValidateStatus}',
+                    disabled: '${state.contactDetailsFlag}',
+                    readonly: false,
+                    help: '${state.nameValidateHelp}',
+                    placeholder: '',
+                    size: 'default',
+                    textDirection: 'ltr',
+                    name: '',
+                    type: 'text',
+                    tabIndex: 0,
+                    space: {
+                      marginBottom: 'lg',
+                    },
+                    onChange: {
+                      type: 'func',
+                      actions: [
+                        {
+                          type: 'customCode',
+                          code:
+                            "{\"code\":\"  return (value: string) => {\\n    props.actions.nameValidateStatus.update('');\\n    props.actions.nameValidateHelp.update('');\\n    if (!props.state.contactDetailsFlag && value.length < 5) {\\n      props.actions.nameValidateStatus.update('error');\\n      props.actions.nameValidateHelp.update(props.i18n('nameValidation'));\\n    }\\n    props.actions.contactDetailsName.update(value);\\n  };\",\"shouldCallCustomCode\":true}",
+                        },
+                      ],
+                    },
+                    visible: '',
+                  },
+                  layout: 'base',
+                  columnIndex: 0,
+                  sharedProps: [
+                    'i18n',
+                    'locale',
+                    'actions',
+                    'contactDetailsFlag',
+                    'contactDetailsName',
+                    'nameValidateStatus',
+                    'nameValidateHelp',
+                    'actions',
+                  ],
+                },
+                {
+                  componentId: 'RqPbZXaLXOeHlhnwz02ab',
+                  type: 'input',
+                  props: {
+                    label: "i18n('applicantDetailsEmailField')",
+                    value: '${state.contactDetailsEmail}',
+                    defaultValue: '',
+                    'aria-label': "i18n('applicantDetailsEmailField')",
+                    validateStatus: '${state.emailValidateStatus}',
+                    disabled: '${state.contactDetailsFlag}',
+                    readonly: false,
+                    help: '${state.emailValidateHelp}',
+                    placeholder: '',
+                    size: 'default',
+                    textDirection: 'ltr',
+                    name: '',
+                    type: 'text',
+                    space: {
+                      marginTop: '',
+                      marginBottom: 'lg',
+                    },
+                    tabIndex: 0,
+                    onChange: {
+                      type: 'func',
+                      actions: [
+                        {
+                          type: 'customCode',
+                          code:
+                            '{"code":"  return (value: string) => {\\n    props.actions.emailValidateStatus.update(\'\');\\n    props.actions.emailValidateHelp.update(\'\');\\n    props.actions.contactDetailsEmail.update(value);\\n  };","shouldCallCustomCode":true}',
+                        },
+                      ],
+                    },
+                    visible: '',
+                  },
+                  layout: 'base',
+                  columnIndex: 0,
+                  sharedProps: [
+                    'i18n',
+                    'locale',
+                    'actions',
+                    'contactDetailsEmail',
+                    'emailValidateStatus',
+                    'contactDetailsFlag',
+                    'emailValidateHelp',
+                    'actions',
+                  ],
+                },
+                {
+                  componentId: 'a3tmA1HJd2PoVrhELaOF5',
+                  type: 'inputTelephone',
+                  props: {
+                    i18n: '',
+                    help: '${state.mobileValidateHelp}',
+                    validateStatus: '${state.mobileValidateStatus}',
+                    label: "i18n('applicantDetailsNumberField')",
+                    'aria-label': "i18n('applicantDetailsNumberField')",
+                    disabled: '${state.contactDetailsFlag}',
+                    value: '${state.contactDetailsMobile}',
+                    code: null,
+                    countries: [],
+                    size: 'default',
+                    defaultValue: {},
+                    tabIndex: 0,
+                    space: {
+                      marginBottom: 'lg',
+                    },
+                    onSelect: {
+                      type: 'func',
+                      actions: [
+                        {
+                          type: 'customCode',
+                          code:
+                            '{"code":" return (value: string) => {\\n    props.actions.mobileValidateStatus.update(\'\');\\n    props.actions.mobileValidateHelp.update(\'\');\\n    props.actions.contactDetailsMobile.update(value);\\n  };","shouldCallCustomCode":true}',
+                        },
+                      ],
+                    },
+                    visible: '',
+                  },
+                  layout: 'base',
+                  columnIndex: 1,
+                  sharedProps: [
+                    'i18n',
+                    'locale',
+                    'actions',
+                    'mobileValidateHelp',
+                    'mobileValidateStatus',
+                    'contactDetailsFlag',
+                    'contactDetailsMobile',
+                    'actions',
+                  ],
+                },
+              ],
+            },
+            {
+              componentId: 'zTQtz7Bm5KbcT0pffQ2Lq',
+              type: 'alert',
+              props: {
+                status: 'error',
+                message: '${state.camundaMessage}',
+                onClose: null,
+                space: {
+                  marginBottom: '',
+                },
+                visible:
+                  '{"code":"  return props.state.camundaMessage ? true : false;"}',
+              },
+              layout: 'base',
+              sharedProps: ['i18n', 'locale', 'camundaMessage'],
+            },
+          ],
+        },
+      ],
+      sharedFunctions: {},
+    },
+    layout: 'sidebar',
+    customPath: true,
+    requires: [
+      {
+        type: 'REQUIRES_LOGIN',
+        redirectTo: '/login',
+      },
+    ],
+    state: {
+      mapState: [
+        'user',
+        'loggedIn',
+        'contactDetailsFlag',
+        'camundaMessage',
+        'contactDetailsName',
+        'nameValidateStatus',
+        'nameValidateHelp',
+        'contactDetailsEmail',
+        'emailValidateStatus',
+        'emailValidateHelp',
+        'mobileValidateHelp',
+        'mobileValidateStatus',
+        'contactDetailsMobile',
+        'showSideBar',
+        'steps',
+        'expandedStepIndexes',
+        'currentStepIndex',
+        'currentSubStepIndex',
+        'licenceNumber',
+        '',
+      ],
+      mapDispatch: [
+        'contactDetailsName',
+        'contactDetailsMobile',
+        'contactDetailsEmail',
+        'nameValidateStatus',
+        'nameValidateHelp',
+        'mobileValidateStatus',
+        'mobileValidateHelp',
+        'emailValidateStatus',
+        'emailValidateHelp',
+        'showSideBar',
+        'currentStepIndex',
+        'loading',
+        'expandedStepIndexes',
+        'steps',
+        'camundaMessage',
+        'contactDetailsFlag',
+        'instanceId',
+        'businessKey',
+        '',
+      ],
+    },
+    init: func.init,
+    onPageInit: func.onPageInit,
+    fromProcessState: {
+      processName: 'workbench',
+      variables: ['responseDescription'],
+    },
+  },
+];
+
+export default pageConfig;

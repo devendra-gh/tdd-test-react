@@ -1,0 +1,1050 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Summary Template should successfully render the summary template 1`] = `
+<Container
+  locale="en"
+  sidebar={
+    <SidebarTemplate
+      eligibilityCard={null}
+      label=""
+      lists={Array []}
+      process={
+        Object {
+          "steps": Array [
+            Object {
+              "label": undefined,
+              "name": "process step",
+              "status": "finish",
+            },
+          ],
+          "title": undefined,
+        }
+      }
+      relatedJourney={null}
+      relevantEntity={
+        Object {
+          "entities": Array [
+            Object {
+              "address": undefined,
+              "email": "contact.abudhabi.ae",
+              "id": 0,
+              "logo": "/images/DED-logo.png",
+              "officeHours": Object {
+                "status": "default",
+                "workingHours": Object {
+                  "friday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "monday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "saturday": Object {
+                    "closed": true,
+                  },
+                  "sunday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "thursday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "tuesday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "wednesday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                },
+              },
+              "phones": Array [
+                "+971 2 815 8888",
+              ],
+              "publicServiceHours": Object {
+                "status": "24/7",
+              },
+              "website": "www.adeconomy.ae",
+            },
+          ],
+          "title": undefined,
+        }
+      }
+      relevantEntityLink={
+        Object {
+          "label": undefined,
+        }
+      }
+      socialSharing={null}
+    />
+  }
+>
+  <div
+    className=""
+  >
+    <h1
+      className="syb-title"
+      style={
+        Object {
+          "marginBottom": "2rem",
+        }
+      }
+    />
+    <p
+      style={
+        Object {
+          "color": "#000",
+        }
+      }
+    />
+  </div>
+  <div
+    className="summary"
+  >
+    <LocalizedComponent(Form)
+      backButton={null}
+      breadcrumbs={Array []}
+      businessKey="123456"
+      buttons={
+        Array [
+          Object {
+            "label": "button",
+            "onClick": [MockFunction],
+            "uiType": "primary",
+            "withArraow": false,
+          },
+        ]
+      }
+      cancelLink={
+        Object {
+          "href": "",
+          "label": undefined,
+          "onClick": [Function],
+        }
+      }
+      description="Payment Template"
+      handleTermsConditions={[MockFunction]}
+      help=""
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "departmentOfEconomicDevelopment.address",
+            ],
+            Array [
+              "sidebar.home.label",
+            ],
+            Array [
+              "sidebar.home.relevantEntityLink",
+            ],
+            Array [
+              "process title",
+            ],
+            Array [
+              "process step",
+            ],
+            Array [
+              "relevant_entity",
+            ],
+            Array [
+              "Test subtitle",
+            ],
+            Array [
+              "Payment Template",
+            ],
+            Array [
+              "button",
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      id=""
+      instanceId="123456"
+      list={
+        Array [
+          Object {
+            "labelHeading": "test label heading",
+            "listDetails": Object {
+              "label": "test label",
+              "value": "test value",
+            },
+            "valueHeading": "test value heading",
+          },
+        ]
+      }
+      locale="en"
+      process={
+        Object {
+          "steps": Array [
+            Object {
+              "name": "process step",
+            },
+          ],
+          "title": "process title",
+        }
+      }
+      showErrors={false}
+      startingPayment={false}
+      status="success"
+      stepStatus={
+        Object {
+          "process step": "finish",
+        }
+      }
+      submitButton={
+        Object {
+          "label": undefined,
+          "onClick": [Function],
+          "withArrow": true,
+        }
+      }
+      subtitle="Test subtitle"
+      termsAndConditions={Object {}}
+      termsAndConditionsValues={
+        Array [
+          true,
+        ]
+      }
+      title="Notice"
+      totalSection={200}
+      validateStatus={null}
+    >
+      <div
+        className="summary__group summary__group__table"
+      >
+        <LocalizedComponent(Table)
+          clickable={false}
+          commonSelection="unchecked"
+          currPage={null}
+          disabledSelectionVisible={false}
+          editable={false}
+          filter={null}
+          headerHidden={false}
+          i18n={
+            [MockFunction] {
+              "calls": Array [
+                Array [
+                  "departmentOfEconomicDevelopment.address",
+                ],
+                Array [
+                  "sidebar.home.label",
+                ],
+                Array [
+                  "sidebar.home.relevantEntityLink",
+                ],
+                Array [
+                  "process title",
+                ],
+                Array [
+                  "process step",
+                ],
+                Array [
+                  "relevant_entity",
+                ],
+                Array [
+                  "Test subtitle",
+                ],
+                Array [
+                  "Payment Template",
+                ],
+                Array [
+                  "button",
+                ],
+                Array [
+                  undefined,
+                ],
+                Array [
+                  "global.aed",
+                ],
+              ],
+              "results": Array [
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+              ],
+            }
+          }
+          isSingleSelect={false}
+          items={Array []}
+          labelHeading="test label heading"
+          listDetails={
+            Object {
+              "label": "test label",
+              "value": "test value",
+            }
+          }
+          multiActions={null}
+          onActionClick={[Function]}
+          onClick={[Function]}
+          onFilter={[Function]}
+          onPageResize={[Function]}
+          onPageTurn={[Function]}
+          onRefreshClick={[Function]}
+          onSearch={[Function]}
+          onSelectionChange={[Function]}
+          onSort={[Function]}
+          onToggle={[Function]}
+          pageResizeOptions={Array []}
+          pageSize={null}
+          rowVerticalAlign="top"
+          search=""
+          searchable={false}
+          selectable={false}
+          singleActions={null}
+          size="default"
+          sort={null}
+          status=""
+          title=""
+          total={null}
+          valueHeading="test value heading"
+        />
+      </div>
+      <div
+        className="summary__group"
+      >
+        <LocalizedComponent(Total)
+          buttonDisabled={false}
+          i18n={[Function]}
+          isButtonVisible={false}
+          isValueFirst={false}
+          onClick={null}
+          unit=""
+          value={200}
+        />
+      </div>
+      <div
+        className="summary__group"
+      >
+        <TermsAndConditions
+          checked={
+            Array [
+              true,
+            ]
+          }
+          handleClick={[Function]}
+          i18n={
+            [MockFunction] {
+              "calls": Array [
+                Array [
+                  "departmentOfEconomicDevelopment.address",
+                ],
+                Array [
+                  "sidebar.home.label",
+                ],
+                Array [
+                  "sidebar.home.relevantEntityLink",
+                ],
+                Array [
+                  "process title",
+                ],
+                Array [
+                  "process step",
+                ],
+                Array [
+                  "relevant_entity",
+                ],
+                Array [
+                  "Test subtitle",
+                ],
+                Array [
+                  "Payment Template",
+                ],
+                Array [
+                  "button",
+                ],
+                Array [
+                  undefined,
+                ],
+                Array [
+                  "global.aed",
+                ],
+              ],
+              "results": Array [
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+              ],
+            }
+          }
+          items={Object {}}
+          showErrors={false}
+        />
+      </div>
+    </LocalizedComponent(Form)>
+  </div>
+</Container>
+`;
+
+exports[`Summary Template should successfully render the summary template with spinner when starting payment 1`] = `
+<Container
+  locale="en"
+  sidebar={
+    <SidebarTemplate
+      eligibilityCard={null}
+      label=""
+      lists={Array []}
+      process={
+        Object {
+          "steps": Array [
+            Object {
+              "label": undefined,
+              "name": "process step",
+              "status": "finish",
+            },
+          ],
+          "title": undefined,
+        }
+      }
+      relatedJourney={null}
+      relevantEntity={
+        Object {
+          "entities": Array [
+            Object {
+              "address": undefined,
+              "email": "contact.abudhabi.ae",
+              "id": 0,
+              "logo": "/images/DED-logo.png",
+              "officeHours": Object {
+                "status": "default",
+                "workingHours": Object {
+                  "friday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "monday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "saturday": Object {
+                    "closed": true,
+                  },
+                  "sunday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "thursday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "tuesday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                  "wednesday": Object {
+                    "closed": false,
+                    "end": "10 pm",
+                    "label": "5 am - 10 pm",
+                    "start": "5 am",
+                  },
+                },
+              },
+              "phones": Array [
+                "+971 2 815 8888",
+              ],
+              "publicServiceHours": Object {
+                "status": "24/7",
+              },
+              "website": "www.adeconomy.ae",
+            },
+          ],
+          "title": undefined,
+        }
+      }
+      relevantEntityLink={
+        Object {
+          "label": undefined,
+        }
+      }
+      socialSharing={null}
+    />
+  }
+>
+  <Component />
+  <div
+    className=""
+  >
+    <h1
+      className="syb-title"
+      style={
+        Object {
+          "marginBottom": "2rem",
+        }
+      }
+    />
+    <p
+      style={
+        Object {
+          "color": "#000",
+        }
+      }
+    />
+  </div>
+  <div
+    className="summary"
+  >
+    <LocalizedComponent(Form)
+      backButton={null}
+      breadcrumbs={Array []}
+      businessKey="123456"
+      buttons={
+        Array [
+          Object {
+            "label": "button",
+            "onClick": [MockFunction],
+            "uiType": "primary",
+            "withArraow": false,
+          },
+        ]
+      }
+      cancelLink={
+        Object {
+          "href": "",
+          "label": undefined,
+          "onClick": [Function],
+        }
+      }
+      description="Payment Template"
+      handleTermsConditions={[MockFunction]}
+      help=""
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "departmentOfEconomicDevelopment.address",
+            ],
+            Array [
+              "sidebar.home.label",
+            ],
+            Array [
+              "sidebar.home.relevantEntityLink",
+            ],
+            Array [
+              "process title",
+            ],
+            Array [
+              "process step",
+            ],
+            Array [
+              "relevant_entity",
+            ],
+            Array [
+              "Test subtitle",
+            ],
+            Array [
+              "Payment Template",
+            ],
+            Array [
+              "button",
+            ],
+            Array [
+              undefined,
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      id=""
+      instanceId="123456"
+      list={
+        Array [
+          Object {
+            "labelHeading": "test label heading",
+            "listDetails": Object {
+              "label": "test label",
+              "value": "test value",
+            },
+            "valueHeading": "test value heading",
+          },
+        ]
+      }
+      locale="en"
+      process={
+        Object {
+          "steps": Array [
+            Object {
+              "name": "process step",
+            },
+          ],
+          "title": "process title",
+        }
+      }
+      showErrors={false}
+      startingPayment={true}
+      status="success"
+      stepStatus={
+        Object {
+          "process step": "finish",
+        }
+      }
+      submitButton={
+        Object {
+          "label": undefined,
+          "onClick": [Function],
+          "withArrow": true,
+        }
+      }
+      subtitle="Test subtitle"
+      termsAndConditions={Object {}}
+      termsAndConditionsValues={
+        Array [
+          true,
+        ]
+      }
+      title="Notice"
+      totalSection={200}
+      validateStatus={null}
+    >
+      <div
+        className="summary__group summary__group__table"
+      >
+        <LocalizedComponent(Table)
+          clickable={false}
+          commonSelection="unchecked"
+          currPage={null}
+          disabledSelectionVisible={false}
+          editable={false}
+          filter={null}
+          headerHidden={false}
+          i18n={
+            [MockFunction] {
+              "calls": Array [
+                Array [
+                  "departmentOfEconomicDevelopment.address",
+                ],
+                Array [
+                  "sidebar.home.label",
+                ],
+                Array [
+                  "sidebar.home.relevantEntityLink",
+                ],
+                Array [
+                  "process title",
+                ],
+                Array [
+                  "process step",
+                ],
+                Array [
+                  "relevant_entity",
+                ],
+                Array [
+                  "Test subtitle",
+                ],
+                Array [
+                  "Payment Template",
+                ],
+                Array [
+                  "button",
+                ],
+                Array [
+                  undefined,
+                ],
+                Array [
+                  "global.aed",
+                ],
+              ],
+              "results": Array [
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+              ],
+            }
+          }
+          isSingleSelect={false}
+          items={Array []}
+          labelHeading="test label heading"
+          listDetails={
+            Object {
+              "label": "test label",
+              "value": "test value",
+            }
+          }
+          multiActions={null}
+          onActionClick={[Function]}
+          onClick={[Function]}
+          onFilter={[Function]}
+          onPageResize={[Function]}
+          onPageTurn={[Function]}
+          onRefreshClick={[Function]}
+          onSearch={[Function]}
+          onSelectionChange={[Function]}
+          onSort={[Function]}
+          onToggle={[Function]}
+          pageResizeOptions={Array []}
+          pageSize={null}
+          rowVerticalAlign="top"
+          search=""
+          searchable={false}
+          selectable={false}
+          singleActions={null}
+          size="default"
+          sort={null}
+          status=""
+          title=""
+          total={null}
+          valueHeading="test value heading"
+        />
+      </div>
+      <div
+        className="summary__group"
+      >
+        <LocalizedComponent(Total)
+          buttonDisabled={false}
+          i18n={[Function]}
+          isButtonVisible={false}
+          isValueFirst={false}
+          onClick={null}
+          unit=""
+          value={200}
+        />
+      </div>
+      <div
+        className="summary__group"
+      >
+        <TermsAndConditions
+          checked={
+            Array [
+              true,
+            ]
+          }
+          handleClick={[Function]}
+          i18n={
+            [MockFunction] {
+              "calls": Array [
+                Array [
+                  "departmentOfEconomicDevelopment.address",
+                ],
+                Array [
+                  "sidebar.home.label",
+                ],
+                Array [
+                  "sidebar.home.relevantEntityLink",
+                ],
+                Array [
+                  "process title",
+                ],
+                Array [
+                  "process step",
+                ],
+                Array [
+                  "relevant_entity",
+                ],
+                Array [
+                  "Test subtitle",
+                ],
+                Array [
+                  "Payment Template",
+                ],
+                Array [
+                  "button",
+                ],
+                Array [
+                  undefined,
+                ],
+                Array [
+                  "global.aed",
+                ],
+              ],
+              "results": Array [
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+                Object {
+                  "type": "return",
+                  "value": undefined,
+                },
+              ],
+            }
+          }
+          items={Object {}}
+          showErrors={false}
+        />
+      </div>
+    </LocalizedComponent(Form)>
+  </div>
+</Container>
+`;

@@ -1,0 +1,264 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Company details question for type DED should successfully render the company details form for type DED 1`] = `
+<Fragment>
+  <LocalizedComponent(FormTemplate)
+    cancelButton={null}
+    cancelLink={null}
+    formData={Object {}}
+    i18n={[Function]}
+    id={null}
+    inputGroups={
+      Array [
+        Object {
+          "fields": Array [],
+          "name": "title.addCompanyDetails",
+          "twoColumns": true,
+        },
+        Object {
+          "fields": Array [
+            Object {
+              "elementType": "input",
+              "label": "field.comLicenseNumber",
+              "name": "contactDetails.licenseNo",
+              "onBlur": [Function],
+              "onChange": [Function],
+              "validate": [Function],
+              "value": undefined,
+            },
+          ],
+          "twoColumns": true,
+        },
+      ]
+    }
+    name="companyDetails"
+    submitButton={null}
+  />
+  <div
+    style={
+      Object {
+        "margin": "20px",
+      }
+    }
+  />
+</Fragment>
+`;
+
+exports[`Company details question for type other companies should successfully render the company details form for other companies 1`] = `
+<Fragment>
+  <LocalizedComponent(FormTemplate)
+    cancelButton={null}
+    cancelLink={null}
+    formData={Object {}}
+    i18n={[Function]}
+    id={null}
+    inputGroups={
+      Array [
+        Object {
+          "fields": Array [
+            Object {
+              "aria-label": "select  ",
+              "elementType": "select",
+              "items": Array [
+                Object {
+                  "id": "DED",
+                  "label": "company.label.ded",
+                },
+                Object {
+                  "id": "FC",
+                  "label": "company.label.fc",
+                },
+                Object {
+                  "id": "FZ",
+                  "label": "company.label.fz",
+                },
+                Object {
+                  "id": "NL",
+                  "label": "company.label.nl",
+                },
+                Object {
+                  "id": "ADGE",
+                  "label": "company.label.adge",
+                },
+              ],
+              "label": "field.companyType",
+              "name": "field.companyType",
+              "onChange": [Function],
+              "showSearch": false,
+              "value": "DED",
+            },
+          ],
+          "name": "title.addCompanyDetails",
+          "twoColumns": true,
+        },
+        Object {
+          "fields": Array [
+            Object {
+              "elementType": "input",
+              "label": "field.comLicenseNumber",
+              "name": "contactDetails.licenseNo",
+              "onBlur": [Function],
+              "onChange": [Function],
+              "validate": [Function],
+              "value": undefined,
+            },
+          ],
+          "twoColumns": true,
+        },
+      ]
+    }
+    name="companyDetails"
+    submitButton={null}
+  />
+  <div
+    style={
+      Object {
+        "margin": "20px",
+      }
+    }
+  />
+</Fragment>
+`;
+
+exports[`Company details question for type other companies should successfully render the company details form for type ADGE 1`] = `
+<Fragment>
+  <LocalizedComponent(FormTemplate)
+    cancelButton={null}
+    cancelLink={null}
+    formData={Object {}}
+    i18n={[Function]}
+    id={null}
+    inputGroups={
+      Array [
+        Object {
+          "fields": Array [
+            Object {
+              "aria-label": "select  ",
+              "elementType": "select",
+              "items": Array [
+                Object {
+                  "id": "DED",
+                  "label": "company.label.ded",
+                },
+                Object {
+                  "id": "FC",
+                  "label": "company.label.fc",
+                },
+                Object {
+                  "id": "FZ",
+                  "label": "company.label.fz",
+                },
+                Object {
+                  "id": "NL",
+                  "label": "company.label.nl",
+                },
+                Object {
+                  "id": "ADGE",
+                  "label": "company.label.adge",
+                },
+              ],
+              "label": "field.companyType",
+              "name": "field.companyType",
+              "onChange": [Function],
+              "showSearch": false,
+              "value": "ADGE",
+            },
+          ],
+          "name": "title.addCompanyDetails",
+          "twoColumns": true,
+        },
+        Object {
+          "fields": Array [
+            Object {
+              "elementType": "input",
+              "label": "field.companyNameEn",
+              "name": "contactDetails.englishName",
+              "onChange": [Function],
+              "validate": [Function],
+              "value": undefined,
+            },
+            Object {
+              "elementType": "input",
+              "label": "field.companyNameAr",
+              "name": "contactDetails.arabicName",
+              "onChange": [Function],
+              "validate": [Function],
+              "value": undefined,
+            },
+            Object {
+              "elementType": "select",
+              "items": Array [
+                Object {
+                  "id": "1",
+                  "label": "repType.owner",
+                },
+                Object {
+                  "id": "2",
+                  "label": "repType.partner",
+                },
+                Object {
+                  "id": "3",
+                  "label": "repType.sponsor",
+                },
+                Object {
+                  "id": "4",
+                  "label": "repType.manager",
+                },
+                Object {
+                  "id": "5",
+                  "label": "repType.heirsRepresentative",
+                },
+                Object {
+                  "id": "7",
+                  "label": "repType.commisionerToSign",
+                },
+              ],
+              "label": "field.repTypeField",
+              "name": "contactDetails.repType",
+              "onChange": [Function],
+              "validate": [Function],
+              "value": undefined,
+            },
+            Object {
+              "disabled": [Function],
+              "elementType": "inputNumber",
+              "label": "field.sharePercentage",
+              "name": "contactDetails.partnerSharePercentage",
+              "onChange": [Function],
+              "precision": 2,
+              "step": 0.5,
+              "validate": [Function],
+              "value": undefined,
+            },
+            Object {
+              "elementType": "select",
+              "items": Array [
+                Object {
+                  "id": "ARE",
+                  "label": "country.unitedarabemirates",
+                },
+              ],
+              "label": "field.nationality",
+              "name": "contactDetails.nationality",
+              "onChange": [Function],
+              "showSearch": false,
+              "validate": [Function],
+              "value": undefined,
+            },
+          ],
+          "twoColumns": true,
+        },
+      ]
+    }
+    name="companyDetails"
+    submitButton={null}
+  />
+  <div
+    style={
+      Object {
+        "margin": "20px",
+      }
+    }
+  />
+</Fragment>
+`;

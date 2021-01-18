@@ -1,0 +1,202 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Requirements should successfully render the requirements 1`] = `
+<div
+  className="marginT40"
+>
+  <LocalizedComponent(Table)
+    clickable={false}
+    columns={
+      Array [
+        Object {
+          "id": "req",
+          "title": undefined,
+        },
+        Object {
+          "id": "details",
+          "title": undefined,
+        },
+      ]
+    }
+    commonSelection="unchecked"
+    currPage={null}
+    disabledSelectionVisible={false}
+    editable={false}
+    filter={null}
+    headerHidden={false}
+    i18n={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            "requirement.title",
+          ],
+          Array [
+            "requirement.details",
+          ],
+          Array [
+            "variousMachines.permitDescription",
+          ],
+          Array [
+            "variousMachines.Description",
+          ],
+          Array [
+            "global.requiredLicences",
+          ],
+          Array [
+            "variousMachines.requiredLicences",
+          ],
+          Array [
+            "variousMachines.requirement1",
+          ],
+          Array [
+            "variousMachines.details1",
+          ],
+          Array [
+            "variousMachines.price2",
+          ],
+          Array [
+            "variousMachines.price3",
+          ],
+          Array [
+            "variousMachines.price4",
+          ],
+          Array [
+            "variousMachines.price5",
+          ],
+          Array [
+            "variousMachines.requirement2",
+          ],
+          Array [
+            "variousMachines.validatiy",
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+    isSingleSelect={false}
+    items={
+      Array [
+        Object {
+          "details": undefined,
+          "id": "0",
+          "req": undefined,
+        },
+        Object {
+          "details": undefined,
+          "id": "1",
+          "req": undefined,
+        },
+        Object {
+          "details": Array [
+            <React.Fragment>
+              <br />
+            </React.Fragment>,
+            <React.Fragment>
+              <br />
+            </React.Fragment>,
+            <React.Fragment>
+              <br />
+            </React.Fragment>,
+            <React.Fragment>
+              <br />
+            </React.Fragment>,
+            <React.Fragment>
+              <br />
+            </React.Fragment>,
+          ],
+          "id": "2",
+          "req": undefined,
+        },
+        Object {
+          "details": undefined,
+          "id": "4",
+          "req": undefined,
+        },
+      ]
+    }
+    multiActions={null}
+    onActionClick={[Function]}
+    onClick={[Function]}
+    onFilter={[Function]}
+    onPageResize={[Function]}
+    onPageTurn={[Function]}
+    onRefreshClick={[Function]}
+    onSearch={[Function]}
+    onSelectionChange={[Function]}
+    onSort={[Function]}
+    onToggle={[Function]}
+    pageResizeOptions={Array []}
+    pageSize={null}
+    rowVerticalAlign="top"
+    search=""
+    searchable={false}
+    selectable={false}
+    singleActions={null}
+    size="default"
+    sort={null}
+    status=""
+    title=""
+    total={null}
+  />
+  <div
+    className="marginT40"
+  />
+</div>
+`;

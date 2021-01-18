@@ -1,0 +1,291 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Html Button 1`] = `
+<withAnalytics(LocalizedComponent)
+  analyticsConfig={
+    Object {
+      "eventsFrom": Array [],
+    }
+  }
+  aria-label="button-primary"
+  label="label"
+  onClick={[Function]}
+  size="small"
+/>
+`;
+
+exports[`Html CheckboxGroupInput 1`] = `
+<React.Fragment>
+  <LocalizedComponent(CheckboxGroup)
+    align="vertical"
+    disabled={false}
+    expanded={false}
+    groupLabel="label"
+    i18n={[Function]}
+    items={Array []}
+    onChange={[Function]}
+    showMoreLabels={null}
+  />
+</React.Fragment>
+`;
+
+exports[`Html CheckboxInput 1`] = `
+<React.Fragment>
+  <Memo(Checkbox)
+    checked={Object {}}
+    label="label"
+    validateStatus="error"
+  />
+</React.Fragment>
+`;
+
+exports[`Html DatePickerInput 1`] = `
+<LocalizedComponent(DatePicker)
+  defaultValue=""
+  disabled={false}
+  disabledDate={[Function]}
+  help="This is required"
+  i18n={[Function]}
+  id=""
+  label="label"
+  onChange={[Function]}
+  onOpenChange={[Function]}
+  open={false}
+  rangeSelection={false}
+  size="default"
+  tabIndex={0}
+  validateStatus="error"
+  value={Object {}}
+/>
+`;
+
+exports[`Html FieldGroup 1`] = `
+<div>
+  <div />
+</div>
+`;
+
+exports[`Html FileInput 1`] = `
+<FileUpload
+  files={Object {}}
+  i18n={[Function]}
+  onChange={[Function]}
+  onRemove={[Function]}
+  validateStatus="error"
+  validationMessage="This is required"
+/>
+`;
+
+exports[`Html Form 1`] = `
+<div>
+  <LocalizedComponent(Form)
+    backButton={null}
+    cancelLink={
+      Object {
+        "href": "",
+        "label": undefined,
+        "onClick": [Function],
+      }
+    }
+    help=""
+    i18n={[Function]}
+    id=""
+    submitButton={
+      Object {
+        "alignIcon": undefined,
+        "disabled": true,
+        "label": "SUBMIT",
+        "onClick": [Function],
+        "withArrow": undefined,
+      }
+    }
+    validateStatus={null}
+  >
+    <div />
+  </LocalizedComponent(Form)>
+</div>
+`;
+
+exports[`Html InputRange 1`] = `
+<RangeInput
+  disabled={false}
+  help="This is required"
+  label="label"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  size="default"
+  validateStatus="error"
+  value={Object {}}
+/>
+`;
+
+exports[`Html NumberInput 1`] = `
+<React.Fragment>
+  <InputNumber
+    aria-label="input-number"
+    defaultValue=""
+    disabled={false}
+    formatted={false}
+    help="This is required"
+    id=""
+    label="label"
+    max={100}
+    min={0}
+    name={null}
+    onAddClick={[Function]}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyPress={[Function]}
+    onSubtractClick={[Function]}
+    placeholder=""
+    precision={0}
+    readonly={false}
+    roundToStepOnBlur={false}
+    size="default"
+    step={1}
+    tabIndex={0}
+    uiType="horizontal"
+    validateStatus="error"
+    value={Object {}}
+  />
+</React.Fragment>
+`;
+
+exports[`Html PasswordInput 1`] = `
+<React.Fragment>
+  <InputPassword
+    aria-label="Password input"
+    disabled={false}
+    help="This is required"
+    i18n={[Function]}
+    label="label"
+    name=""
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder=""
+    size="default"
+    tabIndex={0}
+    validateStatus="error"
+    value={Object {}}
+  />
+</React.Fragment>
+`;
+
+exports[`Html RadioInput 1`] = `
+<LocalizedComponent(RadioGroup)
+  align="vertical"
+  allowedNotExpandedLimit={5}
+  defaultValue=""
+  disabled={false}
+  expanded={false}
+  groupLabel="label"
+  help="This is required"
+  i18n={[Function]}
+  items={Array []}
+  labelStyle="default"
+  onChange={[Function]}
+  showMoreLabels={null}
+  uiType="default"
+  validateStatus="error"
+  value={Object {}}
+/>
+`;
+
+exports[`Html SectionForm 1`] = `null`;
+
+exports[`Html SelectInput 1`] = `
+<LocalizedComponent(Select)
+  aria-label="select-control"
+  disabled={false}
+  help="This is required"
+  i18n={[Function]}
+  id=""
+  isOpen={false}
+  isStatic={false}
+  label="label"
+  multi={false}
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  onOpenChange={[Function]}
+  onSearch={[Function]}
+  placeholder=""
+  popupAlign="start"
+  popupWidth={0}
+  showSearch={true}
+  size="default"
+  tabIndex={0}
+  validateStatus="error"
+  value={Object {}}
+/>
+`;
+
+exports[`Html TelephoneInput 1`] = `
+<React.Fragment>
+  <LocalizedComponent(InputTelephone)
+    aria-label="Telephone input"
+    code={null}
+    defaultValue={Object {}}
+    disabled={false}
+    help="This is required"
+    i18n={[Function]}
+    id=""
+    label="label"
+    onSelect={[Function]}
+    size="default"
+    tabIndex={0}
+    validateStatus="error"
+    value={Object {}}
+  />
+</React.Fragment>
+`;
+
+exports[`Html TextAreaInput 1`] = `
+<TextArea
+  aria-label="Text area"
+  disabled={false}
+  help="This is required"
+  id=""
+  label="label"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onFocus={[Function]}
+  placeholder=""
+  size="default"
+  type="draggable"
+  validateStatus="error"
+  value={Object {}}
+/>
+`;
+
+exports[`Html TextInput 1`] = `
+<React.Fragment>
+  <Memo(Input)
+    help="This is required"
+    label="label"
+    validateStatus="error"
+    value={Object {}}
+  />
+</React.Fragment>
+`;
+
+exports[`Html TimePickerInput 1`] = `
+<React.Fragment>
+  <TimePicker
+    dateFormat="hh:mm a"
+    disabled={false}
+    help="This is required"
+    id=""
+    label="label"
+    onChange={[Function]}
+    placeholder=""
+    size="default"
+    tabIndex={0}
+    validateStatus="error"
+    value={Object {}}
+  />
+</React.Fragment>
+`;

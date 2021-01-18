@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Feedback should render component 1`] = `
+<GlobalCsatFeedback
+  autoOpen={false}
+  containerId=""
+  i18n={[Function]}
+  isOpen={false}
+  onSubmit={[Function]}
+  shouldCloseOnEsc={false}
+  shouldCloseOnOverlayClick={false}
+  status="idle"
+  withComment={true}
+/>
+`;
+
+exports[`Feedback should render error state 1`] = `
+<GlobalCsatFeedback
+  autoOpen={false}
+  containerId=""
+  i18n={[Function]}
+  isOpen={false}
+  onSubmit={[Function]}
+  shouldCloseOnEsc={false}
+  shouldCloseOnOverlayClick={false}
+  status="error"
+  withComment={true}
+/>
+`;
+
+exports[`Feedback should render success state 1`] = `
+<GlobalCsatFeedback
+  autoOpen={false}
+  containerId=""
+  i18n={[Function]}
+  isOpen={false}
+  onSubmit={[Function]}
+  shouldCloseOnEsc={false}
+  shouldCloseOnOverlayClick={false}
+  status="success"
+  withComment={true}
+/>
+`;

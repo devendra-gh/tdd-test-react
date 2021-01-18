@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`config/templates/Payment renders page 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="container"
+  >
+    <div
+      class=""
+    >
+      <h3
+        class="syb-title"
+        style="margin-bottom: 2rem; color: rgb(22, 16, 56);"
+      >
+        goldenServices.subTitle.makePayment
+      </h3>
+      <p
+        style="color: rgb(63, 62, 69);"
+      >
+        goldenServices.subTitle.desc.makePayment
+      </p>
+    </div>
+    <div
+      style="height: 20px;"
+    />
+    <div
+      style="height: 20px;"
+    />
+    <div
+      class="ui-lib-total"
+    >
+      <div
+        class="ui-lib-total__content"
+      >
+        <div
+          class="ui-lib-total__content-title"
+        >
+          TOTAL
+        </div>
+        <div
+          class="ui-lib-total__content-value"
+        >
+          <span
+            class="ui-lib-total__content-value-unit_end"
+          >
+            AED
+          </span>
+          <span
+            class="ui-lib-total__content-value-price"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      style="height: 40px;"
+    />
+    <button
+      aria-label="button-primary"
+      class="ui-lib-button qa-button ui-lib-button_primary ui-lib-button_default ui-lib-button_icon-end ui-lib-button_space-between ui-lib-button_with-icon"
+      type="button"
+    >
+      button.pay
+      <svg
+        class="ui-lib-button__icon ui-lib-icon"
+        data-key=""
+        height="24"
+        version="1.1"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <title />
+        <path
+          d="M23.987,12a2.411,2.411,0,0,0-.814-1.8L11.994.361a1.44,1.44,0,0,0-1.9,2.162l8.637,7.6a.25.25,0,0,1-.165.437H1.452a1.44,1.44,0,0,0,0,2.88H18.563a.251.251,0,0,1,.165.438l-8.637,7.6a1.44,1.44,0,1,0,1.9,2.161L23.172,13.8A2.409,2.409,0,0,0,23.987,12Z"
+        />
+      </svg>
+    </button>
+    <div
+      style="height: 60px;"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,302 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SummaryTemplate should render with all props 1`] = `
+<div>
+  <div
+    class="ui-lib-viewport ui-lib-viewport_lg"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="ant-row ui-lib-grid-row ui-lib-grid-row "
+        style="margin-left: -10px; margin-right: -10px;"
+      >
+        <div
+          class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-16 ui-lib-grid-col-xl-18"
+          style="padding-left: 10px; padding-right: 10px;"
+        >
+          <div
+            style="height: 20px;"
+          />
+          <div
+            class="table-col-width-50"
+          >
+            <div
+              class="ui-lib-table"
+            >
+              <div
+                class="ui-lib-table__root"
+                data-round-bottom="true"
+                data-round-top="true"
+              >
+                <table
+                  class="ui-lib-table__root-grid"
+                >
+                  <thead
+                    class="ui-lib-table-header"
+                  >
+                    <tr
+                      class="ui-lib-table-row"
+                      data-highlighted="false"
+                      data-ui-type="default"
+                      data-underlined="false"
+                      style="vertical-align: top;"
+                    >
+                      <td
+                        aria-label="description"
+                        class="ui-lib-table-cell"
+                        data-align="start"
+                        data-collapsed="false"
+                        data-disabled="false"
+                        data-fit-content-width="false"
+                        data-hoverable="false"
+                        data-is-extra="false"
+                        data-is-header="true"
+                        data-size="default"
+                        data-sortable="false"
+                        data-ui-type="header"
+                        role="gridcell"
+                        tabindex="0"
+                      >
+                        <span
+                          class="ui-lib-table-cell_bdi"
+                        >
+                          Description
+                        </span>
+                        
+                      </td>
+                    </tr>
+                  </thead>
+                  <tbody />
+                </table>
+              </div>
+              <div
+                class="ui-lib-table__status ui-lib-table__status_no-records"
+              >
+                <span
+                  class="ui-lib-table__status-message"
+                >
+                  No results found.
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            style="height: 60px;"
+          />
+          <div
+            class="ui-lib-table"
+          >
+            <div
+              class="ui-lib-table__root"
+              data-round-bottom="true"
+              data-round-top="true"
+            >
+              <table
+                class="ui-lib-table__root-grid"
+              >
+                <thead
+                  class="ui-lib-table-header"
+                >
+                  <tr
+                    class="ui-lib-table-row"
+                    data-highlighted="false"
+                    data-ui-type="default"
+                    data-underlined="false"
+                    style="vertical-align: top;"
+                  >
+                    <td
+                      aria-label="description"
+                      class="ui-lib-table-cell"
+                      data-align="start"
+                      data-collapsed="false"
+                      data-disabled="false"
+                      data-fit-content-width="false"
+                      data-hoverable="false"
+                      data-is-extra="false"
+                      data-is-header="true"
+                      data-size="default"
+                      data-sortable="false"
+                      data-ui-type="header"
+                      role="gridcell"
+                      tabindex="0"
+                    >
+                      <span
+                        class="ui-lib-table-cell_bdi"
+                      >
+                        Description
+                      </span>
+                      
+                    </td>
+                  </tr>
+                </thead>
+                <tbody />
+              </table>
+            </div>
+            <div
+              class="ui-lib-table__status ui-lib-table__status_no-records"
+            >
+              <span
+                class="ui-lib-table__status-message"
+              >
+                No results found.
+              </span>
+            </div>
+          </div>
+          <div
+            style="height: 60px;"
+          />
+          <button
+            aria-label="button-primary"
+            class="ui-lib-button qa-button ui-lib-button_secondary ui-lib-button_default ui-lib-button_icon-start ui-lib-button_space-between ui-lib-button_with-icon"
+            name="backBtn"
+            type="button"
+          >
+            button.back
+            <svg
+              class="ui-lib-button__icon ui-lib-icon"
+              data-key=""
+              height="24"
+              version="1.1"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <title />
+              <path
+                d="M22.548,10.561H5.437a.251.251,0,0,1-.165-.438l8.637-7.6a1.44,1.44,0,0,0-1.9-2.162L.828,10.2a2.4,2.4,0,0,0,0,3.6l11.179,9.837a1.44,1.44,0,0,0,1.9-2.161l-8.637-7.6a.251.251,0,0,1,.165-.438H22.548a1.44,1.44,0,0,0,0-2.879Z"
+              />
+            </svg>
+          </button>
+          <div
+            style="height: 60px;"
+          />
+        </div>
+        <div
+          class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-8 ui-lib-grid-col-xl-6"
+          style="padding-left: 10px; padding-right: 10px;"
+        >
+          <div
+            class="sidebar"
+          >
+            <h6
+              style="font-size: 20px; font-weight: normal; margin-bottom: 5px; color: rgb(22, 16, 56);"
+            >
+              aspectOfLife
+            </h6>
+            <h4
+              style="margin-bottom: 6rem; font-size: 24px; color: rgb(22, 16, 56);"
+            >
+              manage_business
+            </h4>
+            <div
+              class="ui-lib-relevant-entity"
+            >
+              <h5
+                class="ui-lib-relevant-entity__title"
+              >
+                relevant_entity
+              </h5>
+              <img
+                alt="relevant_entity logo"
+                class="ui-lib-relevant-entity__logo"
+                src="/images/DED-logo.png"
+              />
+              <div
+                class="ui-lib-relevant-entity__sub-title"
+              >
+                departmentOfEconomicDevelopment
+              </div>
+              <div
+                class="ui-lib-relevant-entity__address"
+              >
+                departmentOfEconomicDevelopment.address
+              </div>
+              <div
+                class="ui-lib-relevant-entity__labeled-area"
+              >
+                <div
+                  class="ui-lib-label"
+                >
+                  phone
+                </div>
+                <div
+                  class="ui-lib-relevant-entity__labeled-area-value ui-lib-relevant-entity__labeled-area-value_ltr"
+                  x-apple-data-detectors="false"
+                >
+                  +971 2 815 8888
+                </div>
+              </div>
+              <div
+                class="ui-lib-relevant-entity__labeled-area"
+              >
+                <div
+                  class="ui-lib-label"
+                >
+                  email
+                </div>
+                <div
+                  class="ui-lib-relevant-entity__labeled-area-value ui-lib-relevant-entity__labeled-area-value_underlined"
+                  x-apple-data-detectors="false"
+                >
+                  <a
+                    class="ui-lib-relevant-entity__link"
+                    href="mailto:info@adeconomy.ae"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    info@adeconomy.ae
+                  </a>
+                </div>
+              </div>
+              <div
+                class="ui-lib-relevant-entity__labeled-area"
+              >
+                <div
+                  class="ui-lib-label"
+                >
+                  website
+                </div>
+                <div
+                  class="ui-lib-relevant-entity__labeled-area-value ui-lib-relevant-entity__labeled-area-value_underlined"
+                  x-apple-data-detectors="false"
+                >
+                  <a
+                    class="ui-lib-relevant-entity__link"
+                    href="https://added.gov.ae"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    https://added.gov.ae
+                  </a>
+                </div>
+              </div>
+              <div
+                class="ui-lib-relevant-entity__labeled-area"
+              >
+                <div
+                  class="ui-lib-label"
+                >
+                  office hours
+                </div>
+                <div
+                  class="ui-lib-relevant-entity__labeled-area-value"
+                  x-apple-data-detectors="false"
+                >
+                  departmentOfEconomicDevelopment.workingTime
+                </div>
+              </div>
+              
+            </div>
+            <div
+              class="hidden-md"
+              style="height: 60px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

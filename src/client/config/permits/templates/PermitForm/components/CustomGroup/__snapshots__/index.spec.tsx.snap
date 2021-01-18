@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Custom group form should render successfully 1`] = `
+<FormGroup
+  component={[Function]}
+  fields={Array []}
+  formProps={
+    Object {
+      "handleChange": [MockFunction],
+      "i18n": [Function],
+      "inputGroups": Array [
+        Object {
+          "fields": Array [],
+          "hasIncrementButton": true,
+          "incrementButtonLabel": "Test Label",
+          "name": "test group 1",
+          "stateKey": "testGroup1",
+        },
+      ],
+      "name": "testGroup1",
+      "permitForm": Object {
+        "testGroup1": Object {
+          "label": "label 1",
+        },
+      },
+      "validate": [MockFunction],
+      "values": Object {
+        "testGroup1": Object {},
+      },
+    }
+  }
+  handleChange={[MockFunction]}
+  hasIncrementButton={true}
+  i18n={[Function]}
+  incrementButtonLabel="Test Label"
+  key="testGroup1"
+  name="test group 1"
+  stateKey="testGroup1"
+  validate={[MockFunction]}
+  values={
+    Object {
+      "testGroup1": Object {},
+    }
+  }
+/>
+`;

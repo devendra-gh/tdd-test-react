@@ -1,0 +1,79 @@
+@import '~@tamm/ui-lib-v2-styles/colors.less';
+
+.Moa {
+  &__generate {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+
+    &-heroTitle {
+      font-size: 40px;
+      font-weight: 900;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.2;
+      letter-spacing: normal;
+      color: #161038;
+      margin-top: -6rem;
+      margin-bottom: 3rem;
+    }
+
+    &-subTitle {
+      font-size: 16px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      color: #3f3e45;
+      margin-bottom: 2rem;
+    }
+
+    button {
+      max-width: 190px;
+    }
+  }
+
+  &__pdf {
+    display: flex;
+    // justify-content: center;
+    overflow-y: scroll;
+    height: 55rem;
+
+    @media (max-width: 599px) {
+      .moaServerHtml {
+        .mainContainer {
+          padding: 0 !important;
+          display: flex;
+        }
+
+        h2 {
+          font-size: 2rem;
+        }
+
+        p {
+          font-size: 1.4rem;
+
+          strong {
+            font-size: 1.6rem;
+          }
+        }
+      }
+    }
+  }
+
+  &__agree-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-top: 2rem;
+
+    @media (max-width: 599px) {
+      flex-direction: column;
+
+      button {
+        margin-top: 1rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+export const BASE_PATH = '/issue-commercial-register-certificate';
+export const PATH_HOME = `${BASE_PATH}`;
+export const PATH_ERROR = `${BASE_PATH}/error`;
+export const PATH_SELECT_LICENCE = `${BASE_PATH}/select-licence`;
+export const PATH_PAYMENT_SUMMARY = `${BASE_PATH}/payment-summary`;
+export const PATH_PAYMENT_SUCCESS = `${BASE_PATH}/payment-success`;
+export const PATH_PAYMENT_ERROR = `${BASE_PATH}/payment-error`;
+export const PATH_PAYMENT_WAITING = `${BASE_PATH}/payment-waiting`;
+export const PATH_CONTINUE_PROCESS = `${BASE_PATH}/continue-process`;
+export const DASHBOARD_PATH = `${window.location.origin}/journeys/manage-your-business/login`;

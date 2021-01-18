@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Permit Type form should not render when serviceType is falsy 1`] = `""`;
+
+exports[`Permit Type form should successfully render when serviceType is provided 1`] = `
+<Fragment>
+  <CustomFormGroup
+    customDisabledDate={[Function]}
+    groupKey="testServiceType.testStateKey"
+    i18n={[Function]}
+    inputGroups={
+      Array [
+        Object {
+          "fields": Array [
+            Object {
+              "elementType": "input",
+              "onChange": [Function],
+              "validationConfig": Object {},
+            },
+          ],
+          "name": "test field",
+          "stateKey": "testStateKey",
+        },
+      ]
+    }
+    key="testServiceType.testStateKey"
+    validate={[Function]}
+    values={
+      Object {
+        "testStateKey": Object {},
+      }
+    }
+  />
+  <LocalizedComponent(Form)
+    backButton={null}
+    cancelLink={
+      Object {
+        "href": "#",
+        "label": "cancel",
+        "onClick": [Function],
+      }
+    }
+    help=""
+    i18n={[Function]}
+    id="form-buttons"
+    submitButton={
+      Object {
+        "label": "submit",
+        "onClick": [MockFunction],
+      }
+    }
+    validateStatus={null}
+  />
+</Fragment>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renew-licence/templates/Login should render successfully 1`] = `
+<Container>
+  <LocalizedComponent(PageNotFoundTemplate)
+    backButton={
+      Object {
+        "label": undefined,
+        "onClick": [Function],
+      }
+    }
+    i18n={[Function]}
+  />
+</Container>
+`;

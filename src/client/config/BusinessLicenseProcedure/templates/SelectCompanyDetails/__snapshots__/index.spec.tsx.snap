@@ -1,0 +1,235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Result should display Alert when showError is true 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="container"
+  >
+    <div
+      class="ant-row ui-lib-grid-row ui-lib-grid-row "
+      style="margin-left: -10px; margin-right: -10px;"
+    >
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-16 ui-lib-grid-col-xl-18"
+        style="padding-left: 10px; padding-right: 10px;"
+      >
+        <div
+          class="head-section"
+        >
+          <h3
+            class="head-section__title"
+          >
+            subTitle
+          </h3>
+          <p
+            class="head-section__description"
+          >
+            desc
+          </p>
+        </div>
+        <div
+          class="ui-lib-alert ui-lib-alert_error"
+        >
+          <svg
+            class="ui-lib-alert__icon ui-lib-icon"
+            data-key=""
+            height="24"
+            tabindex="0"
+            version="1.1"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title />
+            <path
+              d="M20.488,3.515a11.994,11.994,0,1,0,0,16.97A12.014,12.014,0,0,0,20.488,3.515ZM16.709,15.279A1,1,0,0,1,15.3,16.694l-3.11-3.11a.252.252,0,0,0-.354,0l-3.109,3.11a1.019,1.019,0,0,1-1.415,0,1,1,0,0,1,0-1.415l3.11-3.109a.249.249,0,0,0,0-.353l-3.11-3.11A1,1,0,0,1,8.722,7.292l3.109,3.11a.25.25,0,0,0,.354,0l3.11-3.11a1,1,0,0,1,1.414,1.415l-3.11,3.11a.25.25,0,0,0,0,.353Z"
+            />
+          </svg>
+          <div
+            class="ui-lib-alert__message"
+          >
+            errorMessage.network
+          </div>
+        </div>
+        <form
+          class="ui-lib-form qa-form"
+          id=""
+        >
+          
+          <div>
+             
+          </div>
+          <div
+            class="ui-lib-form__controls"
+          >
+            <div
+              class="ui-lib-form__controls-buttons"
+            >
+              <button
+                aria-label="button"
+                class="ui-lib-button qa-button ui-lib-button_primary ui-lib-button_default ui-lib-button_icon-end ui-lib-button_space-between ui-lib-button_with-icon"
+                type="button"
+              >
+                button.next
+                <svg
+                  class="ui-lib-button__icon ui-lib-icon"
+                  data-key=""
+                  height="24"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <title />
+                  <path
+                    d="M23.987,12a2.411,2.411,0,0,0-.814-1.8L11.994.361a1.44,1.44,0,0,0-1.9,2.162l8.637,7.6a.25.25,0,0,1-.165.437H1.452a1.44,1.44,0,0,0,0,2.88H18.563a.251.251,0,0,1,.165.438l-8.637,7.6a1.44,1.44,0,1,0,1.9,2.161L23.172,13.8A2.409,2.409,0,0,0,23.987,12Z"
+                  />
+                </svg>
+              </button>
+              <a
+                class="ui-lib-link ui-lib-link_default"
+                href="/business-licence-procedure"
+              >
+                <span
+                  class="ui-lib-link__paragraph"
+                >
+                  Cancel
+                </span>
+              </a>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-8 ui-lib-grid-col-xl-6"
+        style="padding-left: 10px; padding-right: 10px;"
+      >
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Result should display Loading component when loading is true 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <div
+    class="container"
+  >
+    <div
+      class="ant-row ui-lib-grid-row ui-lib-grid-row "
+      style="margin-left: -10px; margin-right: -10px;"
+    >
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-16 ui-lib-grid-col-xl-18"
+        style="padding-left: 10px; padding-right: 10px;"
+      >
+        <div
+          class="head-section"
+        >
+          <h3
+            class="head-section__title"
+          >
+            subTitle
+          </h3>
+          <p
+            class="head-section__description"
+          >
+            desc
+          </p>
+        </div>
+        <div
+          class="spinner-wrapper"
+        >
+          <div
+            class="ui-lib-spinner qa-spinner ui-lib-spinner_logo"
+          />
+        </div>
+        <div
+          class="ui-lib-alert ui-lib-alert_error"
+        >
+          <svg
+            class="ui-lib-alert__icon ui-lib-icon"
+            data-key=""
+            height="24"
+            tabindex="0"
+            version="1.1"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title />
+            <path
+              d="M20.488,3.515a11.994,11.994,0,1,0,0,16.97A12.014,12.014,0,0,0,20.488,3.515ZM16.709,15.279A1,1,0,0,1,15.3,16.694l-3.11-3.11a.252.252,0,0,0-.354,0l-3.109,3.11a1.019,1.019,0,0,1-1.415,0,1,1,0,0,1,0-1.415l3.11-3.109a.249.249,0,0,0,0-.353l-3.11-3.11A1,1,0,0,1,8.722,7.292l3.109,3.11a.25.25,0,0,0,.354,0l3.11-3.11a1,1,0,0,1,1.414,1.415l-3.11,3.11a.25.25,0,0,0,0,.353Z"
+            />
+          </svg>
+          <div
+            class="ui-lib-alert__message"
+          >
+            errorMessage.network
+          </div>
+        </div>
+        <form
+          class="ui-lib-form qa-form"
+          id=""
+        >
+          
+          <div>
+             
+          </div>
+          <div
+            class="ui-lib-form__controls"
+          >
+            <div
+              class="ui-lib-form__controls-buttons"
+            >
+              <button
+                aria-label="button"
+                class="ui-lib-button qa-button ui-lib-button_primary ui-lib-button_default ui-lib-button_icon-end ui-lib-button_disabled ui-lib-button_space-between ui-lib-button_with-icon"
+                disabled=""
+                type="button"
+              >
+                button.next
+                <svg
+                  class="ui-lib-button__icon ui-lib-icon"
+                  data-key=""
+                  height="24"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <title />
+                  <path
+                    d="M23.987,12a2.411,2.411,0,0,0-.814-1.8L11.994.361a1.44,1.44,0,0,0-1.9,2.162l8.637,7.6a.25.25,0,0,1-.165.437H1.452a1.44,1.44,0,0,0,0,2.88H18.563a.251.251,0,0,1,.165.438l-8.637,7.6a1.44,1.44,0,1,0,1.9,2.161L23.172,13.8A2.409,2.409,0,0,0,23.987,12Z"
+                  />
+                </svg>
+              </button>
+              <a
+                class="ui-lib-link ui-lib-link_default"
+                href="/business-licence-procedure"
+              >
+                <span
+                  class="ui-lib-link__paragraph"
+                >
+                  Cancel
+                </span>
+              </a>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-0 ui-lib-grid-col  ui-lib-grid-col-xs-24 ui-lib-grid-col-sm-24 ui-lib-grid-col-md-24 ui-lib-grid-col-lg-8 ui-lib-grid-col-xl-6"
+        style="padding-left: 10px; padding-right: 10px;"
+      >
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;

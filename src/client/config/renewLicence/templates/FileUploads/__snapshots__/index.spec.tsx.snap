@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`config/templates/Summary should render with all props 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <form
+    class="ui-lib-form qa-form"
+    id=""
+    name="file-upload-section"
+  >
+    
+    <div>
+      <fieldset
+        class="ui-lib-form__fieldset"
+      >
+        
+        <div
+          class="ui-lib-form__fieldset-content ui-lib-form__fieldset-content_default-gap"
+        >
+          <label
+            for="test-upload"
+          />
+          <input
+            data-testid="file-upload-input"
+            id="test-upload"
+            name="test-upload"
+            type="file"
+          />
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`config/templates/Summary should render with all props, when file loading 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <form
+    class="ui-lib-form qa-form"
+    id=""
+    name="file-upload-section"
+  >
+    
+    <div>
+      <fieldset
+        class="ui-lib-form__fieldset"
+      >
+        
+        <div
+          class="ui-lib-form__fieldset-content ui-lib-form__fieldset-content_default-gap"
+        >
+          <label
+            for="test-upload"
+          />
+          <input
+            data-testid="file-upload-input"
+            id="test-upload"
+            name="test-upload"
+            type="file"
+          />
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`config/templates/Summary should render with all props, when file undefined 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <form
+    class="ui-lib-form qa-form"
+    id=""
+    name="file-upload-section"
+  >
+    
+    <div>
+      <fieldset
+        class="ui-lib-form__fieldset"
+      >
+        
+        <div
+          class="ui-lib-form__fieldset-content ui-lib-form__fieldset-content_default-gap"
+        >
+          <label
+            for="test-upload"
+          />
+          <input
+            data-testid="file-upload-input"
+            id="test-upload"
+            name="test-upload"
+            type="file"
+          />
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`config/templates/Summary should render with all props, when startShowingErrors true 1`] = `
+<div
+  class="ui-lib-viewport ui-lib-viewport_lg"
+>
+  <form
+    class="ui-lib-form qa-form"
+    id=""
+    name="file-upload-section"
+  >
+    
+    <div>
+      <fieldset
+        class="ui-lib-form__fieldset"
+      >
+        
+        <div
+          class="ui-lib-form__fieldset-content ui-lib-form__fieldset-content_default-gap"
+        >
+          <label
+            for="test-upload"
+          />
+          <input
+            data-testid="file-upload-input"
+            id="test-upload"
+            name="test-upload"
+            type="file"
+          />
+        </div>
+      </fieldset>
+    </div>
+  </form>
+</div>
+`;

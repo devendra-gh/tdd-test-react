@@ -1,0 +1,47 @@
+.summary {
+  margin-bottom: 4rem;
+
+  &__group {
+    margin-top: 4rem;
+
+    .button-group {
+      display: inline-flex;
+
+      &.en {
+        button {
+          margin-right: 6rem;
+
+          @media (max-width: 410px) {
+            margin-right: 3rem;
+            min-width: 14rem;
+          }
+        }
+      }
+
+      &.ar {
+        button {
+          margin-left: 6rem;
+
+          @media (max-width: 410px) {
+            margin-left: 3rem;
+            min-width: 14rem;
+          }
+        }
+      }
+    }
+
+    &.btn-group {
+      display: inline-flex;
+    }
+  }
+}
+
+.syb-name-card {
+  margin: 4rem 0;
+  padding: 1rem;
+  background: #f5f5f7;
+
+  &__title-ar {
+    text-align: right;
+  }
+}

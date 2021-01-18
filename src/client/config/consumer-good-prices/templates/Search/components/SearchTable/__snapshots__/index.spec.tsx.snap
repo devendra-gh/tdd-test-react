@@ -1,0 +1,377 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`consumer-good-prices/templates/Search renders with props 1`] = `
+<div>
+  <div
+    class="ui-lib-viewport ui-lib-viewport_lg"
+  >
+    <div
+      class="ant-row ui-lib-grid-row ui-lib-grid-row "
+      style="margin-left: -10px; margin-right: -10px;"
+    >
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-12 ui-lib-grid-col "
+        style="padding-left: 10px; padding-right: 10px;"
+      >
+        <p>
+          global.displayingSearch
+        </p>
+      </div>
+      <div
+        class="ant-col ui-lib-grid-col ui-lib-grid-col-12 ui-lib-grid-col "
+        style="padding-left: 10px; padding-right: 10px; text-align: right;"
+      >
+        <p>
+          cgp_prices_uploading_date
+          : Feb 9, 2020
+        </p>
+      </div>
+    </div>
+    <div
+      style="height: 15px;"
+    />
+    <div
+      class="ui-lib-table"
+    >
+      <div
+        class="ui-lib-table__pre"
+      >
+        <div
+          class="ui-lib-table__pre-title ui-lib-heading_h4"
+        >
+          cgp_list_of_goods
+        </div>
+      </div>
+      <div
+        class="ui-lib-table__root"
+        data-round-bottom="true"
+        data-round-top="false"
+      >
+        <table
+          class="ui-lib-table__root-grid"
+        >
+          <thead
+            class="ui-lib-table-header"
+          >
+            <tr
+              class="ui-lib-table-row"
+              data-highlighted="false"
+              data-ui-type="default"
+              data-underlined="false"
+              style="vertical-align: top;"
+            >
+              <td
+                aria-label="checkbox"
+                class="ui-lib-table-cell"
+                data-align="start"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  global.englishName
+                </span>
+                
+              </td>
+              <td
+                aria-label="arName"
+                class="ui-lib-table-cell"
+                data-align="end"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  global.arabicName
+                </span>
+                
+              </td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="ui-lib-table-row"
+              data-highlighted="false"
+              data-ui-type="regular"
+              data-underlined="true"
+              style="vertical-align: top;"
+            >
+              <td
+                aria-label="checkbox"
+                class="ui-lib-table-cell"
+                data-align="start"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="false"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="regular"
+                role="gridcell"
+                tabindex="0"
+              >
+                <label
+                  class="ui-lib-radio ui-lib-radio_default"
+                  for="uil_radio_button.1"
+                >
+                  <input
+                    class="ui-lib-radio__input"
+                    data-index="0"
+                    id="uil_radio_button.1"
+                    name="123"
+                    type="radio"
+                    value="123"
+                  />
+                  <div
+                    class="ui-lib-radio__box"
+                  >
+                    <div
+                      class="ui-lib-radio__box-dot"
+                    />
+                  </div>
+                  <div
+                    class="ui-lib-radio-label"
+                  >
+                    goods
+                  </div>
+                </label>
+                
+              </td>
+              <td
+                aria-label="arName"
+                class="ui-lib-table-cell"
+                data-align="end"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="false"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="regular"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  goods
+                </span>
+                
+              </td>
+            </tr>
+            <tr
+              class="ui-lib-table-row"
+              data-highlighted="false"
+              data-ui-type="regular"
+              data-underlined="false"
+              style="vertical-align: top;"
+            >
+              <td
+                aria-label="checkbox"
+                class="ui-lib-table-cell"
+                data-align="start"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <label
+                  class="ui-lib-radio ui-lib-radio_default"
+                  for="uil_radio_button.2"
+                >
+                  <input
+                    class="ui-lib-radio__input"
+                    data-index="0"
+                    id="uil_radio_button.2"
+                    type="radio"
+                    value=""
+                  />
+                  <div
+                    class="ui-lib-radio__box"
+                  >
+                    <div
+                      class="ui-lib-radio__box-dot"
+                    />
+                  </div>
+                  <div
+                    class="ui-lib-radio-label"
+                  >
+                    goods
+                  </div>
+                </label>
+                
+              </td>
+              <td
+                aria-label="arName"
+                class="ui-lib-table-cell"
+                data-align="end"
+                data-collapsed="false"
+                data-disabled="false"
+                data-fit-content-width="false"
+                data-hoverable="false"
+                data-is-extra="false"
+                data-is-header="true"
+                data-size="default"
+                data-sortable="false"
+                data-ui-type="header"
+                role="gridcell"
+                tabindex="0"
+              >
+                <span
+                  class="ui-lib-table-cell_bdi"
+                >
+                  goods
+                </span>
+                
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+    </div>
+    <div
+      style="height: 40px;"
+    />
+    <div
+      class="ui-lib-pagination"
+    >
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page ui-lib-pagination__item_current"
+        role="button"
+        tabindex="0"
+      >
+        1
+      </div>
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page"
+        role="button"
+        tabindex="0"
+      >
+        2
+      </div>
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page"
+        role="button"
+        tabindex="0"
+      >
+        3
+      </div>
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page"
+        role="button"
+        tabindex="0"
+      >
+        4
+      </div>
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page"
+        role="button"
+        tabindex="0"
+      >
+        5
+      </div>
+      <div
+        aria-label="Next 3 Pages"
+        class="ui-lib-pagination__item ui-lib-pagination__item_dots"
+        role="button"
+        tabindex="0"
+      >
+        <svg
+          class="ui-lib-pagination__item-icon ui-lib-icon"
+          data-key=""
+          height="24"
+          tabindex="0"
+          version="1.1"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <title />
+          <circle
+            cx="3.25"
+            cy="12"
+            r="3.25"
+          />
+          <circle
+            cx="12"
+            cy="12"
+            r="3.25"
+          />
+          <circle
+            cx="20.75"
+            cy="12"
+            r="3.25"
+          />
+        </svg>
+      </div>
+      <div
+        aria-label=""
+        class="ui-lib-pagination__item ui-lib-pagination__item_page"
+        role="button"
+        tabindex="0"
+      >
+        10
+      </div>
+      <div
+        aria-label="Next"
+        class="ui-lib-pagination__item ui-lib-pagination__item_nav"
+        role="button"
+        tabindex="0"
+      >
+        <svg
+          class="ui-lib-pagination__item-icon ui-lib-icon"
+          data-key=""
+          height="24"
+          tabindex="0"
+          version="1.1"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <title />
+          <path
+            d="M23.987,12a2.411,2.411,0,0,0-.814-1.8L11.994.361a1.44,1.44,0,0,0-1.9,2.162l8.637,7.6a.25.25,0,0,1-.165.437H1.452a1.44,1.44,0,0,0,0,2.88H18.563a.251.251,0,0,1,.165.438l-8.637,7.6a1.44,1.44,0,1,0,1.9,2.161L23.172,13.8A2.409,2.409,0,0,0,23.987,12Z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

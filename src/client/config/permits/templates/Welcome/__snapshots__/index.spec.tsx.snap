@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`config/templates/Welcome should set welcome page 1`] = `
+<Container>
+  <div
+    style={
+      Object {
+        "marginBottom": "8rem",
+      }
+    }
+  >
+    <withAnalytics(LocalizedComponent)
+      analyticsConfig={
+        Object {
+          "eventsFrom": Array [],
+        }
+      }
+      aria-label="test_button"
+      onClick={[Function]}
+      withArrow={true}
+    />
+    <br />
+    <br />
+  </div>
+</Container>
+`;

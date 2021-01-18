@@ -1,0 +1,3841 @@
+{
+  "data": [
+    {
+      "title": "Food Trading",
+      "icon": "/services/business/ded/images/BusinessSetupGuide/icons/food-trading.svg",
+      "link": "food-trading",
+      "info": [
+        {
+          "stepTitle": "Step 1: Obtain  Memorandum of Association (MOA) (if applicable)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500 - 20,000 (Depending on contract value)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document \"Partnership Contract\" to be attested: one copy for each concerned party + a copy for the records\n- Original trade name for review and a copy for their records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "MOA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "Applicable for specific legal forms"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 2: Obtain Power of Attorney (POA)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document 'Power of Attorney' to be attested: a copy for each party + a copy for the records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "POA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 3: Rent and Attest a Property",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Rent contract value Attestation Fees : AED 100 + 5% of rent contract Value"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Owner Emirates ID\n- Passport (Copy)\n- Residency visa (Copy)\n- Personal photos (Copy)\n- Application form\n- Tenants Emirates ID (Original, if applicable tenant Authorized Deputy power of attorney)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Renting a property: 7 days\nAttestation of the contract: 15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Attested Tenancy Contract"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 4: Open a bank account for your company",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/unknown.png",
+              "title": "Bank of choice",
+              "location": "",
+              "phone": "",
+              "officeHours": ""
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Free"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Passport (Copy)\n- Emirates ID (Copy)\n- Copy of sponsor's passport\n- Copy of partner's passport and visa\n- Copy of license\n- Copy of tenancy contract\n- Copy of MOA or service agent agreement"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "9 days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Bank account"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical (at your bank of choice)"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 5: Request for a maintenance and decor permit",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Maintenance Contractor Assignment Letter\n- Maintenance Contractor Trade License\n- Owner's ID (or Power of Attorney, or Investor's ID )\n- Power of Attorney\n- Recent Photos for the 4 sides of the commercial unit\n- Tenancy contract\n- Trade License"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Maintenance and décor permit"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable only if the property does not already have this permit"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 6: Obtain Certificate of Conformity (CoC)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-civil-defense-general-directorate.png",
+              "title": "Civil Defense Authority",
+              "location": "Zayed Sport City, Arab Gulf Street, Near to Shaikh Zayed Mosque",
+              "phone": "800 5000",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.moi.gov.ae/en/eservices/default.aspx?type=23&dir=-1&cat=-1&ben=-1&serName="
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "None - fees are paid with issuance of license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Trade licence (Copy)\n- Certificate of Membership from the Chamber of Commerce and Industry\n- Facility lease contract\n- Designated verified signature(s) for the facility\n- Drafted location and floor plan (to scale) of the facility\n- Passport (Copy)\n- Emirates ID of facility owner(s) (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "30 minutes for the request There may be physical visits (depending on the activity), otherwise you can expect a call and clearance over the phone"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Civil Defence Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": "In some special instances, the Civil Defense Authority may approve without a visit (depending on the activity) - you can contact them directly to clarify this matter."
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 7: Request NOC for practicing Food business activities ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-agriculture-and-food-safety-authority.png",
+              "title": "ADAFSA",
+              "location": "Mohamed bin Zayed City opposite Mezyed Mall - Abu Dhabi",
+              "phone": "02 818 1111",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "http://www.adafsa.gov.ae/English/Pages/default.aspx"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 0 - AED 1000 per activity Total fee depends on the number of listed activities in economic license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID\n- Economic License "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "No Objection Certificate (NOC) for Practicing Food Business Activities "
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 8: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License(Original)\n- Passport(Original)\n- Emirates ID(Original)\n- MOA & POA"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 9: Apply for E-Channel",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 7,100 (AED 5,000 is deposit)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Establishment card from ICA\n- Economic license(Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Instant"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Channel access"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 10: Open Employer File",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 2,100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial Licence (Copy)\n- Establishment card - ICA\n- Tenancy contract\n- Passport (copy)\n- Emirates ID (Copy)\n- Form 3 and Form 2\n- Passport for partner (Copy)\n- Emirates ID for the partner (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 Day"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Employer File (14 digit personal number)"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 11: Obtain E-Signature Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/taw-jeeh.png",
+              "title": "TAWJEEH",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 666 9888",
+              "officeHours": "Saturday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Personal number\n- Passport (Copy)\n- Residence visa (Copy)\n- Emirates ID (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Signature Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable if you are a first time business owner"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 12: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,150"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License (Original) + copy\n- Partners names & Passports\n- Establishment card from ICA (Copy)\n- Memorandum of Association (Copy)\n- Power Of Attorney (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 Days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 13: Application for residencies, work permits, insurance, and emirates ID for employees ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 5,000+/employee (amount may vary depending on job title, and category of company)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "For each employee:\n- Copy of employee passport\n- One photo\n- Education certificate\n- Labour file number\n- Original e-signature card"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 - 15 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "- Visa (passport stamp)\n- Work permit\n- Insurance\n- Emirates ID"
+            },
+            {
+              "title": "Contact type",
+              "text": "- Online (for the application)\n- New hires will be required to do physical medical tests + physical biometric finger print scans"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "General Trading",
+      "icon": "/services/business/ded/images/BusinessSetupGuide/icons/general-trading.svg",
+      "link": "general-trading",
+      "info": [
+        {
+          "stepTitle": "Step 1: Obtain  Memorandum of Association (MOA) (if applicable)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500 - 20,000 (Depending on contract value)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document \"Partnership Contract\" to be attested: one copy for each concerned party + a copy for the records\n- Original trade name for review and a copy for their records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "MOA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "Applicable for specific legal forms"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 2: Obtain Power of Attorney (POA)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document 'Power of Attorney' to be attested: a copy for each party + a copy for the records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "POA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 3: Rent and Attest a Property",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Rent contract value Attestation Fees : AED 100 + 5% of rent contract Value"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Owner Emirates ID\n- Passport (Copy)\n- Residency visa (Copy)\n- Personal photos (Copy)\n- Application form\n- Tenants Emirates ID (Original, if applicable tenant Authorized Deputy power of attorney)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Renting a property: 7 days\nAttestation of the contract: 15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Attested Tenancy Contract"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 4: Open a bank account for your company",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/unknown.png",
+              "title": "Bank of choice",
+              "location": "",
+              "phone": "",
+              "officeHours": ""
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Free"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Passport (Copy)\n- Emirates ID (Copy)\n- Copy of sponsor's passport\n- Copy of partner's passport and visa\n- Copy of license\n- Copy of tenancy contract\n- Copy of MOA or service agent agreement"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "9 days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Bank account"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical (at your bank of choice)"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 5: Request for a maintenance and decor permit",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Maintenance Contractor Assignment Letter\n- Maintenance Contractor Trade License\n- Owner's ID (or Power of Attorney, or Investor's ID )\n- Power of Attorney\n- Recent Photos for the 4 sides of the commercial unit\n- Tenancy contract\n- Trade License"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Maintenance and décor permit"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable only if the property does not already have this permit"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 6: Obtain Certificate of Conformity (CoC)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-civil-defense-general-directorate.png",
+              "title": "Civil Defense Authority",
+              "location": "Zayed Sport City, Arab Gulf Street, Near to Shaikh Zayed Mosque",
+              "phone": "800 5000",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.moi.gov.ae/en/eservices/default.aspx?type=23&dir=-1&cat=-1&ben=-1&serName="
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "None - fees are paid with issuance of license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Trade licence (Copy)\n- Certificate of Membership from the Chamber of Commerce and Industry\n- Facility lease contract\n- Designated verified signature(s) for the facility\n- Drafted location and floor plan (to scale) of the facility\n- Passport (Copy)\n- Emirates ID of facility owner(s) (Copy)  "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "30 minutes for the request There may be physical visits (depending on the activity), otherwise you can expect a call and clearance over the phone"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Civil Defence Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": "In some special instances, the Civil Defense Authority may approve without a visit (depending on the activity) - you can contact them directly to clarify this matter."
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 7: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License(Original)\n- Passport(Original)\n- Emirates ID(Original)\n- MOA & POA"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 8: Apply for E-Channel",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 7,100 (AED 5,000 is deposit)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Establishment card from ICA\n- Economic license(Original) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Instant"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Channel access"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 9: Open Employer File",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 2,100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial Licence (Copy)\n- Establishment card - ICA\n- Tenancy contract\n- Passport (copy)\n- Emirates ID (Copy)\n- Form 3 and Form 2\n- Passport for partner (Copy)\n- Emirates ID for the partner (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 Day"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Employer File (14 digit personal number)"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 10: Obtain E-Signature Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/taw-jeeh.png",
+              "title": "TAWJEEH",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 666 9888",
+              "officeHours": "Saturday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Personal number\n- Passport (Copy)\n- Residence visa (Copy)\n- Emirates ID (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Signature Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable if you are a first time business owner"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 11: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,150"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License (Original) + copy\n- Partners names & Passports\n- Establishment card from ICA (Copy)\n- Memorandum of Association (Copy)\n- Power Of Attorney (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 Days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 12: Application for residencies, work permits, insurance, and emirates ID for employees ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 5,000+/employee (amount may vary depending on job title, and category of company)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "For each employee:\n- Copy of employee passport\n- One photo\n- Education certificate\n- Labour file number\n- Original e-signature card"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 - 15 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "- Visa (passport stamp)\n- Work permit\n- Insurance\n- Emirates ID"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online (for the application) New hires will be required to do physical medical tests + physical biometric finger print scans"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Food & Beverages",
+      "icon": "/services/business/ded/images/BusinessSetupGuide/icons/food-and-beverages.svg",
+      "link": "food-and-beverages",
+      "info": [
+        {
+          "stepTitle": "Step 1: Obtain  Memorandum of Association (MOA) (if applicable)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500 - 20,000 (Depending on contract value)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document \"Partnership Contract\" to be attested: one copy for each concerned party + a copy for the records\n- Original trade name for review and a copy for their records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "MOA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "Applicable for specific legal forms"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 2: Obtain Power of Attorney (POA)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document 'Power of Attorney' to be attested: a copy for each party + a copy for the records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "POA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 3: Rent and Attest a Property",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Rent contract value Attestation Fees : AED 100 + 5% of rent contract Value"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Owner Emirates ID\n- Passport (Copy)\n- Residency visa (Copy)\n- Personal photos (Copy)\n- Application form\n- Tenants Emirates ID (Original, if applicable tenant Authorized Deputy power of attorney)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Renting a property: 7 days\nAttestation of the contract: 15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Attested Tenancy Contract"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 4: Open a bank account for your company",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/unknown.png",
+              "title": "Bank of choice",
+              "location": "",
+              "phone": "",
+              "officeHours": ""
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Free"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Passport (Copy)\n- Emirates ID (Copy)\n- Copy of sponsor's passport\n- Copy of partner's passport and visa\n- Copy of license\n- Copy of tenancy contract\n- Copy of MOA or service agent agreement"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "9 days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Bank account"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical (at your bank of choice)"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 5: Request for a maintenance and decor permit",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Maintenance Contractor Assignment Letter\n- Maintenance Contractor Trade License\n- Owner's ID (or Power of Attorney, or Investor's ID )\n- Power of Attorney\n- Recent Photos for the 4 sides of the commercial unit\n- Tenancy contract\n- Trade License"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Maintenance and décor permit"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable only if the property does not already have this permit"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 6: Obtain Certificate of Conformity (CoC)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-civil-defense-general-directorate.png",
+              "title": "Civil Defense Authority",
+              "location": "Zayed Sport City, Arab Gulf Street, Near to Shaikh Zayed Mosque",
+              "phone": "800 5000",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.moi.gov.ae/en/eservices/default.aspx?type=23&dir=-1&cat=-1&ben=-1&serName="
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "None - fees are paid with issuance of license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Trade licence (Copy)\n- Certificate of Membership from the Chamber of Commerce and Industry\n- Facility lease contract\n- Designated verified signature(s) for the facility\n- Drafted location and floor plan (to scale) of the facility\n- Passport (Copy)\n- Emirates ID of facility owner(s) (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "30 minutes for the request There may be physical visits (depending on the activity), otherwise you can expect a call and clearance over the phone"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Civil Defence Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": "In some special instances, the Civil Defense Authority may approve without a visit (depending on the activity) - you can contact them directly to clarify this matter."
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 7: Request NOC for practicing Food business activities ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-agriculture-and-food-safety-authority.png",
+              "title": "ADAFSA",
+              "location": "Mohamed bin Zayed City opposite Mezyed Mall - Abu Dhabi",
+              "phone": "02 818 1111",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "http://www.adafsa.gov.ae/English/Pages/default.aspx"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 0 - AED 1000 per activity Total fee depends on the number of listed activities in economic license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID\n- Economic License "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "No Objection Certificate (NOC) for Practicing Food Business Activities "
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 8: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License(Original)\n- Passport(Original)\n- Emirates ID(Original)\n- MOA & POA"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 9: Apply for E-Channel",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 7,100 (AED 5,000 is deposit)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Establishment card from ICA\n- Economic license(Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Instant"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Channel access"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 10: Open Employer File",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            { "title": "Fees structure", "text": "AED 2,100" },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial Licence (Copy)\n- Establishment card - ICA\n- Tenancy contract\n- Passport (copy)\n- Emirates ID (Copy)\n- Form 3 and Form 2\n- Passport for partner (Copy)\n- Emirates ID for the partner (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 Day"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Employer File (14 digit personal number)"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 11: Obtain E-Signature Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/taw-jeeh.png",
+              "title": "TAWJEEH",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 666 9888",
+              "officeHours": "Saturday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Personal number\n- Passport (Copy)\n- Residence visa (Copy)\n- Emirates ID (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Signature Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable if you are a first time business owner"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 12: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,150"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License (Original) + copy\n- Partners names & Passports\n- Establishment card from ICA (Copy)\n- Memorandum of Association (Copy)\n- Power Of Attorney (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 Days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 13: Application for residencies, work permits, insurance, and emirates ID for employees ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 5,000+/employee (amount may vary depending on job title, and category of company)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "For each employee\n- Copy of employee passport\n- One photo\n- Education certificate\n- Labour file number\n- Original e-signature card"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 - 15 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "- Visa (passport stamp)\n- Work permit\n- Insurance\n- Emirates ID"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online (for the application) New hires will be required to do physical medical tests + physical biometric finger print scans"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Consultancy",
+      "icon": "/services/business/ded/images/BusinessSetupGuide/icons/consultancy.svg",
+      "link": "consultancy",
+      "info": [
+        {
+          "stepTitle": "Step 1: Obtain  Memorandum of Association (MOA) (if applicable)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500 - 20,000 (Depending on contract value)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document \"Partnership Contract\" to be attested: one copy for each concerned party + a copy for the records\n- Original trade name for review and a copy for their records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "MOA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "Applicable for specific legal forms"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 2: Obtain Power of Attorney (POA)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document 'Power of Attorney' to be attested: a copy for each party + a copy for the records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "POA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 3: Rent and Attest a Property",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Rent contract value Attestation Fees : AED 100 + 5% of rent contract Value"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Owner Emirates ID\n- Passport (Copy)\n- Residency visa (Copy)\n- Personal photos (Copy)\n- Application form\n- Tenants Emirates ID (Original, if applicable tenant Authorized Deputy power of attorney)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Renting a property: 7 days\nAttestation of the contract: 15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Attested Tenancy Contract"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 4: Open a bank account for your company",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/unknown.png",
+              "title": "Bank of choice",
+              "location": "",
+              "phone": "",
+              "officeHours": ""
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Free"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Passport (Copy)\n- Emirates ID (Copy)\n- Copy of sponsor's passport\n- Copy of partner's passport and visa\n- Copy of license\n- Copy of tenancy contract\n- Copy of MOA or service agent agreement"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "9 days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Bank account"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical (at your bank of choice)"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 5: Request for a maintenance and decor permit",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Maintenance Contractor Assignment Letter\n- Maintenance Contractor Trade License\n- Owner's ID (or Power of Attorney, or Investor's ID )\n- Power of Attorney\n- Recent Photos for the 4 sides of the commercial unit\n- Tenancy contract\n- Trade License"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Maintenance and décor permit"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable only if the property does not already have this permit"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 6: Obtain Certificate of Conformity (CoC)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-civil-defense-general-directorate.png",
+              "title": "Civil Defense Authority",
+              "location": "Zayed Sport City, Arab Gulf Street, Near to Shaikh Zayed Mosque",
+              "phone": "800 5000",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.moi.gov.ae/en/eservices/default.aspx?type=23&dir=-1&cat=-1&ben=-1&serName="
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "None - fees are paid with issuance of license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Trade licence (Copy)\n- Certificate of Membership from the Chamber of Commerce and Industry\n- Facility lease contract\n- Designated verified signature(s) for the facility\n- Drafted location and floor plan (to scale) of the facility\n- Passport (Copy)\n- Emirates ID of facility owner(s) (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "30 minutes for the request There may be physical visits (depending on the activity), otherwise you can expect a call and clearance over the phone"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Civil Defence Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": "In some special instances, the Civil Defense Authority may approve without a visit (depending on the activity) - you can contact them directly to clarify this matter. "
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 7: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License(Original)\n- Passport(Original)\n- Emirates ID(Original)\n- MOA & POA"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 8: Apply for E-Channel",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 7,100 (AED 5,000 is deposit)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Establishment card from ICA\n- Economic license(Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Instant"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Channel access"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 9: Open Employer File",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial Licence (Copy)\n- Establishment card - ICA\n- Tenancy contract\n- Passport (copy)\n- Emirates ID (Copy)\n- Form 3 and Form 2\n- Passport for partner (Copy)\n- Emirates ID for the partner (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 Day"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Employer File (14 digit personal number)"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 10: Obtain E-Signature Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/taw-jeeh.png",
+              "title": "TAWJEEH",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 666 9888",
+              "officeHours": "Saturday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Personal number\n- Passport (Copy)\n- Residence visa (Copy)\n- Emirates ID (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Signature Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable if you are a first time business owner"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 11: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,150"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License (Original) + copy\n- Partners names & Passports\n- Establishment card from ICA (Copy)\n- Memorandum of Association (Copy)\n- Power Of Attorney (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 Days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 12: Application for residencies, work permits, insurance, and emirates ID for employees ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 5,000+/employee (amount may vary depending on job title, and category of company)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "For each employee:\n- Copy of employee passport\n- One photo\n- Education certificate\n- Labour file number\n- Original e-signature card"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 - 15 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "- Visa (passport stamp)\n- Work permit\n- Insurance\n- Emirates ID"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online (for the application) New hires will be required to do physical medical tests + physical biometric finger print scans"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 13: Application to receive classification",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 50 - AED 90"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "Documents to be submitted depend on type of contracting and type of category  \n- For more information, contact the Department of Municipalities and Transport (DMT)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 week"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Classification Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online Some physical visits may be required if deemed necessary by DMA"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contracting",
+      "icon": "/services/business/ded/images/BusinessSetupGuide/icons/contracting.svg",
+      "link": "contracting",
+      "info": [
+        {
+          "stepTitle": "Step 1: Obtain  Memorandum of Association (MOA) (if applicable)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500 - 20,000 (Depending on contract value)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document \"Partnership Contract\" to be attested: one copy for each concerned party + a copy for the records\n- Original trade name for review and a copy for their records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "MOA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "Applicable for specific legal forms"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 2: Obtain Power of Attorney (POA)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document 'Power of Attorney' to be attested: a copy for each party + a copy for the records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "POA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 3: Rent and Attest a Property",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Rent contract value Attestation Fees : AED 100 + 5% of rent contract Value"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Owner Emirates ID\n- Passport (Copy)\n- Residency visa (Copy)\n- Personal photos (Copy)\n- Application form\n- Tenants Emirates ID (Original, if applicable tenant Authorized Deputy power of attorney)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Renting a property: 7 days\nAttestation of the contract: 15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Attested Tenancy Contract"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 4: Open a bank account for your company",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/unknown.png",
+              "title": "Bank of choice",
+              "location": "",
+              "phone": "",
+              "officeHours": ""
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Free"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Passport (Copy)\n- Emirates ID (Copy)\n- Copy of sponsor's passport\n- Copy of partner's passport and visa\n- Copy of license\n- Copy of tenancy contract\n- Copy of MOA or service agent agreement"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "9 days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Bank account"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical (at your bank of choice)"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 5: Request for a maintenance and decor permit",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Maintenance Contractor Assignment Letter\n- Maintenance Contractor Trade License\n- Owner's ID (or Power of Attorney, or Investor's ID )\n- Power of Attorney\n- Recent Photos for the 4 sides of the commercial unit\n- Tenancy contract\n- Trade License"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Maintenance and décor permit"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable only if the property does not already have this permit"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 6: Obtain Certificate of Conformity (CoC)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-civil-defense-general-directorate.png",
+              "title": "Civil Defense Authority",
+              "location": "Zayed Sport City, Arab Gulf Street, Near to Shaikh Zayed Mosque",
+              "phone": "800 5000",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.moi.gov.ae/en/eservices/default.aspx?type=23&dir=-1&cat=-1&ben=-1&serName="
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "None - fees are paid with issuance of license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Trade licence (Copy)\n- Certificate of Membership from the Chamber of Commerce and Industry\n- Facility lease contract\n- Designated verified signature(s) for the facility\n- Drafted location and floor plan (to scale) of the facility\n- Passport (Copy)\n- Emirates ID of facility owner(s) (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "30 minutes for the request There may be physical visits (depending on the activity), otherwise you can expect a call and clearance over the phone"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Civil Defence Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": "In some special instances, the Civil Defense Authority may approve without a visit (depending on the activity) - you can contact them directly to clarify this matter."
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 7: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License(Original)\n- Passport(Original)\n- Emirates ID(Original)\n- MOA & POA"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 8: Apply for E-Channel",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 7,100 (AED 5,000 is deposit)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Establishment card from ICA\n- Economic license(Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Instant"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Channel access"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 9: Open Employer File",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial Licence (Copy)\n- Establishment card - ICA\n- Tenancy contract\n- Passport (copy)\n- Emirates ID (Copy)\n- Form 3 and Form 2\n- Passport for partner (Copy)\n- Emirates ID for the partner (Copy)  "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 Day"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Employer File (14 digit personal number)"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 10: Obtain E-Signature Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/taw-jeeh.png",
+              "title": "TAWJEEH",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 666 9888",
+              "officeHours": "Saturday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Personal number\n- Passport (Copy)\n- Residence visa (Copy)\n- Emirates ID (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Signature Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable if you are a first time business owner"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 11: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,150"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License (Original) + copy\n- Partners names & Passports\n- Establishment card from ICA (Copy)\n- Memorandum of Association (Copy)\n- Power Of Attorney (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 Days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 12: Application for residencies, work permits, insurance, and emirates ID for employees ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 5,000+/employee (amount may vary depending on job title, and category of company)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "For each employee:\n- Copy of employee passport\n- One photo\n- Education certificate\n- Labour file number\n- Original e-signature card"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 - 15 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "- Visa (passport stamp)\n- Work permit\n- Insurance\n- Emirates ID"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online (for the application) New hires will be required to do physical medical tests + physical biometric finger print scans"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 13: Application to receive classification",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 50 - AED 90"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "Documents to be submitted depend on type of contracting and type of category\n- For more information, contact the Department of Municipalities and Transport (DMT)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 week"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Classification Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online Some physical visits may be required if deemed necessary by DMA"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Personal Care",
+      "icon": "/services/business/ded/images/BusinessSetupGuide/icons/personal-care.svg",
+      "link": "personal-care",
+      "info": [
+        {
+          "stepTitle": "Step 1: Obtain  Memorandum of Association (MOA) (if applicable)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500 - 20,000 (Depending on contract value)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document \"Partnership Contract\" to be attested: one copy for each concerned party + a copy for the records\n- Original trade name for review and a copy for their records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "MOA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "Applicable for specific legal forms"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 2: Obtain Power of Attorney (POA)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document 'Power of Attorney' to be attested: a copy for each party + a copy for the records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "POA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 3: Rent and Attest a Property",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Rent contract value Attestation Fees : AED 100 + 5% of rent contract Value"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Owner Emirates ID\n- Passport (Copy)\n- Residency visa (Copy)\n- Personal photos (Copy)\n- Application form\n- Tenants Emirates ID (Original, if applicable tenant Authorized Deputy power of attorney)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Renting a property: 7 days\nAttestation of the contract: 15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Attested Tenancy Contract"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 4: Open a bank account for your company",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/unknown.png",
+              "title": "Bank of choice",
+              "location": "",
+              "phone": "",
+              "officeHours": ""
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Free"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Passport (Copy)\n- Emirates ID (Copy)\n- Copy of sponsor's passport\n- Copy of partner's passport and visa\n- Copy of license\n- Copy of tenancy contract\n- Copy of MOA or service agent agreement"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "9 days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Bank account"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical (at your bank of choice)"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 5: Request for a maintenance and decor permit",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Maintenance Contractor Assignment Letter\n- Maintenance Contractor Trade License\n- Owner's ID (or Power of Attorney, or Investor's ID )\n- Power of Attorney\n- Recent Photos for the 4 sides of the commercial unit\n- Tenancy contract\n- Trade License"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Maintenance and décor permit"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable only if the property does not already have this permit"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 6: Obtain Certificate of Conformity (CoC)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-civil-defense-general-directorate.png",
+              "title": "Civil Defense Authority",
+              "location": "Zayed Sport City, Arab Gulf Street, Near to Shaikh Zayed Mosque",
+              "phone": "800 5000",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.moi.gov.ae/en/eservices/default.aspx?type=23&dir=-1&cat=-1&ben=-1&serName="
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "None - fees are paid with issuance of license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Trade licence (Copy)\n- Certificate of Membership from the Chamber of Commerce and Industry\n- Facility lease contract\n- Designated verified signature(s) for the facility\n- Drafted location and floor plan (to scale) of the facility\n- Passport (Copy)\n- Emirates ID of facility owner(s) (Copy)  "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "30 minutes for the request There may be physical visits (depending on the activity), otherwise you can expect a call and clearance over the phone"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Civil Defence Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": "In some special instances, the Civil Defense Authority may approve without a visit (depending on the activity) - you can contact them directly to clarify this matter."
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 7: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License(Original)\n- Passport(Original)\n- Emirates ID(Original)\n- MOA & POA"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 8: Apply for E-Channel",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 7,100 (AED 5,000 is deposit)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Establishment card from ICA\n- Economic license(Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Instant"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Channel access"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 9: Open Employer File",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial Licence (Copy)\n- Establishment card - ICA\n- Tenancy contract\n- Passport (copy)\n- Emirates ID (Copy)\n- Form 3 and Form 2\n- Passport for partner (Copy)\n- Emirates ID for the partner (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 Day"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Employer File (14 digit personal number)"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 10: Obtain E-Signature Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/taw-jeeh.png",
+              "title": "TAWJEEH",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 666 9888",
+              "officeHours": "Saturday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Personal number\n- Passport (Copy)\n- Residence visa (Copy)\n- Emirates ID (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Signature Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable if you are a first time business owner"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 11: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,150"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License (Original) + copy\n- Partners names & Passports\n- Establishment card from ICA (Copy)\n- Memorandum of Association (Copy)\n- Power Of Attorney (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 Days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 12: Application for residencies, work permits, insurance, and emirates ID for employees ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 5,000+/employee (amount may vary depending on job title, and category of company)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "For each employee:\n- Copy of employee passport\n- One photo\n- Education certificate\n- Labour file number\n- Original e-signature card"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 - 15 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "- Visa (passport stamp)\n- Work permit\n- Insurance\n- Emirates ID"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online (for the application) New hires will be required to do physical medical tests + physical biometric finger print scans"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sports & Fitness",
+      "icon": "/services/business/ded/images/BusinessSetupGuide/icons/health-and-fitness.svg",
+      "link": "health-and-fitness",
+      "info": [
+        {
+          "stepTitle": "Step 1: Obtain  Memorandum of Association (MOA) (if applicable)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500 - 20,000 (Depending on contract value)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document \"Partnership Contract\" to be attested: one copy for each concerned party + a copy for the records\n- Original trade name for review and a copy for their records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "MOA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "Applicable for specific legal forms"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 2: Obtain Power of Attorney (POA)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/judicial-department.png",
+              "title": "Abu Dhabi Judicial Department",
+              "location": "Al Khaleej Al Arabi Street - Al Rowdah Area - next to Zayed Sports City - Abu Dhabi",
+              "phone": "02 651 2222",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.adjd.gov.ae/En/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Emirates ID (Original) + copy for the records\n- The document 'Power of Attorney' to be attested: a copy for each party + a copy for the records"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "5 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "POA document"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 3: Rent and Attest a Property",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Rent contract value Attestation Fees : AED 100 + 5% of rent contract Value"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Owner Emirates ID\n- Passport (Copy)\n- Residency visa (Copy)\n- Personal photos (Copy)\n- Application form\n- Tenants Emirates ID (Original, if applicable tenant Authorized Deputy power of attorney)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Renting a property: 7 days\nAttestation of the contract: 15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Attested Tenancy Contract"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 4: Open a bank account for your company",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/unknown.png",
+              "title": "Bank of choice",
+              "location": "",
+              "phone": "",
+              "officeHours": ""
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Free"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Passport (Copy)\n- Emirates ID (Copy)\n- Copy of sponsor's passport\n- Copy of partner's passport and visa\n- Copy of license\n- Copy of tenancy contract\n- Copy of MOA or service agent agreement"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "9 days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Bank account"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical (at your bank of choice)"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 5: Request for a maintenance and decor permit",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/department-of-municipal-affairs-and-transport.png",
+              "title": "Department of Municipalities and Transport (DMT)",
+              "location": "7th Floor, Al Mamoura Building - Block B, Al Muroor Road، 4th St",
+              "phone": "02 409 6000",
+              "officeHours": "Sunday - Thursday, 8:30AM - 4:30PM",
+              "websiteUrl": "https://www.dmt.gov.ae/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Maintenance Contractor Assignment Letter\n- Maintenance Contractor Trade License\n- Owner's ID (or Power of Attorney, or Investor's ID )\n- Power of Attorney\n- Recent Photos for the 4 sides of the commercial unit\n- Tenancy contract\n- Trade License"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Maintenance and décor permit"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable only if the property does not already have this permit"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 6: Obtain Certificate of Conformity (CoC)",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-civil-defense-general-directorate.png",
+              "title": "Civil Defense Authority",
+              "location": "Zayed Sport City, Arab Gulf Street, Near to Shaikh Zayed Mosque",
+              "phone": "800 5000",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.moi.gov.ae/en/eservices/default.aspx?type=23&dir=-1&cat=-1&ben=-1&serName="
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "None - fees are paid with issuance of license"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Trade licence (Copy)\n- Certificate of Membership from the Chamber of Commerce and Industry\n- Facility lease contract\n- Designated verified signature(s) for the facility\n- Drafted location and floor plan (to scale) of the facility\n- Passport (Copy)\n- Emirates ID of facility owner(s) (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "30 minutes for the request There may be physical visits (depending on the activity), otherwise you can expect a call and clearance over the phone"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Civil Defence Certificate"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": "In some special instances, the Civil Defense Authority may approve without a visit (depending on the activity) - you can contact them directly to clarify this matter."
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 7: Obtain ADSC License",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/abu-dhabi-sports-council.png",
+              "title": "Abu Dhabi Sports Council",
+              "location": "Zayed Sports City, Gate 16 - Abu Dhabi",
+              "phone": "02 408 8999",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.adsc.ae/en/"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "Depends on the Union Fee"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "Depends on the Union related to the sports activity"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "ADSC License"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online or Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 8: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License(Original)\n- Passport(Original)\n- Emirates ID(Original)\n- MOA & POA"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "15 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 9: Apply for E-Channel",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 7,100 (AED 5,000 is deposit)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Establishment card from ICA\n- Economic license(Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "Instant"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Channel access"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 10: Open Employer File",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,100"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial Licence (Copy)\n- Establishment card - ICA\n- Tenancy contract\n- Passport (copy)\n- Emirates ID (Copy)\n- Form 3 and Form 2\n- Passport for partner (Copy)\n- Emirates ID for the partner (Copy) "
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "1 Day"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Employer File (14 digit personal number)"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 11: Obtain E-Signature Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/taw-jeeh.png",
+              "title": "TAWJEEH",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 666 9888",
+              "officeHours": "Saturday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 500"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Personal number\n- Passport (Copy)\n- Residence visa (Copy)\n- Emirates ID (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 Minutes"
+            },
+            {
+              "title": "Documents issued",
+              "text": "E-Signature Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": "This is applicable if you are a first time business owner"
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 12: Obtain Establishment Card",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 2,150"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "- Commercial License (Original) + copy\n- Partners names & Passports\n- Establishment card from ICA (Copy)\n- Memorandum of Association (Copy)\n- Power Of Attorney (Original)"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "2 Days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "Establishment Card"
+            },
+            {
+              "title": "Contact type",
+              "text": "Physical"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "stepTitle": "Step 13: Application for residencies, work permits, insurance, and emirates ID for employees ",
+          "entities": [
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/united-arab-emirates-ministry-of-human-resources-and-emiratisation.png",
+              "title": "Ministry of Human Resources & Emiratisation",
+              "location": "Musaffah Industrial M25, Abu Dhabi",
+              "phone": "800 60",
+              "officeHours": "Sunday - Thursday, 8:00AM - 2:00PM",
+              "websiteUrl": "https://www.mohre.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/federal-authority-for-identity-and-citizenship.png",
+              "title": "ICA",
+              "location": "19th - Shakhbout Bin Sultan St - Abu Dhabi",
+              "phone": "600 530003",
+              "officeHours": "Sunday - Thursday, 7:00AM - 3:00PM",
+              "websiteUrl": "https://www.ica.gov.ae/en/home.aspx"
+            },
+            {
+              "image": "/services/business/ded/images/BusinessSetupGuide/entities/tas-heel.png",
+              "title": "TASHEEL",
+              "location": "Search the most convenient branch to your location",
+              "phone": "02 444 9444",
+              "officeHours": "Sunday - Thursday, 8:00AM - 8:00PM"
+            }
+          ],
+          "details": [
+            {
+              "title": "Fees structure",
+              "text": "AED 5,000+/employee (amount may vary depending on job title, and category of company)"
+            },
+            {
+              "title": "Documents to be submitted",
+              "text": "For each employee:\n- Copy of employee passport\n- One photo\n- Education certificate\n- Labour file number\n- Original e-signature card"
+            },
+            {
+              "title": "Service delivery time (duration)",
+              "text": "10 - 15 working days"
+            },
+            {
+              "title": "Documents issued",
+              "text": "- Visa (passport stamp)\n- Work permit\n- Insurance\n- Emirates ID"
+            },
+            {
+              "title": "Contact type",
+              "text": "Online (for the application) New hires will be required to do physical medical tests + physical biometric finger print scans"
+            },
+            {
+              "title": "Other",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

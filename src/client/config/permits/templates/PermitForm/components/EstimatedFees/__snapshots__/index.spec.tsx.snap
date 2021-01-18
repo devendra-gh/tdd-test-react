@@ -1,0 +1,865 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`permits/templates/PermitForm/components should render with all props  1`] = `
+<div
+  className="marginT40"
+>
+  <Form.Fieldset
+    buttonGroup={false}
+    className="marginB0"
+    gapSize="default"
+    key="undefined.undefined"
+    title="Table Title"
+    twoColumns={false}
+  >
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "title",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "estimatedFees.description",
+            ],
+            Array [
+              "Test",
+            ],
+            Array [
+              "global.permitFees",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "amount": "undefined 0.00",
+            "id": "0",
+            "title": undefined,
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      className="marginT20"
+    />
+    <div
+      className="summary__group marginB0"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit=""
+        value={0}
+      />
+    </div>
+  </Form.Fieldset>
+</div>
+`;
+
+exports[`permits/templates/PermitForm/components should render with all props for else condition and empty calculateBaseEstimatedPrice & calculateEstimatedFees 1`] = `
+<div
+  className="marginT40"
+>
+  <Form.Fieldset
+    buttonGroup={false}
+    className="marginB0"
+    gapSize="default"
+    key="undefined.undefined"
+    title="Table Title"
+    twoColumns={false}
+  >
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "title",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "estimatedFees.description",
+            ],
+            Array [
+              "Test",
+            ],
+            Array [
+              "global.permitFees",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "amount": "undefined 0.00",
+            "id": "0",
+            "title": undefined,
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      className="marginT20"
+    />
+    <div
+      className="summary__group marginB0"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit=""
+        value={0}
+      />
+    </div>
+  </Form.Fieldset>
+</div>
+`;
+
+exports[`permits/templates/PermitForm/components should render with all props for else condition and null calculateBaseEstimatedPrice & calculateEstimatedFees 1`] = `
+<div
+  className="marginT40"
+>
+  <Form.Fieldset
+    buttonGroup={false}
+    className="marginB0"
+    gapSize="default"
+    key="undefined.undefined"
+    title="Table Title"
+    twoColumns={false}
+  >
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "title",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "estimatedFees.description",
+            ],
+            Array [
+              "Test",
+            ],
+            Array [
+              "global.permitFees",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "amount": "undefined 0.00",
+            "id": "0",
+            "title": undefined,
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      className="marginT20"
+    />
+    <div
+      className="summary__group marginB0"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit=""
+        value={0}
+      />
+    </div>
+  </Form.Fieldset>
+</div>
+`;
+
+exports[`permits/templates/PermitForm/components should render with all props for prefix 1`] = `
+<div
+  className="marginT40"
+>
+  <Form.Fieldset
+    buttonGroup={false}
+    className="marginB0"
+    gapSize="default"
+    key="undefined.undefined"
+    title="Table Title"
+    twoColumns={false}
+  >
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "title",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "estimatedFees.description",
+            ],
+            Array [
+              "Test",
+            ],
+            Array [
+              "global.test",
+            ],
+            Array [
+              "Test Title",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "global.test",
+            ],
+            Array [
+              "Test Title",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "amount": "undefined 10.00",
+            "prefix": "test",
+            "title": "undefined undefined",
+          },
+          Object {
+            "amount": "undefined 10.00",
+            "prefix": "test",
+            "title": "undefined undefined",
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      className="marginT20"
+    />
+    <div
+      className="summary__group marginB0"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit=""
+        value={20}
+      />
+    </div>
+  </Form.Fieldset>
+</div>
+`;
+
+exports[`permits/templates/PermitForm/components should render with all props for suffix 1`] = `
+<div
+  className="marginT40"
+>
+  <Form.Fieldset
+    buttonGroup={false}
+    className="marginB0"
+    gapSize="default"
+    key="undefined.undefined"
+    title="Table Title"
+    twoColumns={false}
+  >
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "title",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "estimatedFees.description",
+            ],
+            Array [
+              "Test",
+            ],
+            Array [
+              "Test Title",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "Test Title",
+            ],
+            Array [
+              "test",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "amount": "undefined 10.00",
+            "suffix": "test",
+            "title": "undefined undefined",
+          },
+          Object {
+            "amount": "undefined 10.00",
+            "suffix": "test",
+            "title": "undefined undefined",
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      className="marginT20"
+    />
+    <div
+      className="summary__group marginB0"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit=""
+        value={20}
+      />
+    </div>
+  </Form.Fieldset>
+</div>
+`;
+
+exports[`permits/templates/PermitForm/components should render with all props perUnitFees defined  1`] = `
+<div
+  className="marginT40"
+>
+  <Form.Fieldset
+    buttonGroup={false}
+    className="marginB0"
+    gapSize="default"
+    key="undefined.undefined"
+    title="Table Title"
+    twoColumns={false}
+  >
+    <ServiceTemplate
+      description=""
+      helpfulBlock={null}
+      process={null}
+      startLogin={null}
+      tables={null}
+      title=""
+    />
+    <LocalizedComponent(Table)
+      clickable={false}
+      columns={
+        Array [
+          Object {
+            "id": "title",
+            "title": undefined,
+          },
+        ]
+      }
+      commonSelection="unchecked"
+      currPage={null}
+      disabledSelectionVisible={false}
+      editable={false}
+      filter={null}
+      headerHidden={false}
+      i18n={
+        [MockFunction] {
+          "calls": Array [
+            Array [
+              "estimatedFees.description",
+            ],
+            Array [
+              "Test",
+            ],
+            Array [
+              "global.permitFees",
+            ],
+            Array [
+              "global.aed",
+            ],
+            Array [
+              "global.aed",
+            ],
+          ],
+          "results": Array [
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+            Object {
+              "type": "return",
+              "value": undefined,
+            },
+          ],
+        }
+      }
+      isSingleSelect={false}
+      items={
+        Array [
+          Object {
+            "amount": "undefined 0.00",
+            "id": "0",
+            "title": undefined,
+          },
+        ]
+      }
+      multiActions={null}
+      onActionClick={[Function]}
+      onClick={[Function]}
+      onFilter={[Function]}
+      onPageResize={[Function]}
+      onPageTurn={[Function]}
+      onRefreshClick={[Function]}
+      onSearch={[Function]}
+      onSelectionChange={[Function]}
+      onSort={[Function]}
+      onToggle={[Function]}
+      pageResizeOptions={Array []}
+      pageSize={null}
+      rowVerticalAlign="top"
+      search=""
+      searchable={false}
+      selectable={false}
+      singleActions={null}
+      size="default"
+      sort={null}
+      status=""
+      title=""
+      total={null}
+    />
+    <div
+      className="marginT20"
+    />
+    <div
+      className="summary__group marginB0"
+    >
+      <LocalizedComponent(Total)
+        buttonDisabled={false}
+        i18n={[Function]}
+        isButtonVisible={false}
+        isValueFirst={false}
+        onClick={null}
+        unit=""
+        value={0}
+      />
+    </div>
+  </Form.Fieldset>
+</div>
+`;

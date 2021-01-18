@@ -1,0 +1,44 @@
+.notice-container {
+  &__dropdown {
+    display: inline;
+
+    .ui-lib-dropdown {
+      width: 267px;
+    }
+
+    .ui-lib-button {
+      width: 100%;
+    }
+  }
+}
+
+.marginTop {
+  margin-top: 4rem;
+}
+
+.align-center {
+  margin: 1rem 2rem 1rem 0;
+  display: inline-flex;
+}
+
+@media (max-width: 576px) {
+  .align-center {
+    width: 100%;
+
+    button {
+      width: 100%;
+    }
+  }
+
+  .notice-container {
+    &__dropdown {
+      .ui-lib-dropdown {
+        width: 100%;
+      }
+
+      .ui-lib-button {
+        justify-content: center;
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Permit Type form should successfully render when serviceType is provided 1`] = `
+<LocalizedComponent(Form)
+  backButton={null}
+  cancelLink={null}
+  help=""
+  i18n={[Function]}
+  id="undertakings"
+  name="undertakings"
+  submitButton={null}
+  validateStatus={null}
+>
+  <Form.Fieldset
+    buttonGroup={false}
+    gapSize="default"
+    key="Gkey.Skey"
+    title=""
+    twoColumns={false}
+  >
+    <Checkbox
+      checked={true}
+      elementType="checkBox"
+      label="fieldLalel"
+      name="approved"
+      onChange={[Function]}
+      validateStatus=""
+    />
+    <div>
+      <ul
+        className="PermitForm__form-tac-ui"
+      >
+        <li
+          key="0"
+        />
+      </ul>
+      <p
+        className="termsTitle marginT20"
+      />
+    </div>
+  </Form.Fieldset>
+</LocalizedComponent(Form)>
+`;

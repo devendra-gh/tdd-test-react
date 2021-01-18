@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Html renders 1`] = `
+<Html
+  analyticsConfig={
+    Object {
+      "host": "",
+      "key": "",
+    }
+  }
+  app={Object {}}
+  description="some description"
+  mode={Array []}
+  scripts={Array []}
+  scriptsHead={Array []}
+  staticUrl=""
+  styles={Array []}
+  title="some title"
+  url="some url"
+>
+  <html
+    className="no-js"
+    lang="en"
+  >
+    <head>
+      <meta
+        content="GIT_TAG"
+        name="release"
+      />
+      <link
+        href="/ui-lib/colors-dynamic.css"
+        rel="stylesheet"
+      />
+    </head>
+    <body>
+      <div
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "",
+          }
+        }
+        id="app"
+      />
+      <script
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "{}",
+          }
+        }
+        id="staticData"
+        type="json"
+      />
+      <script
+        id="analyticsScript"
+        src="/analytics/index.js?key=&host="
+      />
+    </body>
+  </html>
+</Html>
+`;
+
+exports[`Html renders with scripts and styles 1`] = `
+<Html
+  analyticsConfig={
+    Object {
+      "host": "",
+      "key": "",
+    }
+  }
+  app={Object {}}
+  description="some description"
+  mode={
+    Array [
+      "mode1",
+    ]
+  }
+  scripts={
+    Array [
+      "a.css?r=GIT_TAG",
+      "b.css?r=GIT_TAG",
+      "c.js?r=GIT_TAG",
+      "d.js?r=GIT_TAG",
+    ]
+  }
+  scriptsHead={Array []}
+  staticUrl=""
+  styles={
+    Array [
+      Object {
+        "cssText": "x content",
+        "id": "x",
+      },
+      Object {
+        "cssText": "y content",
+        "id": "y",
+      },
+    ]
+  }
+  title="some title"
+  url="some url"
+>
+  <html
+    className="mode__mode1 no-js"
+    lang="en"
+  >
+    <head>
+      <meta
+        content="GIT_TAG"
+        name="release"
+      />
+      <link
+        href="/ui-lib/colors-dynamic.css"
+        rel="stylesheet"
+      />
+      <style
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "x content",
+          }
+        }
+        id="x"
+        key="x"
+      />
+      <style
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "y content",
+          }
+        }
+        id="y"
+        key="y"
+      />
+    </head>
+    <body>
+      <div
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "",
+          }
+        }
+        id="app"
+      />
+      <script
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "{}",
+          }
+        }
+        id="staticData"
+        type="json"
+      />
+      <script
+        key="a.css?r=GIT_TAG"
+        src="a.css?r=GIT_TAG?r=GIT_TAG"
+      />
+      <script
+        key="b.css?r=GIT_TAG"
+        src="b.css?r=GIT_TAG?r=GIT_TAG"
+      />
+      <script
+        key="c.js?r=GIT_TAG"
+        src="c.js?r=GIT_TAG?r=GIT_TAG"
+      />
+      <script
+        key="d.js?r=GIT_TAG"
+        src="d.js?r=GIT_TAG?r=GIT_TAG"
+      />
+      <script
+        id="analyticsScript"
+        src="/analytics/index.js?key=&host="
+      />
+    </body>
+  </html>
+</Html>
+`;
